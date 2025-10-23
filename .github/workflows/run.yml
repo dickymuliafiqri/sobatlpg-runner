@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        with:
+          repository: dickymuliafiqri/sobatlpg
+          ref: main
+          token: ${{ secrets.GIT_TOKEN }}
+
+      - name: Cache browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/
+          key: ${{ runner.os }}-browser-${{ hashFiles('go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-browser-
+  
+      - name: Run
+        run: go run cmd/sobatlpg/main.go
