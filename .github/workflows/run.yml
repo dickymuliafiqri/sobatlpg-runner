@@ -26,4 +26,6 @@ jobs:
             ${{ runner.os }}-browser-
   
       - name: Run
-        run: ./sobatlpg
+        run: |
+          chmod +x ./sobatlpg
+          ./sobatlpg
