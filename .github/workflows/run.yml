@@ -11,7 +11,10 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: release-downloader
+      - name: Get dotenv
+        run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
+
+      - name: Download Binary
         uses: robinraju/release-downloader@v1.12
         with:
           latest: true
@@ -29,3 +32,12 @@ jobs:
         run: |
           chmod +x ./sobatlpg
           ./sobatlpg
+
+      - name: Push Result
+        if: ${{ always() }}
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "actions@github.com"
+          git add database/*
+          git commit -m "update data"
+          git push origin main
