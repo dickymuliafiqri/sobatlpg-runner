@@ -1,10 +1,10 @@
-name: CI
+name: Running Bot
 
 on:
   workflow_dispatch:
 
 jobs:
-  build:
+  run:
     runs-on: ubuntu-latest
 
     steps:
