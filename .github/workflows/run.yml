@@ -10,10 +10,12 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+
+      - name: release-downloader
+        uses: robinraju/release-downloader@v1.12
         with:
-          repository: dickymuliafiqri/sobatlpg
-          ref: main
-          token: ${{ secrets.GIT_TOKEN }}
+          latest: true
+          fileName: sobatlpg
 
       - name: Cache browsers
         uses: actions/cache@v4
@@ -24,4 +26,4 @@ jobs:
             ${{ runner.os }}-browser-
   
       - name: Run
-        run: go run cmd/sobatlpg/main.go
+        run: ./sobatlpg
