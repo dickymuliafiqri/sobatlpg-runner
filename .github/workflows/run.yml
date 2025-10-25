@@ -2,10 +2,15 @@ name: Running Bot
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [cron_job]
+concurrency:
+  group: ${{ github.workflow }}
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout Repo
@@ -41,3 +46,9 @@ jobs:
           git add database/*
           git commit -m "update data"
           git push origin main
+
+      - name: Call dispatch
+        if: ${{always()}}
+        uses: peter-evans/repository-dispatch@v3.0.0
+        with:
+          event-type: cron_job
