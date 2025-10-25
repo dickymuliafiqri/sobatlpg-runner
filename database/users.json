@@ -127,9 +127,9 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
-    "lastUpdate": "2025-10-25T08:14:13Z",
-    "cycle": 3
+    "stock": 20,
+    "lastUpdate": "2025-10-25T11:18:34Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -236,14 +236,14 @@
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 100,
-    "lastUpdate": "2025-10-25T11:13:02Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-25T11:21:18Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 23,
-    "lastUpdate": "2025-10-25T11:13:18Z",
-    "cycle": 1
+    "stock": 16,
+    "lastUpdate": "2025-10-25T11:21:28Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
