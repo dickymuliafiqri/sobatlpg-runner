@@ -218,10 +218,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
-    "lastUpdate": "2025-10-26T04:23:44Z",
-    "cycle": 2,
-    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiZGVlNWY0Mi05MGI5LTQ3YjEtOGU0Ny1jYjg0ZTJkNDRjMzIiLCJpYXQiOjE3NjE0NTI2MzAsImV4cCI6MTc2MTQ1MzUzMCwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.lgItheZ37I-8uhHgPocFpyYJRaj5li4Nln8JFdZaaqjKkjAeipsA3qXtPW1wI-pcK0FbVLDsij9M6Z6t1pvQFqWT0-SJIksSCycSkOqVAvJpIaxxXuE86RugFSaG9PA7dgzcvaWLdZ-iqW2VgZhevU6-J6SlwfGR_PeaH0i9XgRejasPO0usMgSwmx_m3HUFtIVClL5qupnfqgwAOI9N3k7bW-eXM9Sd3EzJETwIXBWVcl0nXbYIJhbIuEYT2ppDw-gtNvif_S-ckTYAGd2GTE9j-RapKUy-e3fcyVvETuvWy1oPLW92OFvJNVrDCUByeN7YcMkEBTp9252sZWf60pRBms8vCD8eHg-n-Av76K1w2BbVl5CCl3lquZPuunotc8AZhtr2tazWJNEn7pNaRNBvjq6g89UJgrT2IIGEOQiusIOq7K_LqnoPBgcvDhmh0lEchwRrh--_Ht3b39qqfcekwy33EnAzCgjoF27E7cJ-xgrQUAsdjB5XFytAqhC4hWrMbP_sGkNl6vTr7o4hc4tWfRMQj6SYkPmG4KtpcTXFiTgwXwkHCQXfT9SVjm3alV2FyoqlejoA_Z1_SJh2zWxAWKjBx_qrX9wQn6mOi3N1TxSz2f1qKCXlY1kRQUSAMZjiFmm096PBG11XhTUjSP-7i87Gn3LGPtlouJISz9s"
+    "stock": 0,
+    "lastUpdate": "2025-10-26T04:26:29Z",
+    "cycle": 3,
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiZGVlNWY0Mi05MGI5LTQ3YjEtOGU0Ny1jYjg0ZTJkNDRjMzIiLCJpYXQiOjE3NjE0NTI3OTYsImV4cCI6MTc2MTQ1MzY5NiwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.lQpJOkmpFOzGw9VkNX_R58dYXueKeGrjgLi3jK32FNpIdKi6JyzsKtqTMvLaM-0z1kmM79IDwyAI6E_mkXK5SDHVyLHks8dFn2muwJ4oPY1YwrlhAKRHrkCZ2cVp8DbnDXEMXDC03dGUMBL_cte4YuSZCjh9DJSzAaCtxIWfhqxNjJC9qOiteoLkAzm8VtiGNHNWPXuq5R-RCcpGIMddoHIyKacl09wStvxWQMgCEgnWo9U_e2JJbmUmslMWd6NAqhTezuZt_VB1nmJLooxOclP_K2THWR2l3-r0-QawWBn-SHi8lc6y1zIIQ73hydd5CUJN5_jPgf568MVY678rDT6Euq3YM5ntnred6TcJkZOZPuJMnd0rqbuYTnVERy6QyknNpt_frKd4JF1xRV1yALJtqrydBwWvhUAAxMwZO3y8m6jWRDDlHndtTlh52cbcXmNUue_jreMi6ACRslfQyAW5gCz0b7qDxaj2e9-Tji-rc4FlJM9Ueddck2nM86kUcjJL1yqPolVDly8cK-ohJoWbnH7PhfrEapU4IY6ej1pVlLCq92Prgs4uW4Jtudn4RwtsbfyzozJLGu5PIQNLjc_szWzb_Q8RzecxcT84vrdWImDo6OS7MpB33vZDcf-kRoomELtE1VOOSKs_wwODoTD6gidzhC5HgiUSBWBmFVI"
   },
   {
     "name": "ROSIDI",
@@ -239,17 +239,17 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
-    "lastUpdate": "2025-10-25T10:40:59Z",
-    "cycle": 0,
-    "Authorization": ""
+    "stock": 3,
+    "lastUpdate": "2025-10-26T04:28:32Z",
+    "cycle": 1,
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjYzY1NDBiNi03YjdhLTQ1NGYtOWYyMi02NzVkNmNlMTdjNDEiLCJpYXQiOjE3NjE0NTI5MTQsImV4cCI6MTc2MTQ1MzgxNCwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.Ydf68dMzqoEI-at1znnpojq-35yaOXrmM3IwWX4Lz2OpHlT9Z5z8LQPKmT3ioiffE1g-lkbOcZoOls6SgxmWf1YJ2AfA-9o-7tW8IVLKA-1pTbR-ExiCk8j9Jvfv3E5uEid33qjvLLlxB_OBEMJjYSd_mh6D8lDeLBUVzZPNbro9lkVgI4-gk-Z1X6F2ZTtKtnWIQ7heivF6qKPDYH9BK4YP0160lxB5fJWPWVWrCOM15EswI2AYePEtyvED_2qgv0N_ZqCi6mv8O151M1GcoILTjUUJXmBv9SBgseuQldOI7z1eBzOGbwG1WToLZbU5PaYubAkry7Jpj-OFqiIkq6dzkffbjC4_1bXOPynAs8kOR7-r9pxL-KewixgRg5HVpSxSc2O565nOVVOz-VC-kxVth6WSSBzMaqR459nyZqGOI67c2-WJkqvsavtAS3vchvRqieQ4Chf-z5DkzMQv69eAI3wSFJ323n3-mP2yt1IG9kN8LREPn9_YRskpqUnGBAEDlC0uzV3JudqZ41I4kRYI1ufG59GjYZwdneUwrJJQb07SBH_6fxCumPOs48VGxGiXNrXbuGHlWd5Nhzf01Caatbsk2a7ls0XtN3JyFzQ6kPu0BWVhUt-tIHWqs6ZQabn9OBpvWoTTDt0xBz3qqbRIzd9HkLYHR9YGVCyRpoU"
   },
   {
     "name": "SRI UTAMI",
-    "stock": 100,
-    "lastUpdate": "2025-10-25T10:41:57Z",
-    "cycle": 0,
-    "Authorization": ""
+    "stock": 0,
+    "lastUpdate": "2025-10-26T04:30:05Z",
+    "cycle": 1,
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZDM0Y2JlZS0zOGQ0LTQzNzEtYTZlZi1jYzk4NzY0ZTE3MjIiLCJpYXQiOjE3NjE0NTMwMDcsImV4cCI6MTc2MTQ1MzkwNywiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.Nz7JuNgvE3uu950aPiVIQRCVemRDEQ0izoX0g7e5X66_gnbmEGIpFAzTy97GlHGWWqZaMw0KQgB1KRqDl8zYHtdcWGqH_SJp4wuWamUiVwvWQojSh-Vt4RnFUvj3_WIcgYmMc9qc5Oceq3rmuGIBnnbxEAW7na_KiSGm0RcsOnKX_IsFE6m9w22DMsWcT2Z-Z8cYoHN5F0NJUnfRFN8gk5jD31ufTAM4DcDj64Y-yhI48_4rJhCGZSLl0AsfiV2sLgfj8vqkvMivWLzqyVTJRrwhb9f22qmBu4MAU1itDa7puGy29tsm4ZgU78ypRarG8Rzg7-rPQiaz5bzVzhqxCKulIkxgz5bL5BsJfxg5pJbaGb97VK720iKqV2WFZhA1rxOjafVcEKdol7VSFUT7qsy-7UO76V5EuMPiOlhwgeYmiR1hv7sWZ_n-57EzsKY7QXUdFMq9Ehd58Es8Qj9muNygn4soQu1iyo2twdwOkD10LCIWbniu8YJg85ZzKsfPIVINMp2djpjqmoQbmB9fX2EJAMMDD5dcweMby4qAmq1YTQjqZXC3nHjHRB44uCh3Bj73reWx24Q4mgPwoJSzhzAciT-EEKw-xy674U6RZhDb9JMSIAEiJyIO_sJLUNhAg8O0eCqaB-H4DcbNftqUkLy64TJqW_X2TQPpd-s9iKY"
   },
   {
     "name": "ULFA MARIA",
