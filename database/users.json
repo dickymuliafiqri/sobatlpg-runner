@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
-    "lastUpdate": "2025-10-26T15:01:28Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-10-26T15:09:21Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 62,
-    "lastUpdate": "2025-10-26T15:04:44Z",
-    "cycle": 2
+    "stock": 54,
+    "lastUpdate": "2025-10-26T15:09:21Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 2,
-    "lastUpdate": "2025-10-26T15:04:59Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-26T15:10:59Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
