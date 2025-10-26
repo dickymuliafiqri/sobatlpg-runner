@@ -267,24 +267,24 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 100,
-    "lastUpdate": "2025-10-25T11:12:25Z",
-    "cycle": 0,
-    "Authorization": ""
+    "stock": 0,
+    "lastUpdate": "2025-10-26T04:32:41Z",
+    "cycle": 1,
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzYmVmZTZlNy05YjA3LTRkNjAtYWJhYy0wN2I3ZGMyMTJjOWIiLCJpYXQiOjE3NjE0NTMxNjgsImV4cCI6MTc2MTQ1NDA2OCwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.H7x3N5QZENihUf0q4-PfqyqwBCBcMFPRDFUGGmSLIlK66lbT8IbL8kqYdZQOErNb-4hXxB5zAD2fTxM1ozkaAGWDvfmqhDeLib_uZki1LnafcH5FqMSM175Y5IiGBmPMVmuK2gGfQ4bKtGhGL1ZyvCqRyNbnsWrznNousVAxKUgjgWWTmCqiH32KIzZ0U8rIGwgIQBNpnbVld5ws7yspVNTPnJwHpay86UEPkcAt6MjIk_58iddmwINQktKFMEajb9D7jPqaOO81V4EgWkm5Psc47ZhD7SOMCfAeBKK4m6mq8Zr9o56ehKxQ7Xac-0AXoLW-Wd3vgQFLu2eZ8gTsayrGBfjKwuSw9IkUObJ3PPT1TiD8c1zB9LFMqseRodMRDXTJW2pF6g5uxhqn3b5siYbclaopsFeQ55GXBzkojTTYTv5LGYUQ9bib0UD5WcyfRZCG8Wudg2Fp-iz8EsOzFpA4YnY2M8qwxROGQRGh-lF8C-T2yYxcRMj1tc4_tfVXuEhGoyRyysuQoKMSGZSUe5rAFC80aMH8fQLPutK-uUhc_WcwYsLTLr63P-s8H3-n2mHXE90mBPhqQwO1hqjcxRj3MgCaokpK7C5dXwEh_Z3PO9A0vgOGUCnk8x4GUlUZOF9-Ofw9GhlLordVIsLO8LJY-rU8vcqFoLlgNpXKIlQ"
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 100,
-    "lastUpdate": "2025-10-25T11:30:44Z",
-    "cycle": 0,
-    "Authorization": ""
+    "stock": 0,
+    "lastUpdate": "2025-10-26T04:33:03Z",
+    "cycle": 1,
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MTExZWRmMi1hNDBlLTQxZTItYWNlNS1iZDRmZGNlMzYzMzYiLCJpYXQiOjE3NjE0NTMxODUsImV4cCI6MTc2MTQ1NDA4NSwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.DXgkdTxt-OdQKejCKU2s0ITzYJkX6-J9A3yZ9mgL3jpDfL_T0qgzGdEGsoR0v6E0DoyhNAOOgRwK9bFLeGhHTKXw6F6E7l-ixSrIBtQ9xehIkYkxBfmdCWaHOXDQO3v4NxqahiVGBte1msWE1y59ZEOz2u4tWXzNJ827k8CxdK-bWBJrpX70mQq7bzWUtPS8tCmDrqKE1o-Iqvi4a4-hq9fbYMGKDAHyBjIBr_lp4n2CPMI2pPPRp4h-LiiSND11LLWxsuPaqgU-E87J82j8Q7Q-6Pekgw5bxMvQG2KYkL9zw2yYk4Qz8cfoNZvFOxBdzEGeRQ2Ux5pwTFAi9cG1nLPSfKDs_RKjLBJR3QB0j-qNklV14Wh9FzylHzYuDBF_RFg-m2F-JUhY-Cv-KSmlJiwN5QcQj6hhJdiyYVsJwthzz5gfKCdGHvnYli81z5kfwLUMeuo3RjTn2w97RbQb6BRj_4mXZxbF2zuejX9kmFwkPQ7WZnZNYBlX_-_J7Ap8oHlvZ3htfIIiW3XzVk0kX58zx7ZMw9GmKrnyKaZA4zYBJ963G6zW33-SfhucjzrRE3OGbGg3tdrJKY2VTrfe-aEJfGZLsx_YhrbyzjEuC9p4sB58JozZ-C23EhBM92UIOTJA_QUq509OPGEEMxNPGKthBEJIwLSBuv01gShxvhA"
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 3,
-    "lastUpdate": "2025-10-25T11:33:43Z",
-    "cycle": 0,
-    "Authorization": ""
+    "stock": 6,
+    "lastUpdate": "2025-10-26T04:33:19Z",
+    "cycle": 1,
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmNzMxZmY3Mi02ZTljLTRlNjEtODMzYy1jNjZhZmQ2NjM0NzUiLCJpYXQiOjE3NjE0NTMyMDEsImV4cCI6MTc2MTQ1NDEwMSwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.dEYfhrdngnr0uiqX4_kfqE2AnERkfmQuuWX8Qz5_BhWkEt6-1dOJDKXjXjt9FbI4tpKn2JNxKjD01eFGQJNDtXq-Zwk43HzaX4kcbBSHGm35gplTD5SbAjCLJPK8X76BwRHaE7NevfYSf6obZVER051C0Wnpku7_aNwVtYGf9MaMQCmYY8W9idhM4p_v3KQ6TaWkpZxeoVBreje0UcW6sz69ELJA8H4EKCAtJNqVy0hot6hGW4Q-5JRN0Ucsb3nmABpzs7ej2d4NdeodMS4l2PvhpDt6L8Dyk5r41VptpFw2uopcqSzBKb7DC1oxmaV8Cb8V_IRnuQVnxqPyZ5OmJWxj_wwfbgl1-co7IOzTl1kiPnaugsUQ6ee6gJpO3zTtT6TQxZQ-zPeNxdP6kOp2kyU-vhiMuqrFDiQsQpQTUPgJqkSlLOKY0NMmjV9R_IG0h40b_zpgkA0DfUrXGKumob5PjupCu427N1AunPoq3aCWAL6JcD3QP9S8ZR6sK8vC2Ceq6ZK49uzCcyGajCeLlihMIFIh-F4LFBr0T_LiND7RnW2xz1rT64-6LeK5bVZfqj-UICazGBHKCiXWGFHkvY0YBYanJMaNWFKwLoM3yjDRyHBjOdHHJ3_Cen2XRgKeQJrvAf4q3asSXbw0wFrQqnXCsSfi3eQUkm2tpUlQ7Ko"
   },
   {
     "name": "SUROSO",
