@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
-    "lastUpdate": "2025-10-27T18:24:49Z",
-    "cycle": 0
+    "stock": 93,
+    "lastUpdate": "2025-10-27T21:24:58Z",
+    "cycle": 1
   },
   {
     "name": "AKBAR RISQ",
@@ -170,8 +170,8 @@
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "lastUpdate": "2025-10-27T18:24:49Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T21:24:58Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 21,
-    "lastUpdate": "2025-10-27T21:21:40Z",
-    "cycle": 1
+    "stock": 14,
+    "lastUpdate": "2025-10-27T21:25:23Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
