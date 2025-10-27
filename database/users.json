@@ -110,8 +110,8 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-10-27T07:20:09Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T10:22:08Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -175,21 +175,21 @@
   },
   {
     "name": "ROSA V",
-    "stock": 13,
-    "lastUpdate": "2025-10-27T10:19:18Z",
-    "cycle": 1
+    "stock": 12,
+    "lastUpdate": "2025-10-27T10:22:08Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
-    "lastUpdate": "2025-10-27T07:20:09Z",
-    "cycle": 0
+    "stock": 54,
+    "lastUpdate": "2025-10-27T10:22:50Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-10-27T07:21:35Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T10:24:00Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
