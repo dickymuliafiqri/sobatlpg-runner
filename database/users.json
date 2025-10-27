@@ -104,8 +104,8 @@
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
-    "lastUpdate": "2025-10-27T08:49:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T11:55:48Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -397,9 +397,9 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 3,
-    "lastUpdate": "2025-10-27T11:51:29Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-10-27T11:55:48Z",
+    "cycle": 5
   },
   {
     "name": "SALMAH",
@@ -409,15 +409,15 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
-    "lastUpdate": "2025-10-27T08:00:57Z",
-    "cycle": 0
+    "stock": 38,
+    "lastUpdate": "2025-10-27T11:56:15Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "lastUpdate": "2025-10-27T08:01:25Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T11:57:41Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
