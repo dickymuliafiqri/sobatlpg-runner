@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 61,
-    "lastUpdate": "2025-10-27T21:45:33Z",
-    "cycle": 2
+    "stock": 54,
+    "lastUpdate": "2025-10-27T21:51:25Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -49,9 +49,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 92,
-    "lastUpdate": "2025-10-27T21:45:33Z",
-    "cycle": 1
+    "stock": 81,
+    "lastUpdate": "2025-10-27T21:51:25Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -115,9 +115,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 94,
-    "lastUpdate": "2025-10-27T21:48:37Z",
-    "cycle": 1
+    "stock": 87,
+    "lastUpdate": "2025-10-27T21:54:01Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -164,8 +164,8 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-10-27T18:50:59Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T21:55:40Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
