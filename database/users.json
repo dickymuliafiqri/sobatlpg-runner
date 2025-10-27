@@ -109,15 +109,15 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 22,
-    "lastUpdate": "2025-10-27T03:07:00Z",
-    "cycle": 4
+    "stock": 16,
+    "lastUpdate": "2025-10-27T03:11:31Z",
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
-    "stock": 50,
-    "lastUpdate": "2025-10-27T03:07:00Z",
-    "cycle": 3
+    "stock": 43,
+    "lastUpdate": "2025-10-27T03:11:31Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -146,14 +146,14 @@
   {
     "name": "P. SUK",
     "stock": 0,
-    "lastUpdate": "2025-10-26T20:21:24Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T03:14:26Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2025-10-26T20:21:24Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T03:14:41Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
