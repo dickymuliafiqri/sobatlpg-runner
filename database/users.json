@@ -217,9 +217,9 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 7,
-    "lastUpdate": "2025-10-27T10:47:21Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-10-27T10:49:47Z",
+    "cycle": 5
   },
   {
     "name": "BAMBANG HARTONO",
@@ -260,20 +260,20 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "lastUpdate": "2025-10-27T07:37:07Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T10:49:47Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
-    "lastUpdate": "2025-10-27T07:37:53Z",
-    "cycle": 0
+    "stock": 17,
+    "lastUpdate": "2025-10-27T10:50:16Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
-    "lastUpdate": "2025-10-27T07:38:18Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T10:53:03Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
