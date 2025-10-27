@@ -91,15 +91,15 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 10,
-    "lastUpdate": "2025-10-27T04:03:26Z",
-    "cycle": 1
+    "stock": 5,
+    "lastUpdate": "2025-10-27T04:08:30Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
-    "stock": 9,
-    "lastUpdate": "2025-10-27T04:05:01Z",
-    "cycle": 1
+    "stock": 2,
+    "lastUpdate": "2025-10-27T04:08:30Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 16,
-    "lastUpdate": "2025-10-27T03:11:31Z",
-    "cycle": 0
+    "stock": 9,
+    "lastUpdate": "2025-10-27T04:11:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -128,8 +128,8 @@
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "lastUpdate": "2025-10-27T00:48:51Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-27T04:12:12Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
