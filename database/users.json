@@ -115,9 +115,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 20,
-    "lastUpdate": "2025-10-28T05:09:57Z",
-    "cycle": 3
+    "stock": 15,
+    "lastUpdate": "2025-10-28T05:13:33Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -170,8 +170,8 @@
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "lastUpdate": "2025-10-28T00:48:05Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T05:13:33Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -278,14 +278,14 @@
   {
     "name": "SUPARNI",
     "stock": 0,
-    "lastUpdate": "2025-10-27T19:54:24Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T05:13:59Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
-    "lastUpdate": "2025-10-27T19:55:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T05:14:25Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
