@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 36,
-    "lastUpdate": "2025-10-28T21:19:21Z",
-    "cycle": 3
+    "stock": 30,
+    "lastUpdate": "2025-10-28T21:23:03Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -176,8 +176,8 @@
   {
     "name": "ROSA V",
     "stock": 0,
-    "lastUpdate": "2025-10-28T18:22:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T21:23:03Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
