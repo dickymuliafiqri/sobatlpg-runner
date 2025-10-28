@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 73,
-    "lastUpdate": "2025-10-28T21:25:44Z",
-    "cycle": 1
+    "stock": 69,
+    "lastUpdate": "2025-10-28T21:29:36Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
@@ -194,8 +194,8 @@
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-10-28T18:25:19Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T21:29:36Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -206,8 +206,8 @@
   {
     "name": "YUDA",
     "stock": 0,
-    "lastUpdate": "2025-10-28T18:28:44Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T21:29:59Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
