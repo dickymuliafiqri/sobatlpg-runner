@@ -123,12 +123,12 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastUpdate": "2025-10-28T12:38:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "lastUpdate": "2025-10-28T09:43:00Z",
+    "lastUpdate": "2025-10-28T12:43:02Z",
     "cycle": 0
   },
   {
@@ -201,7 +201,7 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastUpdate": "2025-10-28T12:38:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
@@ -237,31 +237,31 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastUpdate": "2025-10-28T12:38:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastUpdate": "2025-10-28T12:41:24Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastUpdate": "2025-10-28T12:41:24Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastUpdate": "2025-10-28T12:41:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastUpdate": "2025-10-28T12:41:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -433,8 +433,8 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 17,
-    "lastUpdate": "2025-10-28T12:38:46Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-28T12:43:02Z",
+    "cycle": 0
   }
 ]
