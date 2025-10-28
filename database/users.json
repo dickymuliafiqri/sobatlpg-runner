@@ -206,8 +206,8 @@
   {
     "name": "YUDA",
     "stock": 0,
-    "lastUpdate": "2025-10-28T09:28:39Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T12:28:39Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -433,8 +433,8 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 29,
-    "lastUpdate": "2025-10-28T12:21:10Z",
-    "cycle": 3
+    "stock": 25,
+    "lastUpdate": "2025-10-28T12:28:39Z",
+    "cycle": 4
   }
 ]
