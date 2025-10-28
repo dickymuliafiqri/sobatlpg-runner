@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 61,
-    "lastUpdate": "2025-10-28T21:32:16Z",
-    "cycle": 3
+    "stock": 55,
+    "lastUpdate": "2025-10-28T21:35:29Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
@@ -212,14 +212,14 @@
   {
     "name": "SRI UTAMI",
     "stock": 0,
-    "lastUpdate": "2025-10-28T18:34:22Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T21:35:29Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-10-28T18:34:22Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T21:35:53Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
