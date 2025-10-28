@@ -139,9 +139,9 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
-    "lastUpdate": "2025-10-28T11:31:47Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-28T11:35:25Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
@@ -157,9 +157,9 @@
   },
   {
     "name": "JONI H",
-    "stock": 14,
-    "lastUpdate": "2025-10-28T11:31:48Z",
-    "cycle": 1
+    "stock": 7,
+    "lastUpdate": "2025-10-28T11:35:25Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -308,14 +308,14 @@
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "lastUpdate": "2025-10-28T08:28:17Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T11:36:27Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
-    "lastUpdate": "2025-10-28T08:29:01Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T11:36:52Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
