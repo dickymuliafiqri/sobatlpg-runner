@@ -86,8 +86,8 @@
   {
     "name": "MOH SAID",
     "stock": 0,
-    "lastUpdate": "2025-10-28T08:43:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T11:45:45Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -325,9 +325,9 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 21,
-    "lastUpdate": "2025-10-28T11:42:27Z",
-    "cycle": 2
+    "stock": 14,
+    "lastUpdate": "2025-10-28T11:45:45Z",
+    "cycle": 3
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -362,14 +362,14 @@
   {
     "name": "BUDI",
     "stock": 0,
-    "lastUpdate": "2025-10-28T08:33:19Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T11:46:10Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-10-28T08:34:18Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T11:46:35Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
