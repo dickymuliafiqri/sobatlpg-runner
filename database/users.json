@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 43,
-    "lastUpdate": "2025-10-28T21:15:58Z",
-    "cycle": 2
+    "stock": 36,
+    "lastUpdate": "2025-10-28T21:19:21Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -164,8 +164,8 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-10-28T18:16:39Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T21:19:21Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
