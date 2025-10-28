@@ -121,9 +121,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 33,
-    "lastUpdate": "2025-10-28T21:51:13Z",
-    "cycle": 4
+    "stock": 26,
+    "lastUpdate": "2025-10-28T21:55:05Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -433,8 +433,8 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
-    "lastUpdate": "2025-10-28T18:43:22Z",
-    "cycle": 0
+    "stock": 10,
+    "lastUpdate": "2025-10-28T21:55:05Z",
+    "cycle": 1
   }
 ]
