@@ -157,9 +157,9 @@
   },
   {
     "name": "JONI H",
-    "stock": 7,
-    "lastUpdate": "2025-10-28T11:35:25Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-10-28T11:38:48Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -320,20 +320,20 @@
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
-    "lastUpdate": "2025-10-28T08:30:33Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T11:38:48Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
-    "lastUpdate": "2025-10-28T08:31:16Z",
-    "cycle": 0
+    "stock": 26,
+    "lastUpdate": "2025-10-28T11:39:12Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
-    "lastUpdate": "2025-10-28T08:31:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-28T11:41:47Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
