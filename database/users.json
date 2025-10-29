@@ -277,9 +277,9 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 12,
-    "lastUpdate": "2025-10-29T13:38:23Z",
-    "cycle": 1
+    "stock": 11,
+    "lastUpdate": "2025-10-29T13:40:55Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -308,8 +308,8 @@
   {
     "name": "TOKO SURYATI",
     "stock": 50,
-    "lastUpdate": "2025-10-29T13:37:09Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T13:40:55Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
