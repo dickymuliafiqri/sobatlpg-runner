@@ -116,8 +116,8 @@
   {
     "name": "TOKO POJOK",
     "stock": 10,
-    "lastUpdate": "2025-10-29T08:51:02Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T08:53:11Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -151,9 +151,9 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
-    "lastUpdate": "2025-10-29T05:53:11Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-10-29T08:53:11Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -248,14 +248,14 @@
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-10-29T05:51:24Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T08:54:20Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
-    "lastUpdate": "2025-10-29T05:51:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T08:54:44Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
