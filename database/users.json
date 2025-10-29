@@ -115,9 +115,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "lastUpdate": "2025-10-29T05:43:33Z",
-    "cycle": 0
+    "stock": 10,
+    "lastUpdate": "2025-10-29T08:43:36Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -422,8 +422,8 @@
   {
     "name": "UD SAMAN HADI",
     "stock": 19,
-    "lastUpdate": "2025-10-29T08:42:17Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-29T08:43:36Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
