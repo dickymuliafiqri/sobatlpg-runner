@@ -104,14 +104,14 @@
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
-    "lastUpdate": "2025-10-29T06:52:30Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T09:53:12Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-10-29T06:52:58Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T09:53:12Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -277,9 +277,9 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
-    "lastUpdate": "2025-10-29T06:53:23Z",
-    "cycle": 0
+    "stock": 38,
+    "lastUpdate": "2025-10-29T09:53:35Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -337,9 +337,9 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 5,
-    "lastUpdate": "2025-10-29T09:50:44Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-10-29T09:53:39Z",
+    "cycle": 5
   },
   {
     "name": "TUSOK",
