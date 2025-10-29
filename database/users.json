@@ -62,8 +62,8 @@
   {
     "name": "JAENAL",
     "stock": 14,
-    "lastUpdate": "2025-10-29T06:47:54Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-29T06:52:30Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -104,14 +104,14 @@
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
-    "lastUpdate": "2025-10-29T03:50:11Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T06:52:30Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-10-29T03:50:21Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-29T06:52:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -277,9 +277,9 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 39,
-    "lastUpdate": "2025-10-29T06:47:54Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-10-29T06:53:23Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
