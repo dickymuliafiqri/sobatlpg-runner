@@ -9,7 +9,7 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastUpdate": "2025-10-29T16:33:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -38,13 +38,13 @@
   {
     "name": "BINA MAKMUR",
     "stock": 0,
-    "lastUpdate": "2025-10-29T13:36:42Z",
+    "lastUpdate": "2025-10-29T16:37:43Z",
     "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
-    "lastUpdate": "2025-10-29T13:36:42Z",
+    "lastUpdate": "2025-10-29T16:37:43Z",
     "cycle": 0
   },
   {
@@ -63,7 +63,7 @@
     "name": "JAENAL",
     "stock": 0,
     "lastUpdate": "2025-10-29T16:33:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -393,7 +393,7 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastUpdate": "2025-10-29T16:34:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
@@ -405,19 +405,19 @@
     "name": "SALMAH",
     "stock": 0,
     "lastUpdate": "2025-10-29T16:34:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastUpdate": "2025-10-29T16:35:13Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-29T16:38:13Z",
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastUpdate": "2025-10-29T16:35:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
@@ -428,7 +428,7 @@
   {
     "name": "SOEKAMTO",
     "stock": 0,
-    "lastUpdate": "2025-10-29T13:35:28Z",
+    "lastUpdate": "2025-10-29T16:38:18Z",
     "cycle": 0
   },
   {
