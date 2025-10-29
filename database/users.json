@@ -308,8 +308,8 @@
   {
     "name": "TOKO SURYATI",
     "stock": 8,
-    "lastUpdate": "2025-10-29T21:09:58Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-29T21:12:15Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -349,9 +349,9 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
-    "lastUpdate": "2025-10-29T18:11:12Z",
-    "cycle": 0
+    "stock": 2,
+    "lastUpdate": "2025-10-29T21:12:15Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -361,9 +361,9 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
-    "lastUpdate": "2025-10-29T18:11:12Z",
-    "cycle": 0
+    "stock": 33,
+    "lastUpdate": "2025-10-29T21:13:53Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
