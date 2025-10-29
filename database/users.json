@@ -81,7 +81,7 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastUpdate": "2025-10-29T14:59:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -249,25 +249,25 @@
     "name": "SUROSO",
     "stock": 0,
     "lastUpdate": "2025-10-29T14:59:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastUpdate": "2025-10-29T14:59:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastUpdate": "2025-10-29T14:59:37Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastUpdate": "2025-10-29T15:00:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
@@ -279,7 +279,7 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastUpdate": "2025-10-29T15:00:19Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
@@ -349,9 +349,9 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 2,
-    "lastUpdate": "2025-10-29T14:53:56Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-29T15:01:13Z",
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -361,9 +361,9 @@
   },
   {
     "name": "BUDI",
-    "stock": 33,
-    "lastUpdate": "2025-10-29T14:55:50Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-29T15:01:13Z",
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
