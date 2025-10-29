@@ -27,7 +27,7 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastUpdate": "2025-10-29T08:03:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -75,7 +75,7 @@
     "name": "KARSONO",
     "stock": 0,
     "lastUpdate": "2025-10-29T08:00:30Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
@@ -410,20 +410,20 @@
   {
     "name": "TOKO ANITA",
     "stock": 17,
-    "lastUpdate": "2025-10-29T08:05:47Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-29T08:09:04Z",
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 38,
-    "lastUpdate": "2025-10-29T08:05:47Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-29T08:09:04Z",
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 20,
-    "lastUpdate": "2025-10-29T08:07:31Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-29T08:10:03Z",
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
