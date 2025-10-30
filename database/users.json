@@ -187,9 +187,9 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 16,
-    "lastUpdate": "2025-10-30T11:51:43Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-10-30T11:53:20Z",
+    "cycle": 4
   },
   {
     "name": "ROSIDI",
@@ -230,8 +230,8 @@
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
-    "lastUpdate": "2025-10-30T07:43:43Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-30T11:53:20Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
