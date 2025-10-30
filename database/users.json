@@ -97,9 +97,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 78,
-    "lastUpdate": "2025-10-30T09:30:20Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-10-30T09:32:11Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -260,8 +260,8 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 38,
-    "lastUpdate": "2025-10-30T09:30:39Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-30T09:32:11Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 11,
-    "lastUpdate": "2025-10-30T09:27:00Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-30T09:33:12Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
