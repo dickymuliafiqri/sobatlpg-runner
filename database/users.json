@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 11,
-    "lastUpdate": "2025-10-30T15:40:27Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-10-30T15:42:22Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -344,8 +344,8 @@
   {
     "name": "TUSOK",
     "stock": 0,
-    "lastUpdate": "2025-10-30T12:18:45Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-30T15:42:22Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
