@@ -98,8 +98,8 @@
   {
     "name": "TK. MAJU",
     "stock": 78,
-    "lastUpdate": "2025-10-30T12:44:09Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-30T12:48:23Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 10,
-    "lastUpdate": "2025-10-30T12:44:09Z",
-    "cycle": 3
+    "stock": 11,
+    "lastUpdate": "2025-10-30T12:48:23Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -404,14 +404,14 @@
   {
     "name": "SALMAH",
     "stock": 0,
-    "lastUpdate": "2025-10-30T08:16:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-30T12:49:55Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
-    "lastUpdate": "2025-10-30T08:16:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-30T12:50:02Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
