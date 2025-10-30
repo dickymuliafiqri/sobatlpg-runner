@@ -187,9 +187,9 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 11,
-    "lastUpdate": "2025-10-30T15:18:49Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-10-30T15:20:46Z",
+    "cycle": 5
   },
   {
     "name": "ROSIDI",
@@ -254,8 +254,8 @@
   {
     "name": "HADI SUTOYO",
     "stock": 0,
-    "lastUpdate": "2025-10-30T11:56:01Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-30T15:20:46Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
