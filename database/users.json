@@ -3,121 +3,121 @@
     "name": "ABDUL WAFI",
     "stock": 80,
     "lastUpdate": "2025-10-30T04:13:30Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "AKBAR RISQ",
     "stock": 73,
     "lastUpdate": "2025-10-30T04:13:30Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 70,
     "lastUpdate": "2025-10-30T04:14:46Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 34,
     "lastUpdate": "2025-10-30T04:14:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "lastUpdate": "2025-10-30T05:17:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 43,
     "lastUpdate": "2025-10-30T04:31:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
     "stock": 87,
     "lastUpdate": "2025-10-30T04:31:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 72,
     "lastUpdate": "2025-10-30T04:32:34Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
     "stock": 79,
     "lastUpdate": "2025-10-30T04:32:53Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 67,
     "lastUpdate": "2025-10-30T04:52:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
     "stock": 75,
     "lastUpdate": "2025-10-30T04:52:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 59,
     "lastUpdate": "2025-10-30T04:53:37Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "KARSONO",
     "stock": 60,
     "lastUpdate": "2025-10-30T04:54:25Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
     "stock": 89,
     "lastUpdate": "2025-10-30T05:13:22Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
     "stock": 43,
     "lastUpdate": "2025-10-30T05:13:22Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 75,
     "lastUpdate": "2025-10-30T05:15:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
     "stock": 78,
     "lastUpdate": "2025-10-30T05:15:25Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 49,
     "lastUpdate": "2025-10-30T05:33:15Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
     "stock": 68,
     "lastUpdate": "2025-10-30T05:33:15Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
     "stock": 93,
     "lastUpdate": "2025-10-30T05:34:59Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -129,7 +129,7 @@
     "name": "SUPARMAN",
     "stock": 41,
     "lastUpdate": "2025-10-30T05:37:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -189,13 +189,13 @@
     "name": "BISTON MANURUNG",
     "stock": 27,
     "lastUpdate": "2025-10-30T05:53:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-10-30T05:39:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -261,7 +261,7 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastUpdate": "2025-10-30T05:39:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -303,7 +303,7 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastUpdate": "2025-10-30T05:42:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
@@ -368,8 +368,8 @@
   {
     "name": "YULI SORAYA",
     "stock": 42,
-    "lastUpdate": "2025-10-30T05:53:18Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-30T05:55:40Z",
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -416,8 +416,8 @@
   {
     "name": "TK. LUCKY",
     "stock": 12,
-    "lastUpdate": "2025-10-30T05:54:13Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-30T05:55:40Z",
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
@@ -435,6 +435,6 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastUpdate": "2025-10-30T05:50:11Z",
-    "cycle": 1
+    "cycle": 0
   }
 ]
