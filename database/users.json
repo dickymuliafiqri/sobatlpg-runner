@@ -104,14 +104,14 @@
   {
     "name": "TOKO 2 PUTRI",
     "stock": 48,
-    "lastUpdate": "2025-10-30T19:41:34Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-30T19:45:09Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
     "stock": 2,
-    "lastUpdate": "2025-10-30T19:42:48Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-30T19:45:09Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
@@ -259,9 +259,9 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 35,
-    "lastUpdate": "2025-10-30T17:51:51Z",
-    "cycle": 0
+    "stock": 0,
+    "lastUpdate": "2025-10-30T19:46:51Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
