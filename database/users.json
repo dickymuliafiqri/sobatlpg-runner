@@ -99,7 +99,7 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-10-31T16:32:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -309,7 +309,7 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastUpdate": "2025-10-31T16:43:51Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -357,19 +357,19 @@
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastUpdate": "2025-10-31T16:39:38Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "BUDI",
     "stock": 0,
     "lastUpdate": "2025-10-31T16:32:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
-    "stock": 7,
-    "lastUpdate": "2025-10-31T16:47:35Z",
-    "cycle": 4
+    "stock": 1,
+    "lastUpdate": "2025-10-31T16:52:36Z",
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -387,7 +387,7 @@
     "name": "IMA",
     "stock": 0,
     "lastUpdate": "2025-10-31T16:35:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DARMAWAN P",
