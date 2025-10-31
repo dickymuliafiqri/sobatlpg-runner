@@ -1,15 +1,15 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
-    "lastUpdate": "2025-10-31T05:30:10Z",
-    "cycle": 0
+    "stock": 105,
+    "lastUpdate": "2025-10-31T08:32:00Z",
+    "cycle": 1
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 0,
-    "lastUpdate": "2025-10-31T05:30:10Z",
-    "cycle": 0
+    "stock": 101,
+    "lastUpdate": "2025-10-31T08:32:00Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
@@ -62,14 +62,14 @@
   {
     "name": "JAENAL",
     "stock": 160,
-    "lastUpdate": "2025-10-31T08:28:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-31T08:33:42Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 126,
-    "lastUpdate": "2025-10-31T08:28:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-31T08:33:48Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
