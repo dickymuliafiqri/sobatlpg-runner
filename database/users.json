@@ -337,9 +337,9 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 11,
-    "lastUpdate": "2025-10-31T21:19:27Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-10-31T21:23:54Z",
+    "cycle": 4
   },
   {
     "name": "TUSOK",
@@ -349,9 +349,9 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 8,
-    "lastUpdate": "2025-10-31T21:19:27Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-10-31T21:23:54Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -361,27 +361,27 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastUpdate": "2025-10-31T21:19:54Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-31T21:23:54Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-10-31T16:55:37Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-31T21:23:54Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
-    "lastUpdate": "2025-10-31T16:21:58Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-31T21:24:20Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
-    "lastUpdate": "2025-10-31T16:17:15Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-10-31T21:24:24Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
