@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
-    "lastUpdate": "2025-10-31T04:19:51Z",
-    "cycle": 0
+    "stock": 6,
+    "lastUpdate": "2025-10-31T07:20:56Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -272,8 +272,8 @@
   {
     "name": "YUSUF ISMAIL",
     "stock": 43,
-    "lastUpdate": "2025-10-31T07:17:10Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-31T07:20:56Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -284,8 +284,8 @@
   {
     "name": "H. JUMAT",
     "stock": 50,
-    "lastUpdate": "2025-10-31T07:17:10Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-31T07:22:25Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
