@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-10-31T23:32:37Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-31T23:37:03Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -187,15 +187,15 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
-    "lastUpdate": "2025-10-31T23:33:33Z",
-    "cycle": 1
+    "stock": -73,
+    "lastUpdate": "2025-10-31T23:37:03Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
-    "stock": 86,
-    "lastUpdate": "2025-10-31T20:56:20Z",
-    "cycle": 0
+    "stock": -85,
+    "lastUpdate": "2025-10-31T23:37:03Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 100,
-    "lastUpdate": "2025-10-31T23:25:48Z",
-    "cycle": 0
+    "stock": 80,
+    "lastUpdate": "2025-10-31T23:37:03Z",
+    "cycle": 1
   }
 ]
