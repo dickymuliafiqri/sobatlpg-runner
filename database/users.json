@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 33,
-    "lastUpdate": "2025-10-31T14:29:36Z",
-    "cycle": 1
+    "stock": 26,
+    "lastUpdate": "2025-10-31T14:35:37Z",
+    "cycle": 2
   },
   {
     "name": "AKBAR RISQ",
@@ -56,14 +56,14 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
-    "lastUpdate": "2025-10-31T13:34:19Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-31T14:35:37Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 58,
-    "lastUpdate": "2025-10-31T14:29:36Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-31T14:35:37Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,15 +85,15 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 12,
-    "lastUpdate": "2025-10-31T14:31:36Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-31T14:35:37Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 68,
-    "lastUpdate": "2025-10-31T14:31:38Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-10-31T14:36:05Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -200,8 +200,8 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "lastUpdate": "2025-10-31T13:15:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-31T14:37:26Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
