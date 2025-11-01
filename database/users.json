@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-01T20:00:41Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-01T20:02:57Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -440,7 +440,7 @@
   {
     "name": "TOKO POJOK",
     "stock": 0,
-    "lastUpdate": "2025-11-01T17:01:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-01T20:02:57Z",
+    "cycle": 1
   }
 ]
