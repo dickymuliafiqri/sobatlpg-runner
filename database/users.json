@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastUpdate": "2025-11-01T16:17:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -69,7 +69,7 @@
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastUpdate": "2025-11-01T16:13:46Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -80,7 +80,7 @@
   {
     "name": "LUTFI A.",
     "stock": 0,
-    "lastUpdate": "2025-11-01T13:20:39Z",
+    "lastUpdate": "2025-11-01T16:22:55Z",
     "cycle": 0
   },
   {
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-01T16:20:15Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-01T16:22:55Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
