@@ -43,9 +43,9 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 39,
-    "lastUpdate": "2025-11-01T01:40:54Z",
-    "cycle": 2
+    "stock": 30,
+    "lastUpdate": "2025-11-01T01:46:58Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -73,9 +73,9 @@
   },
   {
     "name": "KARSONO",
-    "stock": 14,
-    "lastUpdate": "2025-11-01T01:40:54Z",
-    "cycle": 4
+    "stock": 3,
+    "lastUpdate": "2025-11-01T01:46:58Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-01T01:40:54Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-01T01:46:58Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 21,
-    "lastUpdate": "2025-11-01T01:42:56Z",
-    "cycle": 2
+    "stock": 15,
+    "lastUpdate": "2025-11-01T01:46:58Z",
+    "cycle": 3
   }
 ]
