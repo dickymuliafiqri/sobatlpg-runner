@@ -21,7 +21,7 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastUpdate": "2025-11-01T19:10:56Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -68,7 +68,7 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
-    "lastUpdate": "2025-11-01T16:13:46Z",
+    "lastUpdate": "2025-11-01T19:15:02Z",
     "cycle": 0
   },
   {
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-01T19:12:47Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-01T19:15:02Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
