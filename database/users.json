@@ -242,8 +242,8 @@
   {
     "name": "ISTIQOMAH",
     "stock": -5,
-    "lastUpdate": "2025-10-31T21:04:59Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-01T00:07:48Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 53,
-    "lastUpdate": "2025-10-31T23:52:22Z",
-    "cycle": 3
+    "stock": 40,
+    "lastUpdate": "2025-11-01T00:07:48Z",
+    "cycle": 4
   }
 ]
