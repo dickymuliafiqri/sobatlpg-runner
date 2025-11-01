@@ -403,9 +403,9 @@
   },
   {
     "name": "SALMAH",
-    "stock": 28,
-    "lastUpdate": "2025-11-01T09:48:40Z",
-    "cycle": 3
+    "stock": 16,
+    "lastUpdate": "2025-11-01T09:53:17Z",
+    "cycle": 4
   },
   {
     "name": "TOKO ANITA",
@@ -433,9 +433,9 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastUpdate": "2025-11-01T09:49:05Z",
-    "cycle": 1
+    "stock": -38,
+    "lastUpdate": "2025-11-01T09:53:17Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
