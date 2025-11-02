@@ -1,21 +1,21 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 71,
-    "lastUpdate": "2025-11-02T23:12:57Z",
-    "cycle": 2
+    "stock": 58,
+    "lastUpdate": "2025-11-02T23:24:31Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 64,
-    "lastUpdate": "2025-11-02T23:12:57Z",
-    "cycle": 2
+    "stock": 53,
+    "lastUpdate": "2025-11-02T23:24:31Z",
+    "cycle": 3
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 65,
-    "lastUpdate": "2025-11-02T23:12:57Z",
-    "cycle": 2
+    "stock": 50,
+    "lastUpdate": "2025-11-02T23:24:31Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -25,9 +25,9 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 29,
-    "lastUpdate": "2025-11-02T23:12:57Z",
-    "cycle": 2
+    "stock": 15,
+    "lastUpdate": "2025-11-02T23:24:31Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -37,33 +37,33 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 64,
-    "lastUpdate": "2025-11-02T23:16:47Z",
-    "cycle": 2
-  },
-  {
-    "name": "HENDRA KURNIAWAN",
-    "stock": 50,
-    "lastUpdate": "2025-11-02T23:17:36Z",
+    "stock": 48,
+    "lastUpdate": "2025-11-02T23:29:03Z",
     "cycle": 3
   },
   {
+    "name": "HENDRA KURNIAWAN",
+    "stock": 34,
+    "lastUpdate": "2025-11-02T23:29:41Z",
+    "cycle": 4
+  },
+  {
     "name": "SUCIYONO",
-    "stock": 69,
-    "lastUpdate": "2025-11-02T23:18:08Z",
-    "cycle": 2
+    "stock": 50,
+    "lastUpdate": "2025-11-02T23:29:42Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 65,
-    "lastUpdate": "2025-11-02T23:18:31Z",
-    "cycle": 1
+    "stock": 49,
+    "lastUpdate": "2025-11-02T23:29:46Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 92,
-    "lastUpdate": "2025-11-02T23:21:36Z",
-    "cycle": 1
+    "stock": 84,
+    "lastUpdate": "2025-11-02T23:34:27Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
