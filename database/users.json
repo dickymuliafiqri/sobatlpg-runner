@@ -61,15 +61,15 @@
   },
   {
     "name": "JAENAL",
-    "stock": 5,
-    "lastUpdate": "2025-11-03T06:24:26Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-03T06:30:34Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
-    "lastUpdate": "2025-11-03T03:26:20Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-03T06:30:34Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-03T06:24:26Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-03T06:30:34Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
