@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-04T19:56:32Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-04T19:58:51Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-04T16:58:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T19:58:51Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -290,8 +290,8 @@
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-11-04T16:58:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T19:58:51Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -440,7 +440,7 @@
   {
     "name": "TOKO POJOK",
     "stock": 0,
-    "lastUpdate": "2025-11-04T16:58:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T19:58:51Z",
+    "cycle": 1
   }
 ]
