@@ -3,19 +3,19 @@
     "name": "ABDUL WAFI",
     "stock": 0,
     "lastUpdate": "2025-11-04T08:51:37Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastUpdate": "2025-11-04T08:45:28Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "lastUpdate": "2025-11-04T08:45:28Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -51,7 +51,7 @@
     "name": "SUCIYONO",
     "stock": 0,
     "lastUpdate": "2025-11-04T08:51:37Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-04T08:51:37Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-04T08:54:02Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -207,7 +207,7 @@
     "name": "YUDA",
     "stock": -1,
     "lastUpdate": "2025-11-04T08:45:28Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
