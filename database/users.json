@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
-    "lastUpdate": "2025-11-04T05:36:17Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-04T05:41:10Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -175,9 +175,9 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
-    "lastUpdate": "2025-11-04T05:36:17Z",
-    "cycle": 1
+    "stock": -3,
+    "lastUpdate": "2025-11-04T05:41:10Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -188,26 +188,26 @@
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-11-04T02:33:30Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T05:41:10Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-11-04T02:36:26Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T05:41:10Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
     "stock": -7,
-    "lastUpdate": "2025-11-04T02:36:26Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T05:41:35Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": -1,
-    "lastUpdate": "2025-11-04T02:36:26Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-04T05:41:37Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
