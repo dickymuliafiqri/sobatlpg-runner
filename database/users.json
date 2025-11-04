@@ -68,8 +68,8 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
-    "lastUpdate": "2025-11-04T10:36:41Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T13:36:53Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-04T13:32:08Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-04T13:36:53Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -433,9 +433,9 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 18,
-    "lastUpdate": "2025-11-04T13:32:08Z",
-    "cycle": 2
+    "stock": 6,
+    "lastUpdate": "2025-11-04T13:36:53Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
