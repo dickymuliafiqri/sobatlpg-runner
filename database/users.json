@@ -56,8 +56,8 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
-    "lastUpdate": "2025-11-04T07:28:06Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T10:31:46Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-04T10:26:26Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-04T10:31:46Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -289,9 +289,9 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 25,
-    "lastUpdate": "2025-11-04T10:26:26Z",
-    "cycle": 1
+    "stock": 22,
+    "lastUpdate": "2025-11-04T10:31:46Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 21,
-    "lastUpdate": "2025-11-04T10:26:26Z",
-    "cycle": 1
+    "stock": 11,
+    "lastUpdate": "2025-11-04T10:31:46Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
