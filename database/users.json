@@ -20,8 +20,8 @@
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
-    "lastUpdate": "2025-11-04T20:03:09Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T23:03:20Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -37,9 +37,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
-    "lastUpdate": "2025-11-04T20:03:09Z",
-    "cycle": 0
+    "stock": 88,
+    "lastUpdate": "2025-11-04T23:03:20Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -67,9 +67,9 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 10,
-    "lastUpdate": "2025-11-04T22:57:50Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-04T23:03:20Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
@@ -121,9 +121,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
-    "lastUpdate": "2025-11-04T19:58:51Z",
-    "cycle": 0
+    "stock": 47,
+    "lastUpdate": "2025-11-04T23:03:20Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -290,8 +290,8 @@
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-11-04T19:58:51Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-04T23:03:47Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "lastUpdate": "2025-11-04T19:58:51Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-04T23:04:12Z",
+    "cycle": 1
   }
 ]
