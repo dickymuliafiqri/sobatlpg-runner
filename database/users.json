@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-04T19:51:35Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-04T19:53:50Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -309,7 +309,7 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastUpdate": "2025-11-04T19:45:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -435,7 +435,7 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastUpdate": "2025-11-04T19:45:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
