@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-05T09:36:46Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-05T09:39:06Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -145,15 +145,15 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastUpdate": "2025-11-05T09:36:46Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-05T09:39:06Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": -9,
-    "lastUpdate": "2025-11-05T06:35:55Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-05T09:39:06Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
