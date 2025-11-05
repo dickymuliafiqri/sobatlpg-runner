@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-05T07:13:07Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-05T07:15:21Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -165,19 +165,19 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastUpdate": "2025-11-05T07:05:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": -30,
     "lastUpdate": "2025-11-05T07:05:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
     "stock": -3,
     "lastUpdate": "2025-11-05T07:10:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
