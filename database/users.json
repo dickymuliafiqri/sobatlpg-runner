@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-05T08:09:40Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-05T08:12:45Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -331,21 +331,21 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
-    "lastUpdate": "2025-11-05T08:10:10Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-05T08:12:45Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 0,
-    "lastUpdate": "2025-11-05T05:09:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T08:12:45Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
-    "stock": 0,
-    "lastUpdate": "2025-11-05T05:09:57Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-05T08:12:45Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
