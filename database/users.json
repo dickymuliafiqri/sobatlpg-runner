@@ -56,8 +56,8 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
-    "lastUpdate": "2025-11-05T02:32:45Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T05:32:59Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 8,
-    "lastUpdate": "2025-11-05T05:18:44Z",
-    "cycle": 2
+    "stock": 2,
+    "lastUpdate": "2025-11-05T05:32:59Z",
+    "cycle": 3
   }
 ]
