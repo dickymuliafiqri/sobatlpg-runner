@@ -19,9 +19,9 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 7,
-    "lastUpdate": "2025-11-05T23:44:44Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-11-05T23:50:32Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -55,9 +55,9 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 64,
-    "lastUpdate": "2025-11-05T23:44:44Z",
-    "cycle": 1
+    "stock": 47,
+    "lastUpdate": "2025-11-05T23:50:32Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -361,15 +361,15 @@
   },
   {
     "name": "BUDI",
-    "stock": 18,
-    "lastUpdate": "2025-11-05T23:44:44Z",
-    "cycle": 2
+    "stock": 3,
+    "lastUpdate": "2025-11-05T23:50:32Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
-    "stock": 37,
-    "lastUpdate": "2025-11-05T23:45:54Z",
-    "cycle": 1
+    "stock": 22,
+    "lastUpdate": "2025-11-05T23:50:32Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
@@ -398,26 +398,26 @@
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
-    "lastUpdate": "2025-11-05T20:36:08Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T23:52:49Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
-    "lastUpdate": "2025-11-05T20:36:08Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T23:53:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
-    "lastUpdate": "2025-11-05T20:36:34Z",
-    "cycle": 0
+    "stock": 38,
+    "lastUpdate": "2025-11-05T23:53:39Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "lastUpdate": "2025-11-05T20:36:35Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T23:55:18Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -428,8 +428,8 @@
   {
     "name": "SOEKAMTO",
     "stock": 0,
-    "lastUpdate": "2025-11-05T20:38:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T23:55:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
