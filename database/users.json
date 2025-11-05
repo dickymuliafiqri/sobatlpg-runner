@@ -31,15 +31,15 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 10,
-    "lastUpdate": "2025-11-05T22:16:40Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-11-05T22:27:56Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 46,
-    "lastUpdate": "2025-11-05T22:16:40Z",
-    "cycle": 3
+    "stock": 24,
+    "lastUpdate": "2025-11-05T22:27:56Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -49,9 +49,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
-    "lastUpdate": "2025-11-05T19:27:43Z",
-    "cycle": 0
+    "stock": 78,
+    "lastUpdate": "2025-11-05T22:27:56Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -79,9 +79,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
-    "lastUpdate": "2025-11-05T19:27:43Z",
-    "cycle": 0
+    "stock": 89,
+    "lastUpdate": "2025-11-05T22:27:56Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -97,9 +97,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 25,
-    "lastUpdate": "2025-11-05T22:22:04Z",
-    "cycle": 4
+    "stock": 12,
+    "lastUpdate": "2025-11-05T22:30:16Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 37,
-    "lastUpdate": "2025-11-05T22:22:14Z",
-    "cycle": 3
+    "stock": 21,
+    "lastUpdate": "2025-11-05T22:30:21Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -152,8 +152,8 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": -9,
-    "lastUpdate": "2025-11-05T18:44:34Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T22:31:56Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -164,14 +164,14 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-11-05T19:09:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T22:32:25Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": -10,
-    "lastUpdate": "2025-11-05T19:09:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-05T22:32:57Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
