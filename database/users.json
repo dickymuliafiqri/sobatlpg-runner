@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T04:59:57Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-06T05:02:20Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -145,39 +145,39 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T04:59:57Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-06T05:02:20Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T04:59:57Z",
-    "cycle": 2
+    "stock": -9,
+    "lastUpdate": "2025-11-06T05:02:20Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T04:59:57Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-06T05:02:20Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-11-06T01:36:47Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T05:02:46Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": -10,
-    "lastUpdate": "2025-11-06T01:43:37Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-06T05:02:48Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": -3,
-    "lastUpdate": "2025-11-06T01:44:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T05:02:49Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
