@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 11,
-    "lastUpdate": "2025-11-06T05:55:05Z",
-    "cycle": 2
+    "stock": 13,
+    "lastUpdate": "2025-11-06T06:04:22Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 24,
-    "lastUpdate": "2025-11-06T05:55:05Z",
-    "cycle": 2
+    "stock": 20,
+    "lastUpdate": "2025-11-06T06:04:22Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,15 +37,15 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 6,
-    "lastUpdate": "2025-11-06T05:55:05Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-06T06:04:22Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 20,
-    "lastUpdate": "2025-11-06T05:55:05Z",
-    "cycle": 2
+    "stock": 16,
+    "lastUpdate": "2025-11-06T06:04:22Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 5,
-    "lastUpdate": "2025-11-06T05:59:52Z",
-    "cycle": 2
+    "stock": 1,
+    "lastUpdate": "2025-11-06T06:09:10Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -74,8 +74,8 @@
   {
     "name": "KARSONO",
     "stock": 1,
-    "lastUpdate": "2025-11-06T06:00:29Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-06T06:09:37Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T06:01:24Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-06T06:11:02Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -254,8 +254,8 @@
   {
     "name": "HADI SUTOYO",
     "stock": 0,
-    "lastUpdate": "2025-11-06T02:47:39Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T06:11:06Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -266,8 +266,8 @@
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
-    "lastUpdate": "2025-11-06T02:48:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T06:11:10Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
