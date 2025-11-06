@@ -433,14 +433,14 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T03:34:51Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-06T03:36:53Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T03:34:51Z",
-    "cycle": 3
+    "stock": 71,
+    "lastUpdate": "2025-11-06T03:36:53Z",
+    "cycle": 4
   }
 ]
