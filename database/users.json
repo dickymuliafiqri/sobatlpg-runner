@@ -73,9 +73,9 @@
   },
   {
     "name": "KARSONO",
-    "stock": 20,
-    "lastUpdate": "2025-11-06T21:44:03Z",
-    "cycle": 4
+    "stock": 1,
+    "lastUpdate": "2025-11-06T21:49:16Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -121,9 +121,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 21,
-    "lastUpdate": "2025-11-06T21:44:03Z",
-    "cycle": 3
+    "stock": 1,
+    "lastUpdate": "2025-11-06T21:49:16Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -343,9 +343,9 @@
   },
   {
     "name": "TUSOK",
-    "stock": 10,
-    "lastUpdate": "2025-11-06T21:44:03Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2025-11-06T21:49:16Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -385,9 +385,9 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
-    "lastUpdate": "2025-11-06T18:41:39Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-06T21:49:16Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
