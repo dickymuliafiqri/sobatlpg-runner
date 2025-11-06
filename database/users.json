@@ -206,20 +206,20 @@
   {
     "name": "YUDA",
     "stock": 1,
-    "lastUpdate": "2025-11-06T14:12:16Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-06T14:13:22Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
     "stock": 1,
-    "lastUpdate": "2025-11-06T14:12:17Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-06T14:13:22Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
     "stock": 1,
-    "lastUpdate": "2025-11-06T14:12:18Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-06T14:13:22Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
@@ -289,9 +289,9 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
-    "lastUpdate": "2025-11-06T11:12:01Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-06T14:13:22Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
