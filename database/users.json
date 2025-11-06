@@ -45,7 +45,7 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastUpdate": "2025-11-06T16:30:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -63,7 +63,7 @@
     "name": "JAENAL",
     "stock": 0,
     "lastUpdate": "2025-11-06T16:30:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T16:35:25Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-06T16:37:16Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
