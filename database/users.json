@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 6,
-    "lastUpdate": "2025-11-06T05:15:31Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-06T05:19:37Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 65,
-    "lastUpdate": "2025-11-06T05:15:56Z",
-    "cycle": 2
+    "stock": 56,
+    "lastUpdate": "2025-11-06T05:19:37Z",
+    "cycle": 3
   }
 ]
