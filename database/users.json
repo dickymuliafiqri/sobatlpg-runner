@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T12:34:04Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-06T12:36:21Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T12:34:04Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-06T12:36:21Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -338,32 +338,32 @@
   {
     "name": "WIKAN K",
     "stock": 0,
-    "lastUpdate": "2025-11-06T09:35:49Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T12:36:21Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
-    "lastUpdate": "2025-11-06T09:35:49Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T12:36:21Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": -1,
-    "lastUpdate": "2025-11-06T09:35:49Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T12:36:48Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
-    "lastUpdate": "2025-11-06T09:36:15Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T12:36:49Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
-    "stock": 0,
-    "lastUpdate": "2025-11-06T09:36:16Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-06T12:36:50Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
