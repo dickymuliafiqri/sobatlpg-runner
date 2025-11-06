@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 14,
-    "lastUpdate": "2025-11-06T05:42:38Z",
-    "cycle": 1
+    "stock": 11,
+    "lastUpdate": "2025-11-06T05:55:05Z",
+    "cycle": 2
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 31,
-    "lastUpdate": "2025-11-06T05:42:38Z",
-    "cycle": 1
+    "stock": 24,
+    "lastUpdate": "2025-11-06T05:55:05Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,21 +37,21 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 15,
-    "lastUpdate": "2025-11-06T05:42:38Z",
-    "cycle": 1
+    "stock": 6,
+    "lastUpdate": "2025-11-06T05:55:05Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 23,
-    "lastUpdate": "2025-11-06T05:42:38Z",
-    "cycle": 1
+    "stock": 20,
+    "lastUpdate": "2025-11-06T05:55:05Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 2,
-    "lastUpdate": "2025-11-06T05:47:13Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-06T05:59:40Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 10,
-    "lastUpdate": "2025-11-06T05:48:31Z",
-    "cycle": 1
+    "stock": 5,
+    "lastUpdate": "2025-11-06T05:59:52Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -73,9 +73,9 @@
   },
   {
     "name": "KARSONO",
-    "stock": 5,
-    "lastUpdate": "2025-11-06T05:49:08Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2025-11-06T06:00:29Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T05:50:04Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-06T06:01:24Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -248,8 +248,8 @@
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-11-06T02:47:11Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T06:03:10Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
