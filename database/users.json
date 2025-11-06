@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 65,
-    "lastUpdate": "2025-11-06T02:19:37Z",
-    "cycle": 1
+    "stock": 53,
+    "lastUpdate": "2025-11-06T02:31:53Z",
+    "cycle": 2
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 61,
-    "lastUpdate": "2025-11-06T02:19:37Z",
-    "cycle": 4
+    "stock": 60,
+    "lastUpdate": "2025-11-06T02:31:53Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,9 +37,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 72,
-    "lastUpdate": "2025-11-06T02:19:37Z",
-    "cycle": 4
+    "stock": 67,
+    "lastUpdate": "2025-11-06T02:31:53Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -49,9 +49,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 71,
-    "lastUpdate": "2025-11-06T02:19:37Z",
-    "cycle": 1
+    "stock": 66,
+    "lastUpdate": "2025-11-06T02:31:53Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 71,
-    "lastUpdate": "2025-11-06T02:24:21Z",
-    "cycle": 1
+    "stock": 61,
+    "lastUpdate": "2025-11-06T02:36:15Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -91,15 +91,15 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 27,
-    "lastUpdate": "2025-11-06T02:25:07Z",
-    "cycle": 3
+    "stock": 17,
+    "lastUpdate": "2025-11-06T02:36:45Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
-    "stock": 27,
-    "lastUpdate": "2025-11-06T02:26:40Z",
-    "cycle": 3
+    "stock": 16,
+    "lastUpdate": "2025-11-06T02:37:30Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 2,
-    "lastUpdate": "2025-11-06T02:27:01Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-11-06T02:37:37Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -242,8 +242,8 @@
   {
     "name": "ISTIQOMAH",
     "stock": 0,
-    "lastUpdate": "2025-11-05T23:09:07Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T02:39:19Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
