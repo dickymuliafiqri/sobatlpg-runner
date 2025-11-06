@@ -415,32 +415,32 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T06:37:19Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-06T06:38:46Z",
+    "cycle": 3
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T06:37:19Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-06T06:38:46Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T06:37:19Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-06T06:38:46Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T06:37:19Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-06T06:38:46Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 50,
-    "lastUpdate": "2025-11-06T05:37:43Z",
-    "cycle": 0
+    "stock": 45,
+    "lastUpdate": "2025-11-06T06:39:10Z",
+    "cycle": 1
   }
 ]
