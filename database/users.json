@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 13,
-    "lastUpdate": "2025-11-06T06:04:22Z",
-    "cycle": 3
+    "stock": 11,
+    "lastUpdate": "2025-11-06T06:14:26Z",
+    "cycle": 4
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 20,
-    "lastUpdate": "2025-11-06T06:04:22Z",
-    "cycle": 3
+    "stock": 18,
+    "lastUpdate": "2025-11-06T06:14:26Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,9 +43,9 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 16,
-    "lastUpdate": "2025-11-06T06:04:22Z",
-    "cycle": 3
+    "stock": 9,
+    "lastUpdate": "2025-11-06T06:14:26Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -62,8 +62,8 @@
   {
     "name": "JAENAL",
     "stock": 1,
-    "lastUpdate": "2025-11-06T06:09:10Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-06T06:14:26Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -73,9 +73,9 @@
   },
   {
     "name": "KARSONO",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T06:09:37Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-11-06T06:16:17Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T06:11:02Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-06T06:17:26Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -260,8 +260,8 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "lastUpdate": "2025-11-06T03:17:20Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T06:18:55Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -272,14 +272,14 @@
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
-    "lastUpdate": "2025-11-06T03:07:14Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T06:19:26Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
     "stock": 0,
-    "lastUpdate": "2025-11-06T02:57:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T06:19:51Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
