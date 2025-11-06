@@ -194,26 +194,26 @@
   {
     "name": "ROSIDI",
     "stock": 1,
-    "lastUpdate": "2025-11-06T20:15:13Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-06T20:16:19Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
     "stock": 1,
-    "lastUpdate": "2025-11-06T20:15:14Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-06T20:16:19Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
-    "stock": -1,
-    "lastUpdate": "2025-11-06T17:15:52Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-06T20:16:19Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": -19,
-    "lastUpdate": "2025-11-06T17:15:52Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-06T20:16:19Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
