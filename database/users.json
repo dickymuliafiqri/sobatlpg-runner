@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T05:02:20Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-06T05:04:48Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -169,9 +169,9 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T05:02:48Z",
-    "cycle": 1
+    "stock": -10,
+    "lastUpdate": "2025-11-06T05:04:48Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -182,14 +182,14 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "lastUpdate": "2025-11-06T01:49:39Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T05:04:48Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
-    "lastUpdate": "2025-11-06T01:49:39Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-06T05:04:48Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
