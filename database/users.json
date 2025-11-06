@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-06T17:20:14Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-06T17:22:30Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -177,55 +177,55 @@
     "name": "ROSA V",
     "stock": -3,
     "lastUpdate": "2025-11-06T17:13:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:13:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:13:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:13:29Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:13:30Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
     "stock": -1,
     "lastUpdate": "2025-11-06T17:15:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
     "stock": -19,
     "lastUpdate": "2025-11-06T17:15:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
     "stock": -12,
     "lastUpdate": "2025-11-06T17:15:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:18:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -237,7 +237,7 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:18:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -291,7 +291,7 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:16:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
@@ -327,7 +327,7 @@
     "name": "SUDJIONO",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:16:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -369,7 +369,7 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:18:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -441,6 +441,6 @@
     "name": "TOKO POJOK",
     "stock": 0,
     "lastUpdate": "2025-11-06T17:18:39Z",
-    "cycle": 1
+    "cycle": 0
   }
 ]
