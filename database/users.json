@@ -224,20 +224,20 @@
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
-    "lastUpdate": "2025-11-06T02:14:14Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T05:15:31Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": -5,
-    "lastUpdate": "2025-11-06T02:14:41Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T05:15:31Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
-    "lastUpdate": "2025-11-06T02:15:10Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-06T05:15:31Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 11,
-    "lastUpdate": "2025-11-06T05:10:42Z",
-    "cycle": 1
+    "stock": 6,
+    "lastUpdate": "2025-11-06T05:15:31Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-06T05:10:42Z",
-    "cycle": 1
+    "stock": 65,
+    "lastUpdate": "2025-11-06T05:15:56Z",
+    "cycle": 2
   }
 ]
