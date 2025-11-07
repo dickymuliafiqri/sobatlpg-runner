@@ -21,7 +21,7 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastUpdate": "2025-11-07T09:45:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -74,7 +74,7 @@
   {
     "name": "KARSONO",
     "stock": 0,
-    "lastUpdate": "2025-11-07T06:46:49Z",
+    "lastUpdate": "2025-11-07T09:47:33Z",
     "cycle": 0
   },
   {
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-07T09:45:18Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-07T09:47:33Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -213,13 +213,13 @@
     "name": "SRI UTAMI",
     "stock": -19,
     "lastUpdate": "2025-11-07T09:39:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
     "stock": -12,
     "lastUpdate": "2025-11-07T09:39:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
