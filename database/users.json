@@ -85,9 +85,9 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 28,
-    "lastUpdate": "2025-11-07T21:15:34Z",
-    "cycle": 2
+    "stock": 13,
+    "lastUpdate": "2025-11-07T21:20:15Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 27,
-    "lastUpdate": "2025-11-07T21:15:34Z",
-    "cycle": 2
+    "stock": 12,
+    "lastUpdate": "2025-11-07T21:20:15Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -188,14 +188,14 @@
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-11-07T18:17:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T21:20:15Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-07T21:16:00Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-07T21:20:15Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
