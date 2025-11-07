@@ -67,9 +67,9 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 42,
-    "lastUpdate": "2025-11-07T00:04:34Z",
-    "cycle": 3
+    "stock": 33,
+    "lastUpdate": "2025-11-07T00:09:59Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 51,
-    "lastUpdate": "2025-11-07T00:04:34Z",
-    "cycle": 3
+    "stock": 44,
+    "lastUpdate": "2025-11-07T00:09:59Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -193,27 +193,27 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-07T00:05:03Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-07T00:09:59Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
     "stock": 0,
-    "lastUpdate": "2025-11-06T20:17:21Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T00:09:59Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": -1,
-    "lastUpdate": "2025-11-06T20:17:21Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T00:10:26Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": -19,
-    "lastUpdate": "2025-11-06T20:17:21Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-07T00:10:30Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
