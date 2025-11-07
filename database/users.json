@@ -9,7 +9,7 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastUpdate": "2025-11-07T12:34:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-07T12:39:10Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-07T12:41:02Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -212,13 +212,13 @@
   {
     "name": "SRI UTAMI",
     "stock": -19,
-    "lastUpdate": "2025-11-07T09:39:11Z",
+    "lastUpdate": "2025-11-07T12:41:02Z",
     "cycle": 0
   },
   {
     "name": "ULFA MARIA",
     "stock": -12,
-    "lastUpdate": "2025-11-07T09:39:11Z",
+    "lastUpdate": "2025-11-07T12:41:02Z",
     "cycle": 0
   },
   {
