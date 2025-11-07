@@ -110,14 +110,14 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-11-07T08:14:09Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T11:16:06Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-07T11:11:14Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-07T11:16:06Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -128,8 +128,8 @@
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "lastUpdate": "2025-11-07T08:11:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T11:16:06Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -344,20 +344,20 @@
   {
     "name": "TUSOK",
     "stock": 0,
-    "lastUpdate": "2025-11-07T08:11:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T11:16:06Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": -1,
-    "lastUpdate": "2025-11-07T08:16:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T11:16:32Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
-    "lastUpdate": "2025-11-07T08:16:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T11:16:34Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
