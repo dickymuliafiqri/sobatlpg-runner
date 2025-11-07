@@ -33,7 +33,7 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastUpdate": "2025-11-07T05:26:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-07T05:32:57Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-07T05:35:19Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -135,7 +135,7 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": -40,
     "lastUpdate": "2025-11-07T05:32:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
@@ -387,25 +387,25 @@
     "name": "IMA",
     "stock": 0,
     "lastUpdate": "2025-11-07T05:26:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastUpdate": "2025-11-07T05:26:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastUpdate": "2025-11-07T05:28:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastUpdate": "2025-11-07T05:32:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
@@ -417,7 +417,7 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastUpdate": "2025-11-07T05:32:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
