@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 68,
-    "lastUpdate": "2025-11-07T22:43:57Z",
-    "cycle": 2
+    "stock": 54,
+    "lastUpdate": "2025-11-07T22:52:20Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 86,
-    "lastUpdate": "2025-11-07T22:43:57Z",
-    "cycle": 1
+    "stock": 71,
+    "lastUpdate": "2025-11-07T22:52:20Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -61,15 +61,15 @@
   },
   {
     "name": "JAENAL",
-    "stock": 76,
-    "lastUpdate": "2025-11-07T22:43:57Z",
-    "cycle": 2
+    "stock": 61,
+    "lastUpdate": "2025-11-07T22:52:20Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 51,
-    "lastUpdate": "2025-11-07T22:43:57Z",
-    "cycle": 1
+    "stock": 33,
+    "lastUpdate": "2025-11-07T22:52:20Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -91,15 +91,15 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "lastUpdate": "2025-11-07T19:53:09Z",
-    "cycle": 0
+    "stock": 65,
+    "lastUpdate": "2025-11-07T22:57:05Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
-    "lastUpdate": "2025-11-07T19:53:09Z",
-    "cycle": 0
+    "stock": 63,
+    "lastUpdate": "2025-11-07T22:57:23Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -308,8 +308,8 @@
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "lastUpdate": "2025-11-07T19:48:06Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-07T22:57:28Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 71,
-    "lastUpdate": "2025-11-07T22:47:44Z",
-    "cycle": 2
+    "stock": 57,
+    "lastUpdate": "2025-11-07T22:57:39Z",
+    "cycle": 3
   }
 ]
