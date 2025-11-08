@@ -182,20 +182,20 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "lastUpdate": "2025-11-08T00:21:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T03:25:35Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-11-08T00:21:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T03:25:35Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-11-08T00:21:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T03:25:35Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -409,27 +409,27 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastUpdate": "2025-11-08T03:21:18Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-08T03:25:35Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastUpdate": "2025-11-08T03:21:21Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-08T03:26:02Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
-    "lastUpdate": "2025-11-08T00:07:25Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-08T03:26:04Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
-    "lastUpdate": "2025-11-08T00:21:54Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-08T03:26:05Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 89,
-    "lastUpdate": "2025-11-08T02:51:44Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2025-11-08T03:26:10Z",
+    "cycle": 2
   }
 ]
