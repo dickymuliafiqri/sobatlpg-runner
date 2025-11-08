@@ -3,7 +3,7 @@
     "name": "ABDUL WAFI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:10:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "AKBAR RISQ",
@@ -27,7 +27,7 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:38:36Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -39,7 +39,7 @@
     "name": "BINA MAKMUR",
     "stock": 27,
     "lastUpdate": "2025-11-08T08:33:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -63,7 +63,7 @@
     "name": "JAENAL",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:10:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -99,37 +99,37 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:10:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:17:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:17:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-08T08:33:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:18:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:45:55Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -219,97 +219,97 @@
     "name": "ULFA MARIA",
     "stock": -12,
     "lastUpdate": "2025-11-08T08:18:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:22:45Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:22:45Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:23:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:28:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:23:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:28:14Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:28:39Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:28:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:33:45Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:33:45Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:45:55Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:34:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:34:12Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:38:36Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:38:36Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -321,12 +321,12 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastUpdate": "2025-11-08T08:53:31Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-11-08T05:53:53Z",
+    "lastUpdate": "2025-11-08T08:56:19Z",
     "cycle": 0
   },
   {
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 2,
-    "lastUpdate": "2025-11-08T08:53:31Z",
-    "cycle": 4
+    "stock": 1,
+    "lastUpdate": "2025-11-08T08:56:19Z",
+    "cycle": 0
   }
 ]
