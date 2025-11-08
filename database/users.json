@@ -128,8 +128,8 @@
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "lastUpdate": "2025-11-08T05:44:22Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T08:45:55Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -284,8 +284,8 @@
   {
     "name": "H. JUMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-08T05:44:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T08:45:55Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 10,
-    "lastUpdate": "2025-11-08T08:38:36Z",
-    "cycle": 2
+    "stock": 5,
+    "lastUpdate": "2025-11-08T08:45:55Z",
+    "cycle": 3
   }
 ]
