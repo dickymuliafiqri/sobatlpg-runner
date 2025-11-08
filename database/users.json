@@ -139,9 +139,9 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
-    "lastUpdate": "2025-11-08T09:33:04Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-08T09:36:41Z",
+    "cycle": 5
   },
   {
     "name": "P. SUK",
@@ -175,9 +175,9 @@
   },
   {
     "name": "ROSA V",
-    "stock": 6,
-    "lastUpdate": "2025-11-08T09:33:04Z",
-    "cycle": 2
+    "stock": 3,
+    "lastUpdate": "2025-11-08T09:36:41Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
@@ -361,27 +361,27 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-08T09:33:30Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-08T09:36:41Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-11-08T06:22:40Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T09:36:41Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
-    "lastUpdate": "2025-11-08T06:23:06Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T09:37:11Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
-    "lastUpdate": "2025-11-08T06:25:50Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-08T09:37:12Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
