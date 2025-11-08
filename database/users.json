@@ -37,9 +37,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 2,
-    "lastUpdate": "2025-11-08T09:26:38Z",
-    "cycle": 0
+    "stock": 0,
+    "lastUpdate": "2025-11-08T10:05:12Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -68,8 +68,8 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
-    "lastUpdate": "2025-11-08T07:01:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T10:05:12Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-08T09:26:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T10:05:12Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -176,8 +176,8 @@
   {
     "name": "ROSA V",
     "stock": 1,
-    "lastUpdate": "2025-11-08T09:46:20Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T10:05:12Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -403,9 +403,9 @@
   },
   {
     "name": "SALMAH",
-    "stock": 6,
-    "lastUpdate": "2025-11-08T10:00:20Z",
-    "cycle": 0
+    "stock": 2,
+    "lastUpdate": "2025-11-08T10:05:42Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
