@@ -104,26 +104,26 @@
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
-    "lastUpdate": "2025-11-08T02:14:20Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T05:14:55Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-11-08T02:10:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T05:14:55Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-08T05:09:18Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-08T05:14:55Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-08T02:11:02Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T05:14:55Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -218,14 +218,14 @@
   {
     "name": "ULFA MARIA",
     "stock": -12,
-    "lastUpdate": "2025-11-08T02:11:26Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T05:15:21Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
-    "lastUpdate": "2025-11-08T02:11:37Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T05:15:23Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -313,9 +313,9 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 4,
-    "lastUpdate": "2025-11-08T05:09:18Z",
-    "cycle": 3
+    "stock": 1,
+    "lastUpdate": "2025-11-08T05:15:25Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
