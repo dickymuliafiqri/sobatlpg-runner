@@ -260,8 +260,8 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "lastUpdate": "2025-11-08T02:20:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-08T05:20:55Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-08T05:18:19Z",
-    "cycle": 3
+    "stock": 58,
+    "lastUpdate": "2025-11-08T05:20:55Z",
+    "cycle": 4
   }
 ]
