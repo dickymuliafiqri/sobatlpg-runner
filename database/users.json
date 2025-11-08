@@ -67,9 +67,9 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 9,
-    "lastUpdate": "2025-11-08T02:41:33Z",
-    "cycle": 4
+    "stock": 2,
+    "lastUpdate": "2025-11-08T02:47:22Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
@@ -91,9 +91,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "lastUpdate": "2025-11-07T23:45:05Z",
-    "cycle": 0
+    "stock": 41,
+    "lastUpdate": "2025-11-08T02:47:22Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -313,9 +313,9 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 21,
-    "lastUpdate": "2025-11-08T02:41:33Z",
-    "cycle": 4
+    "stock": 16,
+    "lastUpdate": "2025-11-08T02:47:22Z",
+    "cycle": 5
   },
   {
     "name": "CAHYA HERAWATI",
@@ -355,9 +355,9 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 15,
-    "lastUpdate": "2025-11-08T02:41:59Z",
-    "cycle": 1
+    "stock": 6,
+    "lastUpdate": "2025-11-08T02:47:22Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -367,9 +367,9 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
-    "lastUpdate": "2025-11-08T02:42:01Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-08T02:51:16Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
@@ -397,9 +397,9 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 5,
-    "lastUpdate": "2025-11-08T00:26:38Z",
-    "cycle": 0
+    "stock": 2,
+    "lastUpdate": "2025-11-08T02:51:41Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-08T00:27:06Z",
-    "cycle": 0
+    "stock": 89,
+    "lastUpdate": "2025-11-08T02:51:44Z",
+    "cycle": 1
   }
 ]
