@@ -199,15 +199,15 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
-    "lastUpdate": "2025-11-08T00:26:38Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-08T03:27:16Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": -1,
-    "lastUpdate": "2025-11-08T00:26:38Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-08T03:27:16Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -422,14 +422,14 @@
   {
     "name": "UD SAMAN HADI",
     "stock": 1,
-    "lastUpdate": "2025-11-08T03:26:04Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-08T03:27:16Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
     "stock": 1,
-    "lastUpdate": "2025-11-08T03:26:05Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-08T03:27:16Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
