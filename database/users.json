@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-08T18:15:57Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-08T18:18:13Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -134,7 +134,7 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": -40,
-    "lastUpdate": "2025-11-08T15:16:42Z",
+    "lastUpdate": "2025-11-08T18:18:13Z",
     "cycle": 0
   },
   {
@@ -339,7 +339,7 @@
     "name": "WIKAN K",
     "stock": 0,
     "lastUpdate": "2025-11-08T18:10:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
