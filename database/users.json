@@ -55,9 +55,9 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 69,
-    "lastUpdate": "2025-11-09T22:14:02Z",
-    "cycle": 1
+    "stock": 54,
+    "lastUpdate": "2025-11-09T22:18:10Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-09T22:14:02Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-09T22:18:10Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 71,
-    "lastUpdate": "2025-11-09T22:14:02Z",
-    "cycle": 2
+    "stock": 55,
+    "lastUpdate": "2025-11-09T22:18:10Z",
+    "cycle": 3
   }
 ]
