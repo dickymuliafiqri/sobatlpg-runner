@@ -8,7 +8,7 @@
   {
     "name": "AKBAR RISQ",
     "stock": 0,
-    "lastUpdate": "2025-11-08T22:19:17Z",
+    "lastUpdate": "2025-11-09T01:21:05Z",
     "cycle": 0
   },
   {
@@ -39,7 +39,7 @@
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastUpdate": "2025-11-09T01:11:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -69,7 +69,7 @@
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastUpdate": "2025-11-09T01:11:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-09T01:18:52Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-09T01:21:05Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -177,7 +177,7 @@
     "name": "ROSA V",
     "stock": 0,
     "lastUpdate": "2025-11-09T01:16:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -405,7 +405,7 @@
     "name": "SALMAH",
     "stock": 0,
     "lastUpdate": "2025-11-09T01:16:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
