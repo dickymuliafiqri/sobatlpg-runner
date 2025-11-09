@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-09T18:51:06Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-09T18:53:35Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -193,21 +193,21 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-09T18:51:36Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-09T18:53:35Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
-    "lastUpdate": "2025-11-09T15:46:52Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-09T18:53:35Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": -1,
-    "lastUpdate": "2025-11-09T15:46:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-09T18:53:35Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
