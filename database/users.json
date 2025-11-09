@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-09T21:54:53Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-09T21:57:16Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -193,21 +193,21 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-09T21:54:53Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-09T21:57:16Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
     "stock": 0,
-    "lastUpdate": "2025-11-09T18:55:59Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-09T21:57:16Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": 1,
-    "lastUpdate": "2025-11-09T21:54:53Z",
-    "cycle": 1
+    "stock": -1,
+    "lastUpdate": "2025-11-09T21:57:16Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -356,20 +356,20 @@
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
-    "lastUpdate": "2025-11-09T18:55:59Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-09T21:57:43Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
     "stock": 0,
-    "lastUpdate": "2025-11-09T18:55:59Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-09T21:57:44Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
-    "lastUpdate": "2025-11-09T18:56:28Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-09T21:57:45Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
