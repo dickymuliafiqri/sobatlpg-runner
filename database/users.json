@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastUpdate": "2025-11-09T19:59:49Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-09T20:01:56Z",
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,9 +43,9 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastUpdate": "2025-11-09T19:59:49Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-09T20:01:56Z",
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -117,7 +117,7 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-09T19:59:49Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
