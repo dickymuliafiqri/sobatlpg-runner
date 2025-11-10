@@ -87,7 +87,7 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastUpdate": "2025-11-10T14:54:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -99,7 +99,7 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-11-10T14:54:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-10T14:56:38Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-10T14:58:31Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -165,7 +165,7 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastUpdate": "2025-11-10T14:50:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -333,7 +333,7 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastUpdate": "2025-11-10T14:54:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
