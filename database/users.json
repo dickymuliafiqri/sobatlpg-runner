@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 24,
-    "lastUpdate": "2025-11-10T05:47:01Z",
-    "cycle": 2
+    "stock": 20,
+    "lastUpdate": "2025-11-10T05:55:41Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 13,
-    "lastUpdate": "2025-11-10T05:47:01Z",
-    "cycle": 2
+    "stock": 9,
+    "lastUpdate": "2025-11-10T05:55:41Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,9 +37,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 3,
-    "lastUpdate": "2025-11-10T05:47:01Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-10T05:55:41Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 12,
-    "lastUpdate": "2025-11-10T05:47:01Z",
-    "cycle": 2
+    "stock": 7,
+    "lastUpdate": "2025-11-10T05:55:41Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-10T05:52:41Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-10T05:58:15Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-10T02:54:56Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T06:00:05Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -212,8 +212,8 @@
   {
     "name": "SRI UTAMI",
     "stock": -19,
-    "lastUpdate": "2025-11-10T02:56:07Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T06:00:23Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 31,
-    "lastUpdate": "2025-11-10T05:33:19Z",
-    "cycle": 0
+    "stock": 22,
+    "lastUpdate": "2025-11-10T06:00:32Z",
+    "cycle": 1
   }
 ]
