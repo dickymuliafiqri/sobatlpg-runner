@@ -73,9 +73,9 @@
   },
   {
     "name": "KARSONO",
-    "stock": 21,
-    "lastUpdate": "2025-11-10T00:54:05Z",
-    "cycle": 3
+    "stock": 8,
+    "lastUpdate": "2025-11-10T01:00:47Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -187,27 +187,27 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
-    "lastUpdate": "2025-11-10T00:54:31Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-10T01:00:47Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-11-09T21:57:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T01:00:47Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
     "stock": 0,
-    "lastUpdate": "2025-11-09T21:57:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T01:00:47Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": -1,
-    "lastUpdate": "2025-11-09T21:57:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T01:01:14Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -320,14 +320,14 @@
   {
     "name": "CAHYA HERAWATI",
     "stock": 1,
-    "lastUpdate": "2025-11-10T00:54:33Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-10T01:01:15Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
     "stock": 1,
-    "lastUpdate": "2025-11-10T00:50:26Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-10T01:01:16Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
