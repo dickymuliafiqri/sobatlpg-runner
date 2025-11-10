@@ -20,8 +20,8 @@
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
-    "lastUpdate": "2025-11-10T08:35:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T11:37:12Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -50,8 +50,8 @@
   {
     "name": "SUCIYONO",
     "stock": 0,
-    "lastUpdate": "2025-11-10T08:35:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T11:37:12Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-10T11:32:35Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-10T11:37:12Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -163,9 +163,9 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 10,
-    "lastUpdate": "2025-11-10T11:32:35Z",
-    "cycle": 2
+    "stock": 6,
+    "lastUpdate": "2025-11-10T11:37:12Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 37,
-    "lastUpdate": "2025-11-10T11:32:35Z",
-    "cycle": 2
+    "stock": 29,
+    "lastUpdate": "2025-11-10T11:37:39Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
