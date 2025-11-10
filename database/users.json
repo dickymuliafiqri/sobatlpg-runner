@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-10T07:18:12Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-10T07:20:32Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -200,14 +200,14 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "lastUpdate": "2025-11-10T04:19:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T07:20:32Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": -1,
-    "lastUpdate": "2025-11-10T04:19:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T07:20:32Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -236,20 +236,20 @@
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
-    "lastUpdate": "2025-11-10T04:19:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T07:20:32Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
-    "lastUpdate": "2025-11-10T04:19:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T07:20:56Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-11-10T04:20:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T07:20:57Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
