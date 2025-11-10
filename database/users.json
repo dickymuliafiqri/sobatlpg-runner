@@ -79,9 +79,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 7,
-    "lastUpdate": "2025-11-10T03:10:47Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-10T03:18:44Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -91,15 +91,15 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 7,
-    "lastUpdate": "2025-11-10T03:10:47Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-10T03:18:44Z",
+    "cycle": 5
   },
   {
     "name": "TK. MAJU",
-    "stock": 20,
-    "lastUpdate": "2025-11-10T03:10:47Z",
-    "cycle": 4
+    "stock": 21,
+    "lastUpdate": "2025-11-10T03:18:44Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -116,8 +116,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-10T03:10:47Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-10T03:18:44Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -128,8 +128,8 @@
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "lastUpdate": "2025-11-10T00:17:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T03:20:47Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -439,8 +439,8 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 61,
-    "lastUpdate": "2025-11-10T03:12:28Z",
-    "cycle": 3
+    "stock": 58,
+    "lastUpdate": "2025-11-10T03:21:14Z",
+    "cycle": 4
   }
 ]
