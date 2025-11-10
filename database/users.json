@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2025-11-09T22:09:25Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-10T01:10:05Z",
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
@@ -343,39 +343,39 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-10T01:06:22Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-10T01:10:05Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
-    "lastUpdate": "2025-11-10T01:06:23Z",
-    "cycle": 1
+    "stock": -1,
+    "lastUpdate": "2025-11-10T01:10:05Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
-    "lastUpdate": "2025-11-09T21:57:43Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T01:10:05Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
     "stock": 0,
-    "lastUpdate": "2025-11-09T21:57:44Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-10T01:10:30Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
-    "lastUpdate": "2025-11-09T22:02:02Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-10T01:10:34Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
-    "lastUpdate": "2025-11-09T21:59:45Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-10T01:10:37Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
