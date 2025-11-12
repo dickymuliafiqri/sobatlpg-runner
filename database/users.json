@@ -122,8 +122,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-12T13:08:21Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-12T13:10:23Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -230,20 +230,20 @@
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
-    "lastUpdate": "2025-11-12T13:08:48Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-12T13:10:23Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "lastUpdate": "2025-11-12T09:22:09Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-12T13:10:23Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
-    "lastUpdate": "2025-11-12T09:22:09Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-12T13:10:23Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
