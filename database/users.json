@@ -439,14 +439,14 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-12T13:40:31Z",
-    "cycle": 2
+    "stock": 8,
+    "lastUpdate": "2025-11-12T13:42:25Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
-    "lastUpdate": "2025-11-12T13:40:31Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-12T13:42:25Z",
+    "cycle": 3
   }
 ]
