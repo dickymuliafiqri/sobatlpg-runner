@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 41,
-    "lastUpdate": "2025-11-13T15:37:41Z",
-    "cycle": 3
+    "stock": 34,
+    "lastUpdate": "2025-11-13T15:42:15Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -163,15 +163,15 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastUpdate": "2025-11-13T15:38:07Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-13T15:42:15Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 1,
-    "lastUpdate": "2025-11-13T15:38:10Z",
-    "cycle": 1
+    "stock": 5,
+    "lastUpdate": "2025-11-13T15:42:15Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -182,20 +182,20 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "lastUpdate": "2025-11-12T11:34:30Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-13T15:42:15Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-11-12T13:08:21Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-13T15:42:41Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
-    "lastUpdate": "2025-11-12T12:12:40Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-13T15:42:45Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
