@@ -205,51 +205,51 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
-    "lastUpdate": "2025-11-14T05:55:25Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-14T05:58:42Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
-    "lastUpdate": "2025-11-14T05:55:27Z",
-    "cycle": 1
+    "stock": -5,
+    "lastUpdate": "2025-11-14T05:58:42Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-11-14T02:42:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-14T05:58:42Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
-    "lastUpdate": "2025-11-14T02:44:46Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-14T05:58:42Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
-    "lastUpdate": "2025-11-14T02:44:46Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-14T05:59:12Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "lastUpdate": "2025-11-14T02:44:46Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-14T05:59:13Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
-    "lastUpdate": "2025-11-14T02:44:46Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-14T05:59:14Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
-    "lastUpdate": "2025-11-14T02:45:13Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-14T05:59:17Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
