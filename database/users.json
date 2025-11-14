@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-11-14T14:56:04Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastUpdate": "2025-11-14T17:54:15Z",
+    "lastUpdate": "2025-11-14T17:56:14Z",
     "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-14T17:54:15Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-14T17:56:14Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastUpdate": "2025-11-14T17:56:14Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
