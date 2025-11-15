@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 36,
-    "lastUpdate": "2025-11-15T02:08:06Z",
-    "cycle": 1
+    "stock": 30,
+    "lastUpdate": "2025-11-15T02:13:40Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -313,9 +313,9 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 13,
-    "lastUpdate": "2025-11-15T02:10:40Z",
-    "cycle": 1
+    "stock": 6,
+    "lastUpdate": "2025-11-15T02:13:40Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
@@ -326,26 +326,26 @@
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-11-14T21:34:41Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T02:13:40Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
-    "lastUpdate": "2025-11-14T21:35:12Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T02:13:40Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
-    "lastUpdate": "2025-11-14T21:42:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T02:14:05Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
-    "stock": 0,
-    "lastUpdate": "2025-11-14T21:43:04Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-15T02:14:06Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
