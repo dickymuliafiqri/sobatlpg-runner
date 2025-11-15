@@ -182,8 +182,8 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "lastUpdate": "2025-11-15T06:28:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T09:30:42Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -397,9 +397,9 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 10,
-    "lastUpdate": "2025-11-15T09:25:58Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-15T09:30:42Z",
+    "cycle": 3
   },
   {
     "name": "SALMAH",
@@ -427,26 +427,26 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
-    "lastUpdate": "2025-11-15T09:26:24Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-15T09:30:42Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastUpdate": "2025-11-15T09:26:25Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-15T09:30:42Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
     "stock": 0,
-    "lastUpdate": "2025-11-15T04:51:23Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T09:31:10Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
-    "lastUpdate": "2025-11-15T05:39:22Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-15T09:31:11Z",
+    "cycle": 1
   }
 ]
