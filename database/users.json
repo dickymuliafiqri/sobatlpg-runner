@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastUpdate": "2025-11-15T12:53:17Z",
-    "cycle": 0
+    "stock": 0,
+    "lastUpdate": "2025-11-15T13:25:10Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T08:53:05Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T13:25:10Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T08:53:05Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T13:25:10Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -139,9 +139,9 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 35,
-    "lastUpdate": "2025-11-15T13:00:03Z",
-    "cycle": 0
+    "stock": 26,
+    "lastUpdate": "2025-11-15T13:25:10Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -151,9 +151,9 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
-    "lastUpdate": "2025-11-15T09:00:03Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-15T13:25:49Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
