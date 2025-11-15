@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T13:25:10Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-15T13:29:16Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T13:25:10Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-15T13:29:16Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -139,9 +139,9 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 26,
-    "lastUpdate": "2025-11-15T13:25:10Z",
-    "cycle": 1
+    "stock": 16,
+    "lastUpdate": "2025-11-15T13:29:16Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
@@ -151,21 +151,21 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
-    "lastUpdate": "2025-11-15T13:25:49Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-15T13:29:16Z",
+    "cycle": 2
   },
   {
     "name": "JONI H",
     "stock": 0,
-    "lastUpdate": "2025-11-15T09:01:01Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T13:29:41Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastUpdate": "2025-11-15T12:57:55Z",
-    "cycle": 0
+    "stock": 0,
+    "lastUpdate": "2025-11-15T13:30:09Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -193,9 +193,9 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-15T13:00:36Z",
-    "cycle": 0
+    "stock": 4,
+    "lastUpdate": "2025-11-15T13:30:34Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -272,8 +272,8 @@
   {
     "name": "YUSUF ISMAIL",
     "stock": 1,
-    "lastUpdate": "2025-11-15T13:12:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T13:30:57Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
