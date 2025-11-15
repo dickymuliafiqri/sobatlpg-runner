@@ -63,7 +63,7 @@
     "name": "JAENAL",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:25:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T13:39:17Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-15T13:41:57Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T13:39:17Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-15T13:41:57Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -141,7 +141,7 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:39:17Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "P. SUK",
@@ -153,19 +153,19 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:29:16Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:29:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:30:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -195,7 +195,7 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:34:43Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -273,7 +273,7 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:36:20Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
@@ -321,13 +321,13 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:36:44Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:36:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -345,7 +345,7 @@
     "name": "TUSOK",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:36:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -375,7 +375,7 @@
     "name": "SUSILO",
     "stock": 0,
     "lastUpdate": "2025-11-15T13:37:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. HAERONI",
