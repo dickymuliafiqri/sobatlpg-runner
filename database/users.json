@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2025-11-15T01:47:56Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-15T04:48:49Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T04:44:43Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-15T04:48:49Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-15T04:44:43Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-15T04:48:49Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 2,
-    "lastUpdate": "2025-11-15T04:44:43Z",
-    "cycle": 3
+    "stock": 1,
+    "lastUpdate": "2025-11-15T04:48:49Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
