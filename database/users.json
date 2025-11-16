@@ -193,9 +193,9 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-16T04:39:37Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-16T04:40:46Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
@@ -271,9 +271,9 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
-    "lastUpdate": "2025-11-16T04:39:37Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-16T04:40:46Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
@@ -319,15 +319,15 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
-    "lastUpdate": "2025-11-16T04:39:37Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-16T04:40:46Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastUpdate": "2025-11-16T04:39:37Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-16T04:40:46Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -344,8 +344,8 @@
   {
     "name": "TUSOK",
     "stock": 0,
-    "lastUpdate": "2025-11-16T01:39:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-16T04:41:11Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -428,20 +428,20 @@
   {
     "name": "SOEKAMTO",
     "stock": 1,
-    "lastUpdate": "2025-11-16T04:38:13Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-16T04:41:13Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 1,
-    "lastUpdate": "2025-11-16T04:38:14Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-16T04:41:15Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
-    "lastUpdate": "2025-11-16T04:38:15Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-16T04:41:15Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
