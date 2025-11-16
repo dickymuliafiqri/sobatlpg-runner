@@ -63,7 +63,7 @@
     "name": "JAENAL",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:32:43Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-16T07:35:35Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-16T07:38:11Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-16T07:35:35Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-16T07:38:11Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -153,19 +153,19 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:35:35Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:35:35Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:36:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -243,25 +243,25 @@
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:27:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:27:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:27:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:27:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -279,7 +279,7 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:28:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
@@ -309,13 +309,13 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:30:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:30:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -333,13 +333,13 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:30:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:30:44Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
@@ -351,25 +351,25 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:31:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:32:43Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BUDI",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:33:12Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:33:15Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -381,48 +381,48 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:33:43Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:36:05Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastUpdate": "2025-11-16T07:36:31Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
-    "lastUpdate": "2025-11-16T04:37:44Z",
+    "lastUpdate": "2025-11-16T07:38:11Z",
     "cycle": 0
   },
   {
     "name": "SALMAH",
     "stock": 0,
-    "lastUpdate": "2025-11-16T04:37:44Z",
+    "lastUpdate": "2025-11-16T07:38:11Z",
     "cycle": 0
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
-    "lastUpdate": "2025-11-16T04:37:44Z",
+    "lastUpdate": "2025-11-16T07:38:37Z",
     "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "lastUpdate": "2025-11-16T04:37:44Z",
+    "lastUpdate": "2025-11-16T07:38:38Z",
     "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
-    "lastUpdate": "2025-11-16T04:38:12Z",
+    "lastUpdate": "2025-11-16T07:39:02Z",
     "cycle": 0
   },
   {
