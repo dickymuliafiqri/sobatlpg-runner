@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-16T15:54:32Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-16T15:56:54Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-16T15:54:32Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-16T15:56:54Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -266,7 +266,7 @@
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
-    "lastUpdate": "2025-11-16T12:56:15Z",
+    "lastUpdate": "2025-11-16T15:56:54Z",
     "cycle": 0
   },
   {
@@ -284,19 +284,19 @@
   {
     "name": "H. JUMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-16T12:56:15Z",
+    "lastUpdate": "2025-11-16T15:56:54Z",
     "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-11-16T12:56:45Z",
+    "lastUpdate": "2025-11-16T15:57:20Z",
     "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
-    "lastUpdate": "2025-11-16T12:56:48Z",
+    "lastUpdate": "2025-11-16T15:57:22Z",
     "cycle": 0
   },
   {
@@ -446,7 +446,7 @@
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-16T12:57:17Z",
+    "lastUpdate": "2025-11-16T15:57:49Z",
     "cycle": 0
   }
 ]
