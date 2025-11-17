@@ -15,7 +15,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "lastUpdate": "2025-11-17T13:43:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastUpdate": "2025-11-17T13:43:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-17T13:46:10Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-17T13:48:58Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-17T13:46:10Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-17T13:48:58Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -429,7 +429,7 @@
     "name": "SOEKAMTO",
     "stock": 0,
     "lastUpdate": "2025-11-17T13:37:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
