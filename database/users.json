@@ -427,15 +427,15 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 43,
-    "lastUpdate": "2025-11-17T10:30:36Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2025-11-17T10:32:35Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 1,
-    "lastUpdate": "2025-11-17T10:30:37Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-17T10:32:35Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
@@ -446,7 +446,7 @@
   {
     "name": "UD RAHMAT",
     "stock": 1,
-    "lastUpdate": "2025-11-17T10:30:37Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-17T10:32:35Z",
+    "cycle": 2
   }
 ]
