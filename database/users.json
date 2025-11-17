@@ -307,9 +307,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 11,
-    "lastUpdate": "2025-11-17T02:29:14Z",
-    "cycle": 3
+    "stock": 1,
+    "lastUpdate": "2025-11-17T02:34:27Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -439,14 +439,14 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 51,
-    "lastUpdate": "2025-11-17T02:29:14Z",
-    "cycle": 3
+    "stock": 44,
+    "lastUpdate": "2025-11-17T02:34:27Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
-    "stock": 18,
-    "lastUpdate": "2025-11-17T02:30:56Z",
-    "cycle": 3
+    "stock": 11,
+    "lastUpdate": "2025-11-17T02:34:27Z",
+    "cycle": 4
   }
 ]
