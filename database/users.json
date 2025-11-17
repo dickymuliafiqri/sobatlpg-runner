@@ -2,7 +2,7 @@
   {
     "name": "ABDUL WAFI",
     "stock": 0,
-    "lastUpdate": "2025-11-17T09:31:36Z",
+    "lastUpdate": "2025-11-17T12:35:36Z",
     "cycle": 0
   },
   {
@@ -39,13 +39,13 @@
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:24:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:05:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -75,13 +75,13 @@
     "name": "KARSONO",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:17:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:05:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -105,7 +105,7 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:05:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -117,31 +117,31 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-17T12:24:09Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-17T12:24:09Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:17:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:31:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:31:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
@@ -165,7 +165,7 @@
     "name": "TOKO IRAWAN",
     "stock": 34,
     "lastUpdate": "2025-11-17T12:24:09Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -183,7 +183,7 @@
     "name": "LUKMAN BS",
     "stock": 4,
     "lastUpdate": "2025-11-17T12:24:38Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -219,13 +219,13 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:19:53Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastUpdate": "2025-11-17T12:19:56Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -267,7 +267,7 @@
     "name": "ONG SWI GIOK",
     "stock": 5,
     "lastUpdate": "2025-11-17T12:31:27Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
@@ -427,9 +427,9 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 8,
-    "lastUpdate": "2025-11-17T12:31:27Z",
-    "cycle": 4
+    "stock": 9,
+    "lastUpdate": "2025-11-17T12:35:36Z",
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
