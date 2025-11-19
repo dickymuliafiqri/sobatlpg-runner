@@ -3,19 +3,19 @@
     "name": "ABDUL WAFI",
     "stock": 72,
     "lastUpdate": "2025-11-19T12:42:54Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "AKBAR RISQ",
     "stock": 24,
     "lastUpdate": "2025-11-19T12:42:54Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 72,
     "lastUpdate": "2025-11-19T12:42:54Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,19 +39,19 @@
     "name": "BINA MAKMUR",
     "stock": 46,
     "lastUpdate": "2025-11-19T12:42:54Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 37,
     "lastUpdate": "2025-11-19T12:46:15Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:27:57Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -63,13 +63,13 @@
     "name": "JAENAL",
     "stock": 62,
     "lastUpdate": "2025-11-19T12:46:47Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:10:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -81,7 +81,7 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:38:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -105,25 +105,25 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:47:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:28:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-19T12:48:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-19T12:55:31Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -135,19 +135,19 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:53:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:53:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastUpdate": "2025-11-19T12:59:22Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-19T13:00:28Z",
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -159,13 +159,13 @@
     "name": "JONI H",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:53:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:53:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -177,49 +177,49 @@
     "name": "ROSA V",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:54:07Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:56:57Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:56:57Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:56:57Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:56:57Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastUpdate": "2025-11-19T12:57:25Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
-    "lastUpdate": "2025-11-19T12:59:22Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-19T13:00:28Z",
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
-    "lastUpdate": "2025-11-19T12:59:22Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-19T13:00:28Z",
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -361,9 +361,9 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-19T12:59:22Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-11-19T13:00:28Z",
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
