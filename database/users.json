@@ -415,9 +415,9 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 9,
-    "lastUpdate": "2025-11-19T07:45:34Z",
-    "cycle": 2
+    "stock": 3,
+    "lastUpdate": "2025-11-19T07:49:58Z",
+    "cycle": 3
   },
   {
     "name": "UD SAMAN HADI",
@@ -440,13 +440,13 @@
   {
     "name": "TOKO POJOK",
     "stock": 1,
-    "lastUpdate": "2025-11-19T07:45:34Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-19T07:49:58Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 25,
-    "lastUpdate": "2025-11-19T07:45:34Z",
-    "cycle": 1
+    "stock": 18,
+    "lastUpdate": "2025-11-19T07:49:58Z",
+    "cycle": 2
   }
 ]
