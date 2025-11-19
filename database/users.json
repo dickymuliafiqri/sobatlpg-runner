@@ -33,7 +33,7 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastUpdate": "2025-11-19T20:31:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -75,7 +75,7 @@
     "name": "KARSONO",
     "stock": 0,
     "lastUpdate": "2025-11-19T20:31:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
@@ -93,13 +93,13 @@
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "lastUpdate": "2025-11-19T20:31:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-11-19T20:31:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-19T20:32:06Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-19T20:33:27Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-19T20:32:06Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-19T20:33:27Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -285,7 +285,7 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastUpdate": "2025-11-19T20:32:07Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
