@@ -55,57 +55,57 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T16:44:24Z",
-    "cycle": 0
-  },
-  {
-    "name": "JAENAL",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T16:56:24Z",
-    "cycle": 0
-  },
-  {
-    "name": "JOKO SUWARNO",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T16:56:24Z",
-    "cycle": 0
-  },
-  {
-    "name": "KARSONO",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T15:20:30Z",
-    "cycle": 0
-  },
-  {
-    "name": "LUTFI A.",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T15:06:35Z",
-    "cycle": 0
-  },
-  {
-    "name": "MOH SAID",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T16:56:24Z",
-    "cycle": 0
-  },
-  {
-    "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T17:13:23Z",
+    "stock": 149,
+    "lastUpdate": "2025-11-19T01:58:56Z",
     "cycle": 1
   },
   {
+    "name": "JAENAL",
+    "stock": 193,
+    "lastUpdate": "2025-11-19T01:58:56Z",
+    "cycle": 1
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 133,
+    "lastUpdate": "2025-11-19T01:58:56Z",
+    "cycle": 1
+  },
+  {
+    "name": "KARSONO",
+    "stock": 88,
+    "lastUpdate": "2025-11-19T01:58:56Z",
+    "cycle": 1
+  },
+  {
+    "name": "LUTFI A.",
+    "stock": 103,
+    "lastUpdate": "2025-11-19T02:02:10Z",
+    "cycle": 1
+  },
+  {
+    "name": "MOH SAID",
+    "stock": 79,
+    "lastUpdate": "2025-11-19T02:03:13Z",
+    "cycle": 1
+  },
+  {
+    "name": "TITIK ISMIATIN",
+    "stock": 154,
+    "lastUpdate": "2025-11-19T02:04:01Z",
+    "cycle": 2
+  },
+  {
     "name": "TK. MAJU",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T14:22:51Z",
-    "cycle": 0
+    "stock": 153,
+    "lastUpdate": "2025-11-19T02:04:11Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
-    "lastUpdate": "2025-11-17T15:06:35Z",
-    "cycle": 0
+    "stock": 115,
+    "lastUpdate": "2025-11-19T02:07:27Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
