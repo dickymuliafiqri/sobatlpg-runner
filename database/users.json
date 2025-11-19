@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 20,
-    "lastUpdate": "2025-11-19T22:03:38Z",
-    "cycle": 4
+    "stock": 8,
+    "lastUpdate": "2025-11-19T22:09:12Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -146,8 +146,8 @@
   {
     "name": "P. SUK",
     "stock": 0,
-    "lastUpdate": "2025-11-19T19:04:10Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-19T22:09:12Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -187,9 +187,9 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 36,
-    "lastUpdate": "2025-11-19T22:03:38Z",
-    "cycle": 2
+    "stock": 22,
+    "lastUpdate": "2025-11-19T22:09:12Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
@@ -212,14 +212,14 @@
   {
     "name": "SRI UTAMI",
     "stock": 0,
-    "lastUpdate": "2025-11-19T19:04:10Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-19T22:09:12Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-11-19T19:04:12Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-19T22:09:36Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -361,9 +361,9 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
-    "lastUpdate": "2025-11-19T19:04:13Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-19T22:09:37Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
