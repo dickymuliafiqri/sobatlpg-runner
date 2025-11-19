@@ -50,8 +50,8 @@
   {
     "name": "SUCIYONO",
     "stock": 0,
-    "lastUpdate": "2025-11-19T12:27:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-19T15:29:42Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-11-19T12:28:34Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastUpdate": "2025-11-19T15:26:32Z",
+    "lastUpdate": "2025-11-19T15:29:42Z",
     "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-19T15:26:32Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-19T15:29:42Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastUpdate": "2025-11-19T15:29:42Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
