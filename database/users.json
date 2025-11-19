@@ -1,21 +1,21 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 88,
-    "lastUpdate": "2025-11-19T12:23:27Z",
-    "cycle": 3
+    "stock": 81,
+    "lastUpdate": "2025-11-19T12:33:40Z",
+    "cycle": 4
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 40,
-    "lastUpdate": "2025-11-19T12:23:27Z",
-    "cycle": 3
+    "stock": 30,
+    "lastUpdate": "2025-11-19T12:33:40Z",
+    "cycle": 4
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 84,
-    "lastUpdate": "2025-11-19T12:23:27Z",
-    "cycle": 3
+    "stock": 78,
+    "lastUpdate": "2025-11-19T12:33:40Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,15 +37,15 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 58,
-    "lastUpdate": "2025-11-19T12:23:27Z",
-    "cycle": 3
+    "stock": 52,
+    "lastUpdate": "2025-11-19T12:33:40Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 47,
-    "lastUpdate": "2025-11-19T12:27:25Z",
-    "cycle": 3
+    "stock": 42,
+    "lastUpdate": "2025-11-19T12:37:20Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 71,
-    "lastUpdate": "2025-11-19T12:28:11Z",
-    "cycle": 3
+    "stock": 65,
+    "lastUpdate": "2025-11-19T12:37:40Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -80,8 +80,8 @@
   {
     "name": "LUTFI A.",
     "stock": 0,
-    "lastUpdate": "2025-11-19T09:36:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-19T12:38:09Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-19T12:29:04Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-19T12:38:33Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-19T12:19:37Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-19T12:38:34Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
