@@ -277,9 +277,9 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 5,
-    "lastUpdate": "2025-11-19T07:16:16Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-19T07:20:12Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -289,9 +289,9 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 17,
-    "lastUpdate": "2025-11-19T07:16:16Z",
-    "cycle": 2
+    "stock": 9,
+    "lastUpdate": "2025-11-19T07:20:12Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
@@ -301,27 +301,27 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
-    "lastUpdate": "2025-11-19T07:17:13Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-19T07:20:12Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastUpdate": "2025-11-19T03:56:52Z",
-    "cycle": 0
+    "stock": 54,
+    "lastUpdate": "2025-11-19T07:20:12Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
-    "lastUpdate": "2025-11-19T03:39:25Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-19T07:20:40Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
-    "lastUpdate": "2025-11-19T03:39:51Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-19T07:21:13Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
