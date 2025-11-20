@@ -3,31 +3,31 @@
     "name": "ABDUL WAFI",
     "stock": 28,
     "lastUpdate": "2025-11-20T02:39:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:49:44Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 25,
     "lastUpdate": "2025-11-20T02:39:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:14:30Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:49:44Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -39,31 +39,31 @@
     "name": "BINA MAKMUR",
     "stock": 27,
     "lastUpdate": "2025-11-20T02:39:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 16,
     "lastUpdate": "2025-11-20T02:43:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:31:01Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:45:01Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
     "stock": 31,
     "lastUpdate": "2025-11-20T02:45:52Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -75,31 +75,31 @@
     "name": "KARSONO",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:46:09Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:48:00Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
     "stock": 0,
-    "lastUpdate": "2025-11-20T00:29:05Z",
+    "lastUpdate": "2025-11-20T03:32:30Z",
     "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:54:10Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
     "stock": 9,
     "lastUpdate": "2025-11-20T03:09:16Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -111,19 +111,19 @@
     "name": "TOKO IIN",
     "stock": 27,
     "lastUpdate": "2025-11-20T03:09:16Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-20T03:09:16Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-20T03:09:16Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -225,55 +225,55 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:52:53Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:53:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:59:25Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:59:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastUpdate": "2025-11-20T02:59:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastUpdate": "2025-11-20T03:04:03Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastUpdate": "2025-11-20T03:23:34Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastUpdate": "2025-11-20T03:04:28Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastUpdate": "2025-11-20T03:09:18Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
@@ -327,7 +327,7 @@
     "name": "SUDJIONO",
     "stock": 0,
     "lastUpdate": "2025-11-20T03:09:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 29,
-    "lastUpdate": "2025-11-20T03:27:22Z",
-    "cycle": 4
+    "stock": 25,
+    "lastUpdate": "2025-11-20T03:32:30Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
