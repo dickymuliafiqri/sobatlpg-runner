@@ -97,9 +97,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 30,
-    "lastUpdate": "2025-11-20T02:54:10Z",
-    "cycle": 2
+    "stock": 24,
+    "lastUpdate": "2025-11-20T02:59:23Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -109,21 +109,21 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 42,
-    "lastUpdate": "2025-11-20T02:54:10Z",
-    "cycle": 2
+    "stock": 40,
+    "lastUpdate": "2025-11-20T02:59:23Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-20T02:54:10Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-20T02:59:23Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-20T02:54:11Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-20T02:59:23Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -235,27 +235,27 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T02:54:12Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-20T02:59:25Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
-    "lastUpdate": "2025-11-19T22:50:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T02:59:26Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-11-19T22:50:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T02:59:48Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
-    "lastUpdate": "2025-11-19T23:07:38Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-20T02:59:50Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
