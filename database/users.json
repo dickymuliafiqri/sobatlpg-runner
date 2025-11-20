@@ -110,8 +110,8 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-11-20T08:02:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T11:02:42Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -367,9 +367,9 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 37,
-    "lastUpdate": "2025-11-20T10:57:50Z",
-    "cycle": 4
+    "stock": 26,
+    "lastUpdate": "2025-11-20T11:02:42Z",
+    "cycle": 5
   },
   {
     "name": "SUSILO",
@@ -379,9 +379,9 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 2,
-    "lastUpdate": "2025-11-20T10:57:50Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-11-20T11:02:42Z",
+    "cycle": 4
   },
   {
     "name": "IMA",
@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 23,
-    "lastUpdate": "2025-11-20T10:57:50Z",
-    "cycle": 2
+    "stock": 18,
+    "lastUpdate": "2025-11-20T11:02:42Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
