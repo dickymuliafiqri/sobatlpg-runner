@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T04:31:38Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-20T04:33:31Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -289,39 +289,39 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T04:31:38Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-20T04:33:31Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T04:31:38Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-20T04:33:31Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T04:31:38Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-20T04:33:31Z",
+    "cycle": 3
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "lastUpdate": "2025-11-20T01:13:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T04:33:58Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T01:13:48Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-20T04:33:59Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T01:13:48Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-20T04:34:01Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -331,9 +331,9 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T01:14:14Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-20T04:34:01Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
