@@ -205,21 +205,21 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T04:26:17Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-20T04:29:13Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T04:26:19Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-20T04:29:13Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-11-20T01:10:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T04:29:13Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -278,32 +278,32 @@
   {
     "name": "SUPARNI",
     "stock": 0,
-    "lastUpdate": "2025-11-20T00:54:20Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T04:29:13Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-20T00:54:20Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T04:29:39Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T01:08:11Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-20T04:29:42Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T01:10:53Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-20T04:29:43Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T01:11:19Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-20T04:29:46Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
