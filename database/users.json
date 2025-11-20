@@ -127,9 +127,9 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 6,
-    "lastUpdate": "2025-11-20T01:33:59Z",
-    "cycle": 2
+    "stock": 2,
+    "lastUpdate": "2025-11-20T01:38:36Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -433,20 +433,20 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T01:34:26Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-20T01:38:36Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-20T01:34:28Z",
-    "cycle": 3
+    "stock": 73,
+    "lastUpdate": "2025-11-20T01:38:36Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "lastUpdate": "2025-11-19T21:01:08Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-20T01:38:36Z",
+    "cycle": 1
   }
 ]
