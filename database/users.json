@@ -105,7 +105,7 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastUpdate": "2025-11-20T13:33:36Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-20T13:34:49Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-20T13:35:06Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-20T13:34:49Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-20T13:35:06Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -291,19 +291,19 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastUpdate": "2025-11-20T13:33:36Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastUpdate": "2025-11-20T13:33:37Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastUpdate": "2025-11-20T13:33:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
