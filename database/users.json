@@ -355,21 +355,21 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
-    "lastUpdate": "2025-11-21T14:15:12Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-21T14:17:50Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-21T14:15:13Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-21T14:17:50Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-11-21T11:14:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-21T14:17:50Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -439,14 +439,14 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 70,
-    "lastUpdate": "2025-11-21T14:07:32Z",
-    "cycle": 1
+    "stock": 68,
+    "lastUpdate": "2025-11-21T14:17:50Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
-    "lastUpdate": "2025-11-21T14:07:34Z",
-    "cycle": 1
+    "stock": 17,
+    "lastUpdate": "2025-11-21T14:18:16Z",
+    "cycle": 2
   }
 ]
