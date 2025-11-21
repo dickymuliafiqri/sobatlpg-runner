@@ -421,32 +421,32 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 1,
-    "lastUpdate": "2025-11-21T14:29:28Z",
-    "cycle": 2
-  },
-  {
-    "name": "SOEKAMTO",
-    "stock": 1,
-    "lastUpdate": "2025-11-21T14:29:28Z",
-    "cycle": 2
-  },
-  {
-    "name": "TOKO TIARA",
-    "stock": 1,
-    "lastUpdate": "2025-11-21T14:29:28Z",
-    "cycle": 2
-  },
-  {
-    "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-21T14:29:28Z",
+    "stock": 0,
+    "lastUpdate": "2025-11-21T14:30:34Z",
     "cycle": 3
   },
   {
+    "name": "SOEKAMTO",
+    "stock": 0,
+    "lastUpdate": "2025-11-21T14:30:34Z",
+    "cycle": 3
+  },
+  {
+    "name": "TOKO TIARA",
+    "stock": 0,
+    "lastUpdate": "2025-11-21T14:30:34Z",
+    "cycle": 3
+  },
+  {
+    "name": "TOKO POJOK",
+    "stock": 60,
+    "lastUpdate": "2025-11-21T14:30:34Z",
+    "cycle": 4
+  },
+  {
     "name": "UD RAHMAT",
-    "stock": 17,
-    "lastUpdate": "2025-11-21T14:18:16Z",
-    "cycle": 2
+    "stock": 7,
+    "lastUpdate": "2025-11-21T14:30:58Z",
+    "cycle": 3
   }
 ]
