@@ -241,9 +241,9 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 4,
-    "lastUpdate": "2025-11-21T10:49:13Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-21T10:54:25Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -271,9 +271,9 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 47,
-    "lastUpdate": "2025-11-21T10:49:42Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2025-11-21T10:54:25Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
@@ -301,15 +301,15 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T13:33:38Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-21T10:54:25Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
-    "lastUpdate": "2025-11-20T14:29:29Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-21T10:54:25Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
