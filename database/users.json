@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 80,
-    "lastUpdate": "2025-11-21T22:26:33Z",
-    "cycle": 2
+    "stock": 70,
+    "lastUpdate": "2025-11-21T22:33:34Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 70,
-    "lastUpdate": "2025-11-21T22:26:33Z",
-    "cycle": 2
+    "stock": 67,
+    "lastUpdate": "2025-11-21T22:33:34Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,9 +37,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
-    "lastUpdate": "2025-11-21T19:29:27Z",
-    "cycle": 0
+    "stock": 85,
+    "lastUpdate": "2025-11-21T22:33:34Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 100,
-    "lastUpdate": "2025-11-21T22:26:33Z",
-    "cycle": 1
+    "stock": 94,
+    "lastUpdate": "2025-11-21T22:33:34Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,9 +85,9 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 16,
-    "lastUpdate": "2025-11-21T22:26:33Z",
-    "cycle": 3
+    "stock": 6,
+    "lastUpdate": "2025-11-21T22:37:36Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
@@ -103,15 +103,15 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
-    "lastUpdate": "2025-11-21T19:34:54Z",
-    "cycle": 0
+    "stock": 51,
+    "lastUpdate": "2025-11-21T22:38:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 26,
-    "lastUpdate": "2025-11-21T22:28:13Z",
-    "cycle": 4
+    "stock": 20,
+    "lastUpdate": "2025-11-21T22:39:21Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -134,8 +134,8 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
-    "lastUpdate": "2025-11-21T19:34:54Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-21T22:41:12Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 99,
-    "lastUpdate": "2025-11-21T22:30:44Z",
-    "cycle": 1
+    "stock": 89,
+    "lastUpdate": "2025-11-21T22:41:41Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
