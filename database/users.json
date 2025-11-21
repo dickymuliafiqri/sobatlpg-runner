@@ -109,21 +109,21 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 19,
-    "lastUpdate": "2025-11-21T15:48:02Z",
-    "cycle": 1
+    "stock": 13,
+    "lastUpdate": "2025-11-21T15:53:08Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-21T15:48:42Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-21T15:53:08Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-21T15:48:43Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-21T15:53:08Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 54,
-    "lastUpdate": "2025-11-21T14:38:21Z",
-    "cycle": 0
+    "stock": 49,
+    "lastUpdate": "2025-11-21T15:53:08Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
