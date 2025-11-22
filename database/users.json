@@ -265,9 +265,9 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-22T09:25:24Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-11-22T09:30:15Z",
+    "cycle": 4
   },
   {
     "name": "YUSUF ISMAIL",
@@ -283,9 +283,9 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 2,
-    "lastUpdate": "2025-11-22T09:25:24Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2025-11-22T09:30:15Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -295,27 +295,27 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
-    "lastUpdate": "2025-11-22T06:05:36Z",
-    "cycle": 0
+    "stock": 26,
+    "lastUpdate": "2025-11-22T09:30:15Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
-    "lastUpdate": "2025-11-22T06:05:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-22T09:30:15Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "lastUpdate": "2025-11-22T06:09:39Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-22T09:30:38Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
-    "lastUpdate": "2025-11-22T06:09:39Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-22T09:30:43Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
