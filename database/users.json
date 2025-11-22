@@ -385,9 +385,9 @@
   },
   {
     "name": "IMA",
-    "stock": 7,
-    "lastUpdate": "2025-11-22T03:30:51Z",
-    "cycle": 4
+    "stock": 2,
+    "lastUpdate": "2025-11-22T03:36:50Z",
+    "cycle": 5
   },
   {
     "name": "DARMAWAN P",
@@ -403,9 +403,9 @@
   },
   {
     "name": "SALMAH",
-    "stock": 28,
-    "lastUpdate": "2025-11-22T03:30:51Z",
-    "cycle": 3
+    "stock": 23,
+    "lastUpdate": "2025-11-22T03:36:50Z",
+    "cycle": 4
   },
   {
     "name": "TOKO ANITA",
@@ -439,14 +439,14 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 83,
-    "lastUpdate": "2025-11-22T03:31:15Z",
-    "cycle": 1
+    "stock": 80,
+    "lastUpdate": "2025-11-22T03:36:50Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
-    "lastUpdate": "2025-11-22T03:31:16Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-22T03:36:50Z",
+    "cycle": 2
   }
 ]
