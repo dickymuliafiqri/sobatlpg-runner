@@ -67,9 +67,9 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 47,
-    "lastUpdate": "2025-11-23T21:51:20Z",
-    "cycle": 2
+    "stock": 35,
+    "lastUpdate": "2025-11-23T21:55:36Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
@@ -247,9 +247,9 @@
   },
   {
     "name": "SUROSO",
-    "stock": 1,
-    "lastUpdate": "2025-11-23T21:51:51Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-23T21:55:36Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
@@ -260,8 +260,8 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "lastUpdate": "2025-11-23T18:50:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-23T21:55:36Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -278,8 +278,8 @@
   {
     "name": "SUPARNI",
     "stock": 0,
-    "lastUpdate": "2025-11-23T18:50:56Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-23T21:55:36Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -452,7 +452,7 @@
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-11-23T18:44:02Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-23T21:56:01Z",
+    "cycle": 1
   }
 ]
