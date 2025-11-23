@@ -37,15 +37,15 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
-    "lastUpdate": "2025-11-23T19:40:32Z",
-    "cycle": 0
+    "stock": 90,
+    "lastUpdate": "2025-11-23T22:45:36Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 20,
-    "lastUpdate": "2025-11-23T22:39:33Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-23T22:45:36Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
-    "lastUpdate": "2025-11-23T19:40:32Z",
-    "cycle": 0
+    "stock": 92,
+    "lastUpdate": "2025-11-23T22:45:36Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -343,21 +343,21 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
-    "lastUpdate": "2025-11-23T22:40:00Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-23T22:45:36Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
-    "lastUpdate": "2025-11-23T19:36:23Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-23T22:46:03Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
-    "lastUpdate": "2025-11-23T19:31:48Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-23T22:46:30Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
