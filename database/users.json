@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2025-11-22T22:16:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-23T01:16:46Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -44,8 +44,8 @@
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
-    "lastUpdate": "2025-11-22T22:16:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-23T01:16:46Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -127,9 +127,9 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
-    "lastUpdate": "2025-11-23T01:12:30Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-23T01:16:46Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -139,15 +139,15 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 4,
-    "lastUpdate": "2025-11-23T01:12:30Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-23T01:16:46Z",
+    "cycle": 3
   },
   {
     "name": "P. SUK",
-    "stock": 0,
-    "lastUpdate": "2025-11-22T22:16:03Z",
-    "cycle": 0
+    "stock": 19,
+    "lastUpdate": "2025-11-23T01:17:11Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -313,9 +313,9 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 11,
-    "lastUpdate": "2025-11-23T01:12:59Z",
-    "cycle": 2
+    "stock": 1,
+    "lastUpdate": "2025-11-23T01:17:12Z",
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
