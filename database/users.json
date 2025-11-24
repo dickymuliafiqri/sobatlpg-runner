@@ -373,9 +373,9 @@
   },
   {
     "name": "SUSILO",
-    "stock": 1,
-    "lastUpdate": "2025-11-24T12:26:57Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-24T12:31:59Z",
+    "cycle": 5
   },
   {
     "name": "HJ. HAERONI",
@@ -427,9 +427,9 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 18,
-    "lastUpdate": "2025-11-24T12:26:57Z",
-    "cycle": 1
+    "stock": 12,
+    "lastUpdate": "2025-11-24T12:31:59Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -446,13 +446,13 @@
   {
     "name": "UD RAHMAT",
     "stock": 1,
-    "lastUpdate": "2025-11-24T12:27:28Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-24T12:31:59Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
-    "lastUpdate": "2025-11-24T09:03:02Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-24T12:31:59Z",
+    "cycle": 1
   }
 ]
