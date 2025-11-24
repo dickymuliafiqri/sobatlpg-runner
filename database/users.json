@@ -79,9 +79,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
-    "lastUpdate": "2025-11-24T10:19:17Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-24T13:20:01Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -134,8 +134,8 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 1,
-    "lastUpdate": "2025-11-24T13:17:51Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-24T13:20:01Z",
+    "cycle": 3
   },
   {
     "name": "ERNA PUJIATI",
@@ -164,14 +164,14 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
-    "lastUpdate": "2025-11-24T13:17:53Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-24T13:20:01Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 1,
-    "lastUpdate": "2025-11-24T13:17:53Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-24T13:20:01Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
