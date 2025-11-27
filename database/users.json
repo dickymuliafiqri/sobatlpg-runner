@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2025-11-27T09:12:21Z",
-    "cycle": -9
+    "lastUpdate": "2025-11-27T12:19:10Z",
+    "cycle": -8
   },
   {
     "name": "BINA MAKMUR",
@@ -61,8 +61,8 @@
   },
   {
     "name": "JAENAL",
-    "stock": 159,
-    "lastUpdate": "2025-11-27T12:10:15Z",
+    "stock": 152,
+    "lastUpdate": "2025-11-27T12:19:10Z",
     "cycle": 1
   },
   {
@@ -79,15 +79,15 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 145,
-    "lastUpdate": "2025-11-27T12:10:15Z",
-    "cycle": 1
+    "stock": 139,
+    "lastUpdate": "2025-11-27T12:19:10Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
-    "stock": 19,
-    "lastUpdate": "2025-11-27T12:10:15Z",
-    "cycle": -3
+    "stock": 15,
+    "lastUpdate": "2025-11-27T12:19:10Z",
+    "cycle": -2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 49,
-    "lastUpdate": "2025-11-27T12:10:15Z",
-    "cycle": -7
+    "stock": 42,
+    "lastUpdate": "2025-11-27T12:19:42Z",
+    "cycle": -6
   },
   {
     "name": "TOKO IIN",
@@ -259,9 +259,9 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 28,
-    "lastUpdate": "2025-11-27T12:13:00Z",
-    "cycle": 4
+    "stock": 22,
+    "lastUpdate": "2025-11-27T12:22:12Z",
+    "cycle": 5
   },
   {
     "name": "ONG SWI GIOK",
@@ -271,15 +271,15 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 41,
-    "lastUpdate": "2025-11-27T12:13:53Z",
-    "cycle": 2
+    "stock": 33,
+    "lastUpdate": "2025-11-27T12:23:10Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 27,
-    "lastUpdate": "2025-11-27T12:15:22Z",
-    "cycle": 4
+    "stock": 21,
+    "lastUpdate": "2025-11-27T12:23:20Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
@@ -289,9 +289,9 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 57,
-    "lastUpdate": "2025-11-27T06:44:06Z",
-    "cycle": 2
+    "stock": 42,
+    "lastUpdate": "2025-11-27T12:23:41Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
