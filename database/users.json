@@ -457,14 +457,14 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastUpdate": "2025-11-28T08:54:14Z",
-    "cycle": 1
+    "stock": 20,
+    "lastUpdate": "2025-11-28T08:56:19Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-11-28T05:11:37Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-28T08:56:19Z",
+    "cycle": 1
   }
 ]
