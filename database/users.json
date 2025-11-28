@@ -31,15 +31,15 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
-    "lastUpdate": "2025-11-28T18:45:05Z",
-    "cycle": 0
+    "stock": 54,
+    "lastUpdate": "2025-11-28T21:45:30Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
-    "lastUpdate": "2025-11-28T18:45:05Z",
-    "cycle": 0
+    "stock": 93,
+    "lastUpdate": "2025-11-28T21:45:30Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 38,
-    "lastUpdate": "2025-11-28T21:42:14Z",
-    "cycle": 3
+    "stock": 31,
+    "lastUpdate": "2025-11-28T21:45:30Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
