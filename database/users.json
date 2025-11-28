@@ -19,9 +19,9 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 1,
-    "lastUpdate": "2025-11-28T13:03:00Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-28T13:03:50Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-28T13:03:00Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-28T13:03:50Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-28T13:03:00Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-28T13:03:50Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-11-28T13:03:00Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-28T13:03:50Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
