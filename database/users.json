@@ -230,14 +230,14 @@
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
-    "lastUpdate": "2025-11-28T14:36:58Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-28T14:38:00Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "lastUpdate": "2025-11-28T11:34:40Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-28T14:38:00Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-11-28T14:28:09Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-28T14:38:00Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
