@@ -27,7 +27,7 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastUpdate": "2025-11-28T12:28:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -104,7 +104,7 @@
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
-    "lastUpdate": "2025-11-28T09:29:19Z",
+    "lastUpdate": "2025-11-28T12:32:06Z",
     "cycle": 0
   },
   {
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-28T12:28:39Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-28T12:32:06Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-28T12:28:39Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-28T12:32:06Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-11-28T12:28:39Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-28T12:32:06Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -403,9 +403,9 @@
   },
   {
     "name": "SALMAH",
-    "stock": 36,
-    "lastUpdate": "2025-11-28T12:28:41Z",
-    "cycle": 4
+    "stock": 29,
+    "lastUpdate": "2025-11-28T12:32:09Z",
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
