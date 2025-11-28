@@ -49,9 +49,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 64,
-    "lastUpdate": "2025-11-28T21:23:50Z",
-    "cycle": 4
+    "stock": 46,
+    "lastUpdate": "2025-11-28T21:27:55Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 87,
-    "lastUpdate": "2025-11-28T21:23:50Z",
-    "cycle": 3
+    "stock": 81,
+    "lastUpdate": "2025-11-28T21:27:55Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -463,8 +463,8 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 13,
-    "lastUpdate": "2025-11-28T21:23:50Z",
-    "cycle": 2
+    "stock": 6,
+    "lastUpdate": "2025-11-28T21:27:55Z",
+    "cycle": 3
   }
 ]
