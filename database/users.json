@@ -229,15 +229,15 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
-    "lastUpdate": "2025-11-28T14:38:00Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-28T14:39:10Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
-    "lastUpdate": "2025-11-28T14:38:00Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-28T14:39:10Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
@@ -260,14 +260,14 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "lastUpdate": "2025-11-28T11:38:11Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-28T14:39:10Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
-    "lastUpdate": "2025-11-28T11:38:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-28T14:39:10Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-11-28T14:38:00Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-28T14:39:37Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
