@@ -127,9 +127,9 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
-    "lastUpdate": "2025-11-29T21:49:25Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-11-29T21:53:12Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -145,9 +145,9 @@
   },
   {
     "name": "P. SUK",
-    "stock": 26,
-    "lastUpdate": "2025-11-29T21:49:25Z",
-    "cycle": 1
+    "stock": 19,
+    "lastUpdate": "2025-11-29T21:53:12Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -164,8 +164,8 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-11-29T18:49:26Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-29T21:53:12Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -176,8 +176,8 @@
   {
     "name": "ROSA V",
     "stock": 0,
-    "lastUpdate": "2025-11-29T18:51:19Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-29T21:53:12Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
