@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-29T12:52:05Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-29T12:54:08Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-29T12:52:05Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-29T12:54:08Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -181,21 +181,21 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
-    "lastUpdate": "2025-11-29T12:52:05Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-29T12:54:08Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
-    "lastUpdate": "2025-11-29T12:52:05Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-29T12:54:08Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
     "stock": 1,
-    "lastUpdate": "2025-11-29T12:52:06Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-29T12:54:10Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
@@ -205,9 +205,9 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
-    "lastUpdate": "2025-11-29T09:52:47Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-29T12:54:10Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
