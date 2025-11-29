@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-11-29T14:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-29T17:27:51Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-29T17:27:32Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-29T17:27:51Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-29T17:27:32Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-29T17:27:51Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-11-29T17:27:32Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-29T17:27:51Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -404,14 +404,14 @@
   {
     "name": "SALMAH",
     "stock": 0,
-    "lastUpdate": "2025-11-29T14:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-29T17:27:52Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
-    "lastUpdate": "2025-11-29T14:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-29T17:27:52Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
