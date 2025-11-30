@@ -146,8 +146,8 @@
   {
     "name": "P. SUK",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:04:40Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-30T13:06:43Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -182,20 +182,20 @@
   {
     "name": "LUKMAN BS",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:04:40Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T13:06:43Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:04:40Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T13:06:43Z",
+    "cycle": 5
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
-    "lastUpdate": "2025-11-30T13:04:40Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-30T13:06:43Z",
+    "cycle": 3
   },
   {
     "name": "JAMILAH",
@@ -212,8 +212,8 @@
   {
     "name": "SRI UTAMI",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:02:53Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-30T13:07:21Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -224,8 +224,8 @@
   {
     "name": "BAMBANG HARTONO",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:02:57Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-30T13:07:44Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -235,9 +235,9 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "lastUpdate": "2025-11-30T10:06:08Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-30T13:07:46Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
