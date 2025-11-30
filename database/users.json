@@ -56,8 +56,8 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
-    "lastUpdate": "2025-11-30T17:28:33Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T17:32:30Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -92,8 +92,8 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastUpdate": "2025-11-30T17:28:33Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-30T17:32:30Z",
+    "cycle": 3
   },
   {
     "name": "TK. MAJU",
@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-11-30T14:28:54Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-30T17:32:30Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-30T17:28:33Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T17:32:30Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-11-30T17:28:33Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T17:32:34Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-11-30T17:28:35Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T17:32:35Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -374,8 +374,8 @@
   {
     "name": "SUSILO",
     "stock": 0,
-    "lastUpdate": "2025-11-30T14:31:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-30T17:32:37Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -404,14 +404,14 @@
   {
     "name": "SALMAH",
     "stock": 0,
-    "lastUpdate": "2025-11-30T14:28:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-30T17:32:57Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
-    "lastUpdate": "2025-11-30T14:28:57Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-30T17:33:04Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
