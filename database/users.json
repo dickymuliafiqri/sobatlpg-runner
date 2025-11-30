@@ -199,9 +199,9 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastUpdate": "2025-11-30T13:32:34Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-11-30T13:34:31Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
@@ -284,14 +284,14 @@
   {
     "name": "H. JUMAT",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:32:34Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T13:34:31Z",
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:32:34Z",
-    "cycle": 2
+    "lastUpdate": "2025-11-30T13:34:31Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
@@ -301,9 +301,9 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
-    "lastUpdate": "2025-11-30T13:29:21Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-30T13:34:31Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
