@@ -92,8 +92,8 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastUpdate": "2025-11-30T17:32:30Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-30T17:35:42Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -409,15 +409,15 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastUpdate": "2025-11-30T17:33:04Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-30T17:35:42Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "lastUpdate": "2025-11-30T14:31:59Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-30T17:35:42Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -428,8 +428,8 @@
   {
     "name": "SOEKAMTO",
     "stock": 0,
-    "lastUpdate": "2025-11-30T14:34:59Z",
-    "cycle": 0
+    "lastUpdate": "2025-11-30T17:35:42Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
