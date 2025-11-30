@@ -56,8 +56,8 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
-    "lastUpdate": "2025-11-30T17:04:46Z",
-    "cycle": 4
+    "lastUpdate": "2025-11-30T17:06:14Z",
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-30T17:01:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-30T17:01:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-11-30T17:01:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
