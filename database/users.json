@@ -21,7 +21,7 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:28:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-30T01:24:32Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-11-30T01:24:32Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -201,7 +201,7 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:28:04Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "YUDA",
@@ -231,7 +231,7 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:20:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-11-30T01:24:32Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -333,25 +333,25 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:20:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:24:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:20:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:28:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -363,13 +363,13 @@
     "name": "BUDI",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:28:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastUpdate": "2025-11-30T01:28:30Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -379,9 +379,9 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
-    "lastUpdate": "2025-11-30T01:28:31Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-30T01:30:53Z",
+    "cycle": 0
   },
   {
     "name": "IMA",
@@ -391,9 +391,9 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
-    "lastUpdate": "2025-11-30T01:28:31Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-11-30T01:30:53Z",
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
