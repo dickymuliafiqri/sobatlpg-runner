@@ -31,9 +31,9 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
-    "lastUpdate": "2025-11-30T10:35:13Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-30T13:36:07Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -290,14 +290,14 @@
   {
     "name": "YOGA RAJAN",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:34:31Z",
-    "cycle": 3
+    "lastUpdate": "2025-11-30T13:36:07Z",
+    "cycle": 4
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
-    "lastUpdate": "2025-11-30T10:35:13Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-11-30T13:36:07Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -320,8 +320,8 @@
   {
     "name": "CAHYA HERAWATI",
     "stock": 1,
-    "lastUpdate": "2025-11-30T13:29:24Z",
-    "cycle": 1
+    "lastUpdate": "2025-11-30T13:36:07Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
