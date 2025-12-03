@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-03T21:31:04Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-03T21:31:04Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-03T21:31:04Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -393,78 +393,78 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:10:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:10:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:10:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:10:23Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:31:04Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:14:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:14:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:14:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
-    "stock": 49,
-    "lastUpdate": "2025-12-03T21:31:06Z",
-    "cycle": 4
+    "stock": 24,
+    "lastUpdate": "2025-12-03T21:37:15Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:20:08Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:20:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:20:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastUpdate": "2025-12-03T21:25:57Z",
-    "cycle": 2
+    "cycle": 0
   }
 ]
