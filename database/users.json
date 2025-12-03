@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-12-03T07:24:00Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastUpdate": "2025-12-03T10:23:39Z",
+    "lastUpdate": "2025-12-03T10:24:16Z",
     "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-03T10:23:39Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-03T10:24:16Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastUpdate": "2025-12-03T10:24:16Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-03T10:23:39Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-03T10:24:16Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -440,8 +440,8 @@
   {
     "name": "TOKO POJOK",
     "stock": 0,
-    "lastUpdate": "2025-12-03T07:24:02Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-03T10:24:18Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
