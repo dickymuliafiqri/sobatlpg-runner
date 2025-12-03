@@ -33,13 +33,13 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastUpdate": "2025-12-03T08:47:36Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastUpdate": "2025-12-03T08:47:36Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-03T08:47:36Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-03T08:48:17Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-03T08:47:36Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-03T08:48:17Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-03T08:47:38Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-03T08:48:17Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
