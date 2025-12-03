@@ -20,8 +20,8 @@
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
-    "lastUpdate": "2025-12-02T23:46:30Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-03T02:47:28Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -445,9 +445,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 37,
-    "lastUpdate": "2025-12-03T02:41:32Z",
-    "cycle": 4
+    "stock": 31,
+    "lastUpdate": "2025-12-03T02:47:28Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -463,8 +463,8 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 31,
-    "lastUpdate": "2025-12-03T02:41:32Z",
-    "cycle": 3
+    "stock": 23,
+    "lastUpdate": "2025-12-03T02:47:28Z",
+    "cycle": 4
   }
 ]
