@@ -187,9 +187,9 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
-    "lastUpdate": "2025-12-04T08:28:57Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-04T08:30:07Z",
+    "cycle": 5
   },
   {
     "name": "ROSIDI",
@@ -199,51 +199,51 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-04T08:28:57Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-04T08:30:07Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
     "stock": 0,
-    "lastUpdate": "2025-12-04T05:20:21Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-04T08:30:07Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
-    "lastUpdate": "2025-12-04T05:22:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-04T08:30:07Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-04T05:20:24Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-04T08:30:30Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
-    "lastUpdate": "2025-12-04T05:22:57Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-04T08:30:32Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
-    "lastUpdate": "2025-12-04T05:22:57Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-04T08:30:32Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "lastUpdate": "2025-12-04T05:22:57Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-04T08:30:34Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
-    "lastUpdate": "2025-12-04T05:23:23Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-04T08:30:35Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
