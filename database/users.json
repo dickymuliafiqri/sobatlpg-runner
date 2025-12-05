@@ -86,8 +86,8 @@
   {
     "name": "MOH SAID",
     "stock": 1,
-    "lastUpdate": "2025-12-05T12:09:52Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-05T12:12:10Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
-    "lastUpdate": "2025-12-05T09:10:17Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-05T12:12:10Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -139,9 +139,9 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 0,
-    "lastUpdate": "2025-12-05T09:10:59Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-05T12:12:10Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
