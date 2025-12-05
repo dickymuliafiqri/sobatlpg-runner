@@ -25,9 +25,9 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
-    "lastUpdate": "2025-12-04T20:56:31Z",
-    "cycle": 0
+    "stock": 50,
+    "lastUpdate": "2025-12-05T00:02:03Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -73,9 +73,9 @@
   },
   {
     "name": "KARSONO",
-    "stock": 2,
-    "lastUpdate": "2025-12-04T23:54:21Z",
-    "cycle": 4
+    "stock": 51,
+    "lastUpdate": "2025-12-05T00:02:03Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -91,9 +91,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 22,
-    "lastUpdate": "2025-12-04T23:54:21Z",
-    "cycle": 3
+    "stock": 51,
+    "lastUpdate": "2025-12-05T00:02:03Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -194,20 +194,20 @@
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-12-04T20:28:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-05T00:02:03Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
     "stock": 0,
-    "lastUpdate": "2025-12-04T20:33:10Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-05T00:02:31Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": 0,
-    "lastUpdate": "2025-12-04T20:33:12Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-05T00:02:59Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
