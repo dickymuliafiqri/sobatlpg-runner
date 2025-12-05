@@ -278,8 +278,8 @@
   {
     "name": "SUPARNI",
     "stock": 1,
-    "lastUpdate": "2025-12-05T19:49:00Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-05T19:49:57Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-05T19:49:01Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-05T19:49:57Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -379,9 +379,9 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
-    "lastUpdate": "2025-12-05T16:48:36Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-05T19:49:57Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -427,9 +427,9 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
-    "lastUpdate": "2025-12-05T16:49:18Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-05T19:49:57Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
