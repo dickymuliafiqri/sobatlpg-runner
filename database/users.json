@@ -9,7 +9,7 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:03:07Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -27,7 +27,7 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:06:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -39,19 +39,19 @@
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:06:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
-    "lastUpdate": "2025-12-05T11:08:16Z",
+    "lastUpdate": "2025-12-05T14:09:08Z",
     "cycle": 0
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:06:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -68,7 +68,7 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
-    "lastUpdate": "2025-12-05T11:08:16Z",
+    "lastUpdate": "2025-12-05T14:09:08Z",
     "cycle": 0
   },
   {
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-05T14:03:07Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-05T14:03:07Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -261,7 +261,7 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:02:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -303,13 +303,13 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:02:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-05T14:03:07Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -411,7 +411,7 @@
     "name": "TOKO ANITA",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:06:26Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
@@ -457,9 +457,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastUpdate": "2025-12-05T14:08:02Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-05T14:09:08Z",
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
@@ -471,6 +471,6 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastUpdate": "2025-12-05T14:06:54Z",
-    "cycle": 2
+    "cycle": 0
   }
 ]
