@@ -313,9 +313,9 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 52,
-    "lastUpdate": "2025-12-06T10:43:29Z",
-    "cycle": 2
+    "stock": 44,
+    "lastUpdate": "2025-12-06T10:47:19Z",
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
@@ -344,14 +344,14 @@
   {
     "name": "TUSOK",
     "stock": 0,
-    "lastUpdate": "2025-12-06T07:45:13Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-06T10:47:19Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
-    "lastUpdate": "2025-12-06T07:45:14Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-06T10:47:19Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -470,7 +470,7 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2025-12-06T07:41:09Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-06T10:47:19Z",
+    "cycle": 1
   }
 ]
