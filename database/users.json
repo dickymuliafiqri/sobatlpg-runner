@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-06T04:31:05Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-06T04:32:12Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-06T04:31:05Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-06T04:32:12Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -223,9 +223,9 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-06T04:31:05Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-06T04:32:12Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -235,15 +235,15 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
-    "lastUpdate": "2025-12-06T04:31:05Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-06T04:32:12Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-06T04:31:07Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-06T04:32:15Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -283,21 +283,21 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
-    "lastUpdate": "2025-12-06T04:31:08Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-06T04:32:15Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-12-06T01:19:15Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-06T04:32:38Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
-    "lastUpdate": "2025-12-06T01:19:51Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-06T04:32:39Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-06T01:41:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-06T04:32:42Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
