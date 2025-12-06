@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-06T13:49:43Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-06T13:51:14Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -464,13 +464,13 @@
   {
     "name": "SUDJIONO",
     "stock": 1,
-    "lastUpdate": "2025-12-06T13:50:10Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-06T13:51:14Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
-    "lastUpdate": "2025-12-06T13:50:12Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-06T13:51:14Z",
+    "cycle": 2
   }
 ]
