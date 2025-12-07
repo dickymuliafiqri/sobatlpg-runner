@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2025-12-07T10:58:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-07T13:58:12Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -98,8 +98,8 @@
   {
     "name": "TK. MAJU",
     "stock": 0,
-    "lastUpdate": "2025-12-07T10:57:05Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-07T13:58:12Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-07T13:56:47Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-07T13:58:12Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-07T13:56:47Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-07T13:58:12Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -199,9 +199,9 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-07T13:56:47Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-07T13:58:15Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-07T13:56:47Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-07T13:58:16Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -349,9 +349,9 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
-    "lastUpdate": "2025-12-07T13:56:49Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-07T13:58:18Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -464,13 +464,13 @@
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-12-07T10:57:06Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-07T13:58:39Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
-    "lastUpdate": "2025-12-07T10:57:07Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-07T13:58:41Z",
+    "cycle": 1
   }
 ]
