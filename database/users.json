@@ -25,9 +25,9 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T12:17:13Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-08T12:20:55Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -313,9 +313,9 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T09:20:04Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-08T12:20:55Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -457,9 +457,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 20,
-    "lastUpdate": "2025-12-08T12:17:13Z",
-    "cycle": 4
+    "stock": 9,
+    "lastUpdate": "2025-12-08T12:20:55Z",
+    "cycle": 5
   },
   {
     "name": "SUDJIONO",
@@ -469,8 +469,8 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T12:17:46Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-08T12:20:55Z",
+    "cycle": 4
   }
 ]
