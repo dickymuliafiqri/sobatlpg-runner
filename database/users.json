@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T10:11:40Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-08T13:12:19Z",
+    "cycle": 1
   },
   {
     "name": "AKBAR RISQ",
@@ -20,8 +20,8 @@
   {
     "name": "ATHI HANDAYANI",
     "stock": 1,
-    "lastUpdate": "2025-12-08T13:10:57Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-08T13:12:19Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -55,9 +55,9 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T10:11:40Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-08T13:12:19Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
