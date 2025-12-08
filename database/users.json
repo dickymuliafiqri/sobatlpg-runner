@@ -338,20 +338,20 @@
   {
     "name": "WIKAN K",
     "stock": 1,
-    "lastUpdate": "2025-12-08T05:27:21Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-08T05:28:25Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 1,
-    "lastUpdate": "2025-12-08T05:27:21Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-08T05:28:25Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
     "stock": 1,
-    "lastUpdate": "2025-12-08T05:27:21Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-08T05:28:25Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -421,9 +421,9 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T05:27:21Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-08T05:28:25Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
