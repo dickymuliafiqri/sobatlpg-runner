@@ -1,27 +1,27 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 91,
-    "lastUpdate": "2025-12-08T22:32:32Z",
-    "cycle": 1
-  },
-  {
-    "name": "AKBAR RISQ",
-    "stock": 82,
-    "lastUpdate": "2025-12-08T22:32:32Z",
-    "cycle": 1
-  },
-  {
-    "name": "ALFIAN DWI A.",
-    "stock": 9,
-    "lastUpdate": "2025-12-08T22:32:32Z",
+    "stock": 78,
+    "lastUpdate": "2025-12-08T22:42:05Z",
     "cycle": 2
   },
   {
+    "name": "AKBAR RISQ",
+    "stock": 68,
+    "lastUpdate": "2025-12-08T22:42:05Z",
+    "cycle": 2
+  },
+  {
+    "name": "ALFIAN DWI A.",
+    "stock": 0,
+    "lastUpdate": "2025-12-08T22:42:05Z",
+    "cycle": 3
+  },
+  {
     "name": "ATHI HANDAYANI",
-    "stock": 46,
-    "lastUpdate": "2025-12-08T22:32:32Z",
-    "cycle": 1
+    "stock": 32,
+    "lastUpdate": "2025-12-08T22:42:05Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -43,9 +43,9 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 73,
-    "lastUpdate": "2025-12-08T22:36:06Z",
-    "cycle": 1
+    "stock": 66,
+    "lastUpdate": "2025-12-08T22:45:23Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -61,15 +61,15 @@
   },
   {
     "name": "JAENAL",
-    "stock": 17,
-    "lastUpdate": "2025-12-08T22:36:23Z",
-    "cycle": 2
+    "stock": 9,
+    "lastUpdate": "2025-12-08T22:46:27Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T19:37:38Z",
-    "cycle": 0
+    "stock": 63,
+    "lastUpdate": "2025-12-08T22:47:37Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -85,9 +85,9 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 47,
-    "lastUpdate": "2025-12-08T22:36:54Z",
-    "cycle": 1
+    "stock": 34,
+    "lastUpdate": "2025-12-08T22:47:45Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T19:43:06Z",
-    "cycle": 0
+    "stock": 46,
+    "lastUpdate": "2025-12-08T22:48:17Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
