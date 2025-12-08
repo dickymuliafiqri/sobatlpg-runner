@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T18:52:09Z",
-    "cycle": 0
+    "stock": 86,
+    "lastUpdate": "2025-12-08T21:52:12Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-08T21:51:56Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-08T21:52:12Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-08T21:51:56Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-08T21:52:12Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-08T21:51:56Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-08T21:52:12Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
