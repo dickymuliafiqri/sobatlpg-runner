@@ -33,7 +33,7 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:02:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -81,7 +81,7 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:02:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -99,7 +99,7 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:07:07Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-08T11:07:07Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-08T11:07:07Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -147,7 +147,7 @@
     "name": "P. SUK",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:07:07Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -189,37 +189,37 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:07:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:07:09Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:07:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T11:07:33Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-08T11:11:57Z",
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
-    "lastUpdate": "2025-12-08T08:10:41Z",
+    "lastUpdate": "2025-12-08T11:11:57Z",
     "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastUpdate": "2025-12-08T11:07:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-08T11:02:56Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-08T11:11:57Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
