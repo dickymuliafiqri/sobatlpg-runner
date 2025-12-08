@@ -169,9 +169,9 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T02:20:22Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-08T02:21:31Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -271,15 +271,15 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T02:20:22Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-08T02:21:31Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T02:20:22Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-08T02:21:31Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-08T02:20:22Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-08T02:21:31Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -331,9 +331,9 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T02:20:26Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-08T02:21:35Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
@@ -355,9 +355,9 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
-    "lastUpdate": "2025-12-08T02:19:19Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-08T02:21:56Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -380,8 +380,8 @@
   {
     "name": "HJ. HAERONI",
     "stock": 1,
-    "lastUpdate": "2025-12-08T02:19:19Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-08T02:21:57Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
@@ -397,9 +397,9 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
-    "lastUpdate": "2025-12-07T21:36:12Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-08T02:21:59Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
-    "lastUpdate": "2025-12-07T21:36:38Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-08T02:22:01Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
