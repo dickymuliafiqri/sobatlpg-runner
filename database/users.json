@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T22:42:05Z",
-    "cycle": 3
+    "stock": 58,
+    "lastUpdate": "2025-12-09T01:46:25Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -427,21 +427,21 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 9,
-    "lastUpdate": "2025-12-09T01:40:43Z",
-    "cycle": 4
+    "stock": 1,
+    "lastUpdate": "2025-12-09T01:46:25Z",
+    "cycle": 5
   },
   {
     "name": "TOKO TIARA",
-    "stock": 6,
-    "lastUpdate": "2025-12-09T01:40:43Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-09T01:46:25Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
-    "stock": 93,
-    "lastUpdate": "2025-12-09T01:40:43Z",
-    "cycle": 3
+    "stock": 94,
+    "lastUpdate": "2025-12-09T01:46:25Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -469,8 +469,8 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-09T01:41:39Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-09T01:49:01Z",
+    "cycle": 2
   }
 ]
