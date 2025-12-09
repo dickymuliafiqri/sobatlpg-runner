@@ -157,9 +157,9 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
-    "lastUpdate": "2025-12-09T17:11:57Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-09T17:12:58Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -211,9 +211,9 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
-    "lastUpdate": "2025-12-09T17:11:57Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-09T17:12:58Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -235,27 +235,27 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
-    "lastUpdate": "2025-12-09T17:11:57Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-09T17:12:58Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-09T17:11:57Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-09T17:12:58Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-12-09T14:11:43Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-09T17:13:25Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
-    "lastUpdate": "2025-12-09T14:12:05Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-09T17:13:26Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
