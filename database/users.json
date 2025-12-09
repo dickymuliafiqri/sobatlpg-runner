@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 25,
-    "lastUpdate": "2025-12-09T10:46:09Z",
-    "cycle": 2
+    "stock": 15,
+    "lastUpdate": "2025-12-09T10:50:59Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -434,8 +434,8 @@
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "lastUpdate": "2025-12-09T07:50:14Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-09T10:50:59Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -470,7 +470,7 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2025-12-09T07:50:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-09T10:50:59Z",
+    "cycle": 1
   }
 ]
