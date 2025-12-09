@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 53,
-    "lastUpdate": "2025-12-09T02:36:46Z",
-    "cycle": 4
+    "stock": 44,
+    "lastUpdate": "2025-12-09T02:47:40Z",
+    "cycle": 5
   },
   {
     "name": "AKBAR RISQ",
@@ -13,15 +13,15 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 27,
-    "lastUpdate": "2025-12-09T02:36:46Z",
-    "cycle": 4
+    "stock": 19,
+    "lastUpdate": "2025-12-09T02:47:40Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 2,
-    "lastUpdate": "2025-12-09T02:36:46Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-09T02:47:40Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -37,9 +37,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 8,
-    "lastUpdate": "2025-12-09T02:40:24Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-09T02:47:40Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -49,9 +49,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 11,
-    "lastUpdate": "2025-12-09T02:41:13Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-09T02:50:23Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -61,27 +61,27 @@
   },
   {
     "name": "JAENAL",
-    "stock": 36,
-    "lastUpdate": "2025-12-09T02:42:17Z",
-    "cycle": 3
-  },
-  {
-    "name": "JOKO SUWARNO",
-    "stock": 0,
-    "lastUpdate": "2025-12-08T23:43:39Z",
-    "cycle": 0
-  },
-  {
-    "name": "KARSONO",
-    "stock": 25,
-    "lastUpdate": "2025-12-09T02:42:33Z",
+    "stock": 29,
+    "lastUpdate": "2025-12-09T02:51:01Z",
     "cycle": 4
   },
   {
-    "name": "LUTFI A.",
-    "stock": 43,
-    "lastUpdate": "2025-12-09T02:04:27Z",
+    "name": "JOKO SUWARNO",
+    "stock": 19,
+    "lastUpdate": "2025-12-09T02:53:01Z",
     "cycle": 1
+  },
+  {
+    "name": "KARSONO",
+    "stock": 19,
+    "lastUpdate": "2025-12-09T02:53:52Z",
+    "cycle": 5
+  },
+  {
+    "name": "LUTFI A.",
+    "stock": 32,
+    "lastUpdate": "2025-12-09T02:54:50Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
