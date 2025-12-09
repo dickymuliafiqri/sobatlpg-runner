@@ -434,14 +434,14 @@
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "lastUpdate": "2025-12-09T01:46:25Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-09T04:50:07Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 53,
-    "lastUpdate": "2025-12-09T04:44:58Z",
-    "cycle": 3
+    "stock": 44,
+    "lastUpdate": "2025-12-09T04:50:07Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -470,7 +470,7 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2025-12-09T01:49:01Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-09T04:50:07Z",
+    "cycle": 1
   }
 ]
