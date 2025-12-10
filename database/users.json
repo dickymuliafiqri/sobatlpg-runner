@@ -176,8 +176,8 @@
   {
     "name": "ROSA V",
     "stock": 1,
-    "lastUpdate": "2025-12-10T02:32:54Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-10T02:34:25Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-10T02:20:23Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-10T02:34:25Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 68,
-    "lastUpdate": "2025-12-10T02:20:25Z",
-    "cycle": 2
+    "stock": 1,
+    "lastUpdate": "2025-12-10T02:34:25Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
