@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 4,
-    "lastUpdate": "2025-12-10T02:26:57Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-10T02:32:23Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-10T02:26:57Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-10T02:32:23Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-10T02:26:59Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-10T02:32:23Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -145,39 +145,39 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastUpdate": "2025-12-10T02:27:53Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-10T02:32:23Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-09T23:26:34Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-10T02:32:26Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
     "stock": 0,
-    "lastUpdate": "2025-12-09T23:30:23Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-10T02:32:26Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-12-09T23:30:23Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-10T02:32:27Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "lastUpdate": "2025-12-09T23:30:24Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-10T02:32:51Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
-    "stock": 0,
-    "lastUpdate": "2025-12-09T23:30:50Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-10T02:32:54Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
