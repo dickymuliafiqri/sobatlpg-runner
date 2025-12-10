@@ -51,7 +51,7 @@
     "name": "SUCIYONO",
     "stock": 0,
     "lastUpdate": "2025-12-10T08:21:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -87,7 +87,7 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastUpdate": "2025-12-10T08:21:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-10T08:21:13Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-10T08:22:01Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-10T08:21:13Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-10T08:22:01Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-10T08:21:15Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-10T08:22:01Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -447,7 +447,7 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastUpdate": "2025-12-10T08:21:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
