@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-10T09:31:40Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-10T09:32:00Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-10T09:31:40Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-10T09:32:00Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -235,9 +235,9 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "lastUpdate": "2025-12-10T06:31:58Z",
-    "cycle": 0
+    "stock": 35,
+    "lastUpdate": "2025-12-10T09:32:00Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-10T09:31:40Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-10T09:32:00Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
