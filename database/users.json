@@ -49,9 +49,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-11T21:44:57Z",
-    "cycle": 2
+    "stock": 31,
+    "lastUpdate": "2025-12-11T21:53:32Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 33,
-    "lastUpdate": "2025-12-11T21:44:57Z",
-    "cycle": 2
+    "stock": 17,
+    "lastUpdate": "2025-12-11T21:53:32Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -127,9 +127,9 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 23,
-    "lastUpdate": "2025-12-11T21:47:44Z",
-    "cycle": 1
+    "stock": 15,
+    "lastUpdate": "2025-12-11T21:53:32Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -145,9 +145,9 @@
   },
   {
     "name": "P. SUK",
-    "stock": 19,
-    "lastUpdate": "2025-12-11T21:48:55Z",
-    "cycle": 1
+    "stock": 5,
+    "lastUpdate": "2025-12-11T21:53:32Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -164,8 +164,8 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-12-11T18:46:45Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T21:57:18Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -176,14 +176,14 @@
   {
     "name": "ROSA V",
     "stock": 0,
-    "lastUpdate": "2025-12-11T18:53:44Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T21:57:24Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "lastUpdate": "2025-12-11T18:53:44Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T21:57:43Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -218,8 +218,8 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-11T18:54:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T21:57:50Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -272,8 +272,8 @@
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
-    "lastUpdate": "2025-12-11T18:54:36Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T21:57:51Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
