@@ -1,21 +1,21 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 58,
-    "lastUpdate": "2025-12-11T22:17:56Z",
-    "cycle": 1
+    "stock": 45,
+    "lastUpdate": "2025-12-11T22:24:05Z",
+    "cycle": 2
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:22:14Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:24:05Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 44,
-    "lastUpdate": "2025-12-11T22:17:56Z",
-    "cycle": 2
+    "stock": 30,
+    "lastUpdate": "2025-12-11T22:24:05Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,9 +37,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
-    "lastUpdate": "2025-12-11T19:22:14Z",
-    "cycle": 0
+    "stock": 57,
+    "lastUpdate": "2025-12-11T22:24:05Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,15 +61,15 @@
   },
   {
     "name": "JAENAL",
-    "stock": 35,
-    "lastUpdate": "2025-12-11T22:17:56Z",
-    "cycle": 3
+    "stock": 20,
+    "lastUpdate": "2025-12-11T22:24:34Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
-    "lastUpdate": "2025-12-11T19:24:53Z",
-    "cycle": 0
+    "stock": 31,
+    "lastUpdate": "2025-12-11T22:29:14Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -188,8 +188,8 @@
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:24:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:29:32Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
@@ -445,9 +445,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 14,
-    "lastUpdate": "2025-12-11T22:17:56Z",
-    "cycle": 2
+    "stock": 6,
+    "lastUpdate": "2025-12-11T22:30:01Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
