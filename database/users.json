@@ -49,9 +49,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-11T21:58:43Z",
-    "cycle": 4
+    "stock": 19,
+    "lastUpdate": "2025-12-11T22:03:12Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 4,
-    "lastUpdate": "2025-12-11T21:58:43Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-11T22:03:12Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -127,9 +127,9 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
-    "lastUpdate": "2025-12-11T21:58:43Z",
-    "cycle": 3
+    "stock": 7,
+    "lastUpdate": "2025-12-11T22:03:12Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -145,9 +145,9 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastUpdate": "2025-12-11T21:58:43Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-11T22:03:12Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-11T21:35:11Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-11T22:05:20Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -350,8 +350,8 @@
   {
     "name": "MISRI CICI",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:00:44Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:05:21Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -368,8 +368,8 @@
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:00:45Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:05:49Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -410,14 +410,14 @@
   {
     "name": "TOKO ANITA",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:00:45Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:06:07Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:05:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:06:16Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
