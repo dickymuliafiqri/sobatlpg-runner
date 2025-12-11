@@ -343,9 +343,9 @@
   },
   {
     "name": "TUSOK",
-    "stock": 5,
-    "lastUpdate": "2025-12-11T01:28:53Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-11T01:33:17Z",
+    "cycle": 5
   },
   {
     "name": "MISRI CICI",
@@ -379,15 +379,15 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
-    "lastUpdate": "2025-12-11T01:29:21Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-11T01:33:17Z",
+    "cycle": 3
   },
   {
     "name": "IMA",
     "stock": 0,
-    "lastUpdate": "2025-12-10T22:29:40Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-11T01:33:17Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 93,
-    "lastUpdate": "2025-12-11T01:14:28Z",
-    "cycle": 3
+    "stock": 82,
+    "lastUpdate": "2025-12-11T01:33:17Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
