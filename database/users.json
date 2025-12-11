@@ -25,9 +25,9 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 10,
-    "lastUpdate": "2025-12-11T23:14:31Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-11T23:20:30Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -79,9 +79,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 25,
-    "lastUpdate": "2025-12-11T23:14:31Z",
-    "cycle": 4
+    "stock": 16,
+    "lastUpdate": "2025-12-11T23:20:30Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -283,9 +283,9 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 50,
-    "lastUpdate": "2025-12-11T23:14:31Z",
-    "cycle": 2
+    "stock": 39,
+    "lastUpdate": "2025-12-11T23:20:30Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
@@ -301,9 +301,9 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
-    "lastUpdate": "2025-12-11T23:15:27Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-11T23:20:30Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -314,14 +314,14 @@
   {
     "name": "MOH HAFIF",
     "stock": 0,
-    "lastUpdate": "2025-12-11T20:00:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T23:20:55Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
-    "lastUpdate": "2025-12-11T20:00:49Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-11T23:21:19Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
