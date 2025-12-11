@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 45,
-    "lastUpdate": "2025-12-11T22:24:05Z",
-    "cycle": 2
+    "stock": 34,
+    "lastUpdate": "2025-12-11T22:34:30Z",
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 30,
-    "lastUpdate": "2025-12-11T22:24:05Z",
-    "cycle": 3
+    "stock": 20,
+    "lastUpdate": "2025-12-11T22:34:30Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -32,14 +32,14 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:32:25Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:34:30Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 57,
-    "lastUpdate": "2025-12-11T22:24:05Z",
-    "cycle": 1
+    "stock": 41,
+    "lastUpdate": "2025-12-11T22:34:30Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,15 +61,15 @@
   },
   {
     "name": "JAENAL",
-    "stock": 20,
-    "lastUpdate": "2025-12-11T22:24:34Z",
-    "cycle": 4
+    "stock": 13,
+    "lastUpdate": "2025-12-11T22:34:57Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 31,
-    "lastUpdate": "2025-12-11T22:29:14Z",
-    "cycle": 1
+    "stock": 13,
+    "lastUpdate": "2025-12-11T22:39:08Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -170,8 +170,8 @@
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:32:25Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:39:18Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -194,8 +194,8 @@
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-12-11T19:32:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-11T22:39:46Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -445,9 +445,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 6,
-    "lastUpdate": "2025-12-11T22:30:01Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-11T22:39:52Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
