@@ -15,7 +15,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:36:50Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -33,7 +33,7 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:36:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -69,7 +69,7 @@
     "name": "JOKO SUWARNO",
     "stock": 1,
     "lastUpdate": "2025-12-12T04:51:52Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-12T04:51:52Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-12T04:51:52Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -171,31 +171,31 @@
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:42:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:36:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:37:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:42:23Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:42:25Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -213,19 +213,19 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastUpdate": "2025-12-12T05:05:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:42:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastUpdate": "2025-12-12T05:05:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -236,7 +236,7 @@
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
-    "lastUpdate": "2025-12-12T02:10:15Z",
+    "lastUpdate": "2025-12-12T05:10:33Z",
     "cycle": 0
   },
   {
@@ -273,7 +273,7 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:42:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
@@ -285,7 +285,7 @@
     "name": "H. JUMAT",
     "stock": 1,
     "lastUpdate": "2025-12-12T04:51:52Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-12T05:05:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -351,7 +351,7 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:51:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -369,7 +369,7 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:51:55Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -411,19 +411,19 @@
     "name": "TOKO ANITA",
     "stock": 0,
     "lastUpdate": "2025-12-12T04:52:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastUpdate": "2025-12-12T05:00:11Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastUpdate": "2025-12-12T05:00:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
@@ -435,25 +435,25 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastUpdate": "2025-12-12T05:00:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
-    "stock": 17,
-    "lastUpdate": "2025-12-12T05:05:08Z",
-    "cycle": 4
+    "stock": 10,
+    "lastUpdate": "2025-12-12T05:10:33Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastUpdate": "2025-12-12T05:00:36Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "lastUpdate": "2025-12-12T05:05:10Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
