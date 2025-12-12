@@ -55,9 +55,9 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 18,
-    "lastUpdate": "2025-12-11T23:56:59Z",
-    "cycle": 3
+    "stock": 19,
+    "lastUpdate": "2025-12-12T00:03:13Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 71,
-    "lastUpdate": "2025-12-11T23:56:59Z",
-    "cycle": 4
+    "stock": 57,
+    "lastUpdate": "2025-12-12T00:03:13Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -469,8 +469,8 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 12,
-    "lastUpdate": "2025-12-11T23:56:59Z",
-    "cycle": 3
+    "stock": 13,
+    "lastUpdate": "2025-12-12T00:03:13Z",
+    "cycle": 4
   }
 ]
