@@ -314,20 +314,20 @@
   {
     "name": "MOH HAFIF",
     "stock": 1,
-    "lastUpdate": "2025-12-12T05:31:05Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-12T05:32:21Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
-    "lastUpdate": "2025-12-12T02:28:16Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-12T05:32:21Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-12T02:28:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-12T05:32:21Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 6,
-    "lastUpdate": "2025-12-12T05:24:54Z",
-    "cycle": 3
+    "stock": 1,
+    "lastUpdate": "2025-12-12T05:32:21Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
