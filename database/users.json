@@ -343,33 +343,33 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
-    "lastUpdate": "2025-12-13T03:28:06Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-13T03:32:16Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
-    "lastUpdate": "2025-12-13T00:29:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T03:32:16Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
-    "lastUpdate": "2025-12-13T00:29:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T03:32:16Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
     "stock": 0,
-    "lastUpdate": "2025-12-13T00:29:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T03:32:16Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-12-13T00:29:55Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T03:32:41Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -398,8 +398,8 @@
   {
     "name": "DIYAH UTAMI",
     "stock": 1,
-    "lastUpdate": "2025-12-13T03:28:09Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-13T03:32:42Z",
+    "cycle": 3
   },
   {
     "name": "SALMAH",
@@ -440,8 +440,8 @@
   {
     "name": "TOKO POJOK",
     "stock": 1,
-    "lastUpdate": "2025-12-13T03:02:23Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-13T03:32:43Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
