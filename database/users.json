@@ -188,8 +188,8 @@
   {
     "name": "BISTON MANURUNG",
     "stock": 22,
-    "lastUpdate": "2025-12-13T00:02:31Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-13T00:07:29Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
@@ -229,33 +229,33 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-13T00:02:56Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-13T00:07:29Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
-    "lastUpdate": "2025-12-13T00:03:00Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-13T00:07:29Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
-    "lastUpdate": "2025-12-12T20:21:09Z",
-    "cycle": 0
+    "stock": 19,
+    "lastUpdate": "2025-12-13T00:07:29Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-12-12T20:21:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T00:07:56Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
-    "lastUpdate": "2025-12-12T20:21:53Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-13T00:07:56Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
