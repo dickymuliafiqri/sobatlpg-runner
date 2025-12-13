@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 91,
-    "lastUpdate": "2025-12-13T00:53:14Z",
-    "cycle": 2
+    "stock": 90,
+    "lastUpdate": "2025-12-13T00:59:38Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -469,8 +469,8 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-13T00:53:44Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-13T00:59:38Z",
+    "cycle": 2
   }
 ]
