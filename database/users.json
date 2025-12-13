@@ -187,9 +187,9 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 5,
-    "lastUpdate": "2025-12-13T03:19:12Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-13T03:23:15Z",
+    "cycle": 5
   },
   {
     "name": "ROSIDI",
@@ -242,8 +242,8 @@
   {
     "name": "ISTIQOMAH",
     "stock": 0,
-    "lastUpdate": "2025-12-13T00:20:40Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T03:23:15Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -283,39 +283,39 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
-    "lastUpdate": "2025-12-13T03:19:40Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-13T03:23:15Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-12-13T00:20:40Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T03:23:15Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
-    "lastUpdate": "2025-12-13T00:20:40Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-13T03:23:43Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
-    "lastUpdate": "2025-12-13T00:20:40Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-13T03:23:44Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-13T03:19:41Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-13T03:23:45Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
     "stock": 1,
-    "lastUpdate": "2025-12-13T03:19:42Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-13T03:23:47Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
