@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-14T18:47:29Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-14T18:47:29Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -223,9 +223,9 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-14T18:47:29Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-14T18:48:43Z",
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-14T18:47:29Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -351,37 +351,37 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastUpdate": "2025-12-14T18:44:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastUpdate": "2025-12-14T18:44:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BUDI",
     "stock": 0,
     "lastUpdate": "2025-12-14T18:44:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastUpdate": "2025-12-14T18:44:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastUpdate": "2025-12-14T18:44:44Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
-    "lastUpdate": "2025-12-14T18:47:30Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-14T18:48:43Z",
+    "cycle": 0
   },
   {
     "name": "IMA",
@@ -391,9 +391,9 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
-    "lastUpdate": "2025-12-14T18:47:31Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-14T18:48:43Z",
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastUpdate": "2025-12-14T18:47:31Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-14T18:48:43Z",
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
