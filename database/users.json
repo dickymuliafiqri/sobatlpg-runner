@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastUpdate": "2025-12-15T11:08:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -87,7 +87,7 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastUpdate": "2025-12-15T11:12:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -99,7 +99,7 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-12-15T11:21:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-15T11:21:49Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-15T11:26:51Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-15T11:21:49Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-15T11:26:51Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -163,9 +163,9 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 37,
-    "lastUpdate": "2025-12-15T11:21:49Z",
-    "cycle": 4
+    "stock": 34,
+    "lastUpdate": "2025-12-15T11:26:51Z",
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -189,13 +189,13 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastUpdate": "2025-12-15T11:08:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-12-15T11:08:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -283,9 +283,9 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 5,
-    "lastUpdate": "2025-12-15T11:21:52Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-15T11:26:51Z",
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-15T11:21:52Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-15T11:26:53Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -417,7 +417,7 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastUpdate": "2025-12-15T11:12:54Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
@@ -441,7 +441,7 @@
     "name": "TOKO POJOK",
     "stock": 0,
     "lastUpdate": "2025-12-15T11:13:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
