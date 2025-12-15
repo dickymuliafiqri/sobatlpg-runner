@@ -122,8 +122,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-15T02:38:44Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-15T02:44:38Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-15T02:38:46Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-15T02:44:38Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -439,38 +439,38 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 66,
-    "lastUpdate": "2025-12-15T02:39:13Z",
-    "cycle": 1
+    "stock": 60,
+    "lastUpdate": "2025-12-15T02:44:38Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
-    "lastUpdate": "2025-12-15T02:39:18Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-15T02:44:38Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-12-14T22:59:02Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-15T02:44:40Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "lastUpdate": "2025-12-14T23:27:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-15T02:44:41Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-12-14T22:59:02Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-15T02:45:04Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
-    "lastUpdate": "2025-12-14T22:59:28Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-15T02:45:07Z",
+    "cycle": 1
   }
 ]
