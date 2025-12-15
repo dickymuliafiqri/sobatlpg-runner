@@ -385,9 +385,9 @@
   },
   {
     "name": "IMA",
-    "stock": 4,
-    "lastUpdate": "2025-12-15T12:12:47Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-15T12:17:13Z",
+    "cycle": 5
   },
   {
     "name": "DARMAWAN P",
@@ -463,14 +463,14 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 7,
-    "lastUpdate": "2025-12-15T12:13:14Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-15T12:17:13Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-15T12:13:16Z",
-    "cycle": 1
+    "stock": 29,
+    "lastUpdate": "2025-12-15T12:17:13Z",
+    "cycle": 2
   }
 ]
