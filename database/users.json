@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-15T04:05:11Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-15T04:06:38Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -343,45 +343,45 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
-    "lastUpdate": "2025-12-15T04:05:11Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-15T04:06:38Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
-    "lastUpdate": "2025-12-15T04:05:11Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-15T04:06:38Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
-    "lastUpdate": "2025-12-15T04:05:11Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-15T04:06:38Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastUpdate": "2025-12-15T04:05:12Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-15T04:06:41Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-12-15T00:53:47Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-15T04:07:05Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
-    "lastUpdate": "2025-12-15T00:53:47Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-15T04:07:06Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
-    "lastUpdate": "2025-12-15T00:53:47Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-15T04:07:08Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -391,9 +391,9 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
-    "lastUpdate": "2025-12-15T00:53:47Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-15T04:07:09Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
