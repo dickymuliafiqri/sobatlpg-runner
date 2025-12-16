@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
-    "lastUpdate": "2025-12-16T18:15:18Z",
-    "cycle": 0
+    "stock": 89,
+    "lastUpdate": "2025-12-16T21:18:04Z",
+    "cycle": 1
   },
   {
     "name": "AKBAR RISQ",
@@ -445,9 +445,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 51,
-    "lastUpdate": "2025-12-16T21:12:58Z",
-    "cycle": 2
+    "stock": 42,
+    "lastUpdate": "2025-12-16T21:18:04Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -457,20 +457,20 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastUpdate": "2025-12-16T21:13:22Z",
-    "cycle": 1
+    "stock": 25,
+    "lastUpdate": "2025-12-16T21:18:04Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-16T21:13:24Z",
-    "cycle": 1
+    "stock": 32,
+    "lastUpdate": "2025-12-16T21:18:04Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2025-12-16T18:15:18Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-16T21:21:36Z",
+    "cycle": 1
   }
 ]
