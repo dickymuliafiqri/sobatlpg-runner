@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 35,
-    "lastUpdate": "2025-12-17T02:08:55Z",
-    "cycle": 3
+    "stock": 28,
+    "lastUpdate": "2025-12-17T02:14:11Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -140,8 +140,8 @@
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
-    "lastUpdate": "2025-12-16T23:11:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-17T02:14:11Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -182,14 +182,14 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "lastUpdate": "2025-12-16T23:11:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-17T02:14:11Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-12-16T23:11:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-17T02:14:11Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
