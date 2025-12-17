@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 40,
-    "lastUpdate": "2025-12-17T02:04:07Z",
-    "cycle": 2
+    "stock": 35,
+    "lastUpdate": "2025-12-17T02:08:55Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -128,8 +128,8 @@
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "lastUpdate": "2025-12-16T23:05:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-17T02:08:55Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -164,8 +164,8 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "lastUpdate": "2025-12-16T23:05:48Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-17T02:08:55Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -176,8 +176,8 @@
   {
     "name": "ROSA V",
     "stock": 0,
-    "lastUpdate": "2025-12-16T23:06:16Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-17T02:08:55Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
