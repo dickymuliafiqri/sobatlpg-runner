@@ -21,7 +21,7 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastUpdate": "2025-12-18T01:01:04Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -39,7 +39,7 @@
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastUpdate": "2025-12-18T01:10:28Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -51,7 +51,7 @@
     "name": "SUCIYONO",
     "stock": 14,
     "lastUpdate": "2025-12-18T01:13:33Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -63,7 +63,7 @@
     "name": "JAENAL",
     "stock": 0,
     "lastUpdate": "2025-12-18T01:10:28Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -81,7 +81,7 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastUpdate": "2025-12-18T01:02:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-18T01:13:33Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-18T01:17:28Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-18T01:13:33Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-18T01:17:28Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -134,7 +134,7 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
-    "lastUpdate": "2025-12-17T22:16:57Z",
+    "lastUpdate": "2025-12-18T01:17:28Z",
     "cycle": 0
   },
   {
@@ -200,7 +200,7 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "lastUpdate": "2025-12-17T22:17:20Z",
+    "lastUpdate": "2025-12-18T01:17:28Z",
     "cycle": 0
   },
   {
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-18T01:13:33Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-18T01:17:29Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -321,7 +321,7 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastUpdate": "2025-12-18T01:03:37Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -411,7 +411,7 @@
     "name": "TOKO ANITA",
     "stock": 0,
     "lastUpdate": "2025-12-18T01:10:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
@@ -429,7 +429,7 @@
     "name": "SOEKAMTO",
     "stock": 0,
     "lastUpdate": "2025-12-18T01:05:37Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
