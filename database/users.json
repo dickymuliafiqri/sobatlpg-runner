@@ -31,9 +31,9 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 16,
-    "lastUpdate": "2025-12-18T00:21:13Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-18T00:27:02Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
@@ -187,9 +187,9 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 3,
-    "lastUpdate": "2025-12-18T00:21:13Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-18T00:27:02Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
@@ -241,27 +241,27 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-18T00:22:02Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-18T00:27:02Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-12-17T20:56:13Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-18T00:27:02Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
-    "lastUpdate": "2025-12-17T20:56:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-18T00:27:24Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
-    "lastUpdate": "2025-12-17T20:59:24Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-18T00:27:27Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
