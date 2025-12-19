@@ -55,9 +55,9 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 12,
-    "lastUpdate": "2025-12-19T20:45:12Z",
-    "cycle": 2
+    "stock": 5,
+    "lastUpdate": "2025-12-19T20:50:02Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -79,9 +79,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 8,
-    "lastUpdate": "2025-12-19T20:45:12Z",
-    "cycle": 2
+    "stock": 2,
+    "lastUpdate": "2025-12-19T20:50:02Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-19T20:45:12Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-19T20:50:02Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-19T20:45:14Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-19T20:50:02Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-19T20:45:15Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-19T20:50:04Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
