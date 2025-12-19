@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 9,
-    "lastUpdate": "2025-12-19T21:53:48Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-19T21:57:48Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -170,20 +170,20 @@
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "lastUpdate": "2025-12-19T18:55:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-19T21:57:48Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
-    "lastUpdate": "2025-12-19T18:55:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-19T21:57:48Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "lastUpdate": "2025-12-19T18:55:53Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-19T21:57:48Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -218,20 +218,20 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-19T18:55:55Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-19T21:58:10Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
-    "lastUpdate": "2025-12-19T18:55:56Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-19T21:58:12Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
-    "lastUpdate": "2025-12-19T18:56:13Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-19T21:58:12Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
