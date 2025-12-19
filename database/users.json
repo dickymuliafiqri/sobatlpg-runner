@@ -445,9 +445,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 20,
-    "lastUpdate": "2025-12-19T17:00:20Z",
-    "cycle": 4
+    "stock": 8,
+    "lastUpdate": "2025-12-19T17:05:26Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -457,9 +457,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 39,
-    "lastUpdate": "2025-12-19T17:00:20Z",
-    "cycle": 3
+    "stock": 32,
+    "lastUpdate": "2025-12-19T17:05:26Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 82,
-    "lastUpdate": "2025-12-19T17:00:20Z",
-    "cycle": 2
+    "stock": 73,
+    "lastUpdate": "2025-12-19T17:05:26Z",
+    "cycle": 3
   }
 ]
