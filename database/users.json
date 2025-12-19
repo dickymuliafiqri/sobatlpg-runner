@@ -2,8 +2,8 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-19T17:26:55Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-19T20:27:03Z",
+    "cycle": 1
   },
   {
     "name": "AKBAR RISQ",
@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2025-12-19T17:26:56Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-19T20:27:03Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 14,
-    "lastUpdate": "2025-12-19T20:21:44Z",
-    "cycle": 3
+    "stock": 7,
+    "lastUpdate": "2025-12-19T20:27:03Z",
+    "cycle": 4
   }
 ]
