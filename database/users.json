@@ -152,14 +152,14 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-20T00:48:32Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-20T03:48:43Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
     "stock": 0,
-    "lastUpdate": "2025-12-20T00:48:32Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-20T03:48:43Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 15,
-    "lastUpdate": "2025-12-20T03:38:30Z",
-    "cycle": 3
+    "stock": 9,
+    "lastUpdate": "2025-12-20T03:48:43Z",
+    "cycle": 4
   }
 ]
