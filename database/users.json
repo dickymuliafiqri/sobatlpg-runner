@@ -91,15 +91,15 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 25,
-    "lastUpdate": "2025-12-20T02:03:59Z",
-    "cycle": 3
+    "stock": 18,
+    "lastUpdate": "2025-12-20T02:08:18Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
-    "stock": 17,
-    "lastUpdate": "2025-12-20T02:03:59Z",
-    "cycle": 3
+    "stock": 10,
+    "lastUpdate": "2025-12-20T02:08:18Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-20T02:03:59Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-20T02:08:18Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-20T02:04:01Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-20T02:08:18Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -181,27 +181,27 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
-    "lastUpdate": "2025-12-20T02:04:45Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-20T02:08:21Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-12-19T22:05:49Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-20T02:08:21Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-12-19T22:15:08Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-20T02:08:42Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
-    "lastUpdate": "2025-12-19T22:05:49Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-20T02:08:43Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
