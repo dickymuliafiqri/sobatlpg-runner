@@ -9,7 +9,7 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastUpdate": "2025-12-21T00:03:23Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -51,7 +51,7 @@
     "name": "SUCIYONO",
     "stock": 0,
     "lastUpdate": "2025-12-21T00:03:23Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-21T00:04:23Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-21T00:04:43Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-21T00:04:23Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-21T00:04:43Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-21T00:04:23Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-21T00:04:43Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -411,7 +411,7 @@
     "name": "TOKO ANITA",
     "stock": 0,
     "lastUpdate": "2025-12-21T00:03:25Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
