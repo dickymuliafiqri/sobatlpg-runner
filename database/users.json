@@ -55,9 +55,9 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 63,
-    "lastUpdate": "2025-12-21T22:49:47Z",
-    "cycle": 2
+    "stock": 51,
+    "lastUpdate": "2025-12-21T22:55:00Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -67,15 +67,15 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
-    "lastUpdate": "2025-12-21T19:52:58Z",
-    "cycle": 0
+    "stock": 63,
+    "lastUpdate": "2025-12-21T22:55:00Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 0,
-    "lastUpdate": "2025-12-21T19:53:38Z",
-    "cycle": 0
+    "stock": 64,
+    "lastUpdate": "2025-12-21T22:55:00Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -85,9 +85,9 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
-    "lastUpdate": "2025-12-21T19:53:38Z",
-    "cycle": 0
+    "stock": 46,
+    "lastUpdate": "2025-12-21T22:55:00Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
-    "lastUpdate": "2025-12-21T19:57:21Z",
-    "cycle": 0
+    "stock": 47,
+    "lastUpdate": "2025-12-21T22:57:51Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -122,8 +122,8 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-21T22:49:47Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-21T22:58:00Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-21T22:49:47Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-21T22:58:02Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 52,
-    "lastUpdate": "2025-12-21T22:49:49Z",
-    "cycle": 1
+    "stock": 46,
+    "lastUpdate": "2025-12-21T22:58:03Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 94,
-    "lastUpdate": "2025-12-21T22:49:49Z",
-    "cycle": 1
+    "stock": 87,
+    "lastUpdate": "2025-12-21T22:59:46Z",
+    "cycle": 2
   }
 ]
