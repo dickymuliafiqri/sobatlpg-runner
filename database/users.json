@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-21T05:43:34Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-21T05:43:34Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-21T05:43:34Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -333,7 +333,7 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastUpdate": "2025-12-21T05:41:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
@@ -363,25 +363,25 @@
     "name": "BUDI",
     "stock": 0,
     "lastUpdate": "2025-12-21T05:41:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastUpdate": "2025-12-21T05:41:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
-    "stock": 1,
-    "lastUpdate": "2025-12-21T05:45:35Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-21T05:46:34Z",
+    "cycle": 0
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastUpdate": "2025-12-21T05:41:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "IMA",
@@ -392,20 +392,20 @@
   {
     "name": "DARMAWAN P",
     "stock": 0,
-    "lastUpdate": "2025-12-21T02:46:11Z",
+    "lastUpdate": "2025-12-21T05:46:34Z",
     "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
-    "lastUpdate": "2025-12-21T02:46:13Z",
+    "lastUpdate": "2025-12-21T05:46:34Z",
     "cycle": 0
   },
   {
     "name": "SALMAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-21T05:45:35Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-21T05:46:34Z",
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
@@ -447,7 +447,7 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastUpdate": "2025-12-21T05:42:23Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
@@ -457,9 +457,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastUpdate": "2025-12-21T05:45:35Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-21T05:46:56Z",
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
