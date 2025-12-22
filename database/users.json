@@ -93,7 +93,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "lastUpdate": "2025-12-22T19:37:56Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -105,7 +105,7 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastUpdate": "2025-12-22T19:39:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-22T19:39:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-22T19:40:10Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-22T19:39:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-22T19:40:10Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-22T19:39:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-22T19:40:10Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
