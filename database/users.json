@@ -374,14 +374,14 @@
   {
     "name": "SUSILO",
     "stock": 0,
-    "lastUpdate": "2025-12-22T18:21:11Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-22T21:21:15Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
-    "lastUpdate": "2025-12-22T18:21:13Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-22T21:21:15Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -392,8 +392,8 @@
   {
     "name": "DARMAWAN P",
     "stock": 0,
-    "lastUpdate": "2025-12-22T18:21:13Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-22T21:21:15Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 94,
-    "lastUpdate": "2025-12-22T21:14:53Z",
-    "cycle": 1
+    "stock": 87,
+    "lastUpdate": "2025-12-22T21:21:15Z",
+    "cycle": 2
   }
 ]
