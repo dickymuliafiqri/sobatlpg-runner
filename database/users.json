@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-22T09:24:05Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-22T09:24:05Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-22T09:24:05Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -375,66 +375,66 @@
     "name": "SUSILO",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:20:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:20:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:27:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:20:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 2,
-    "lastUpdate": "2025-12-22T09:32:25Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-22T09:37:15Z",
+    "cycle": 0
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:21:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:27:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:27:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastUpdate": "2025-12-22T09:28:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
-    "lastUpdate": "2025-12-22T06:36:02Z",
+    "lastUpdate": "2025-12-22T09:37:15Z",
     "cycle": 0
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "lastUpdate": "2025-12-22T06:36:05Z",
+    "lastUpdate": "2025-12-22T09:37:15Z",
     "cycle": 0
   },
   {
@@ -452,7 +452,7 @@
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-12-22T06:36:06Z",
+    "lastUpdate": "2025-12-22T09:37:15Z",
     "cycle": 0
   },
   {
@@ -464,7 +464,7 @@
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-12-22T06:36:41Z",
+    "lastUpdate": "2025-12-22T09:37:37Z",
     "cycle": 0
   },
   {
