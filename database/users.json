@@ -277,39 +277,39 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastUpdate": "2025-12-22T18:06:48Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-22T18:08:08Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
-    "lastUpdate": "2025-12-22T18:06:48Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-22T18:08:08Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastUpdate": "2025-12-22T18:06:48Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-22T18:08:08Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
-    "lastUpdate": "2025-12-22T18:06:48Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-22T18:08:08Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
-    "lastUpdate": "2025-12-22T15:05:42Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-22T18:08:31Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-22T18:05:03Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-22T18:08:33Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -326,8 +326,8 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-22T15:05:44Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-22T18:08:34Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
