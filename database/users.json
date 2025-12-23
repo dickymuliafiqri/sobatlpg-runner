@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-23T17:21:28Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T17:21:43Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-23T17:21:28Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T17:21:43Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -290,8 +290,8 @@
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-12-23T14:21:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T17:21:43Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-23T17:21:28Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T17:21:43Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -476,7 +476,7 @@
   {
     "name": "ABDUL WAFI",
     "stock": 0,
-    "lastUpdate": "2025-12-23T14:21:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T17:21:45Z",
+    "cycle": 1
   }
 ]
