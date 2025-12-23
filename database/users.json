@@ -51,7 +51,7 @@
     "name": "SUCIYONO",
     "stock": 0,
     "lastUpdate": "2025-12-23T08:53:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-12-23T05:54:44Z",
+    "lastUpdate": "2025-12-23T08:55:38Z",
     "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-23T08:54:42Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-23T08:55:38Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-23T08:54:42Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-23T08:55:38Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-23T08:54:42Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-23T08:55:38Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
