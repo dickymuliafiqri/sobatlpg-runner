@@ -9,13 +9,13 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastUpdate": "2025-12-23T06:56:04Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "lastUpdate": "2025-12-23T06:41:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,13 +39,13 @@
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastUpdate": "2025-12-23T06:56:04Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 10,
     "lastUpdate": "2025-12-23T07:05:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -63,13 +63,13 @@
     "name": "JAENAL",
     "stock": 0,
     "lastUpdate": "2025-12-23T07:05:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastUpdate": "2025-12-23T06:44:56Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -86,7 +86,7 @@
   {
     "name": "MOH SAID",
     "stock": 0,
-    "lastUpdate": "2025-12-23T04:12:16Z",
+    "lastUpdate": "2025-12-23T07:14:09Z",
     "cycle": 0
   },
   {
@@ -99,13 +99,13 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-12-23T07:05:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastUpdate": "2025-12-23T07:05:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-23T07:06:11Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-23T07:06:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -183,7 +183,7 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastUpdate": "2025-12-23T06:52:35Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -285,7 +285,7 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastUpdate": "2025-12-23T06:52:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-23T07:09:55Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 16,
-    "lastUpdate": "2025-12-23T07:09:55Z",
-    "cycle": 4
+    "stock": 8,
+    "lastUpdate": "2025-12-23T07:14:09Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
