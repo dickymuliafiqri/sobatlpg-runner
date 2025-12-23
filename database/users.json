@@ -283,9 +283,9 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 5,
-    "lastUpdate": "2025-12-23T06:29:53Z",
-    "cycle": 4
+    "stock": 1,
+    "lastUpdate": "2025-12-23T06:34:38Z",
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-23T06:29:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-23T06:34:38Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 40,
-    "lastUpdate": "2025-12-23T06:29:53Z",
-    "cycle": 3
+    "stock": 39,
+    "lastUpdate": "2025-12-23T06:34:38Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
