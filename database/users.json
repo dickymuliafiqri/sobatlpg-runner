@@ -235,9 +235,9 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 3,
-    "lastUpdate": "2025-12-23T23:18:48Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-23T23:23:24Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -290,8 +290,8 @@
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-12-23T20:21:47Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T23:23:24Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -349,27 +349,27 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
-    "lastUpdate": "2025-12-23T23:19:11Z",
-    "cycle": 1
+    "stock": 8,
+    "lastUpdate": "2025-12-23T23:23:24Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
-    "lastUpdate": "2025-12-23T23:19:12Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-23T23:23:24Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
     "stock": 0,
-    "lastUpdate": "2025-12-23T19:52:30Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T23:23:47Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
-    "lastUpdate": "2025-12-23T19:55:29Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-23T23:23:48Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
