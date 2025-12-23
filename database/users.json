@@ -87,7 +87,7 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastUpdate": "2025-12-23T10:14:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-23T10:14:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-23T10:15:08Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-23T10:14:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-23T10:15:08Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-23T10:14:53Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-23T10:15:08Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
