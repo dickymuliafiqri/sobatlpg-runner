@@ -283,9 +283,9 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 42,
-    "lastUpdate": "2025-12-23T04:39:03Z",
-    "cycle": 2
+    "stock": 36,
+    "lastUpdate": "2025-12-23T04:43:57Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-23T04:39:03Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-23T04:43:57Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -331,33 +331,33 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
-    "lastUpdate": "2025-12-23T04:39:30Z",
-    "cycle": 1
+    "stock": 20,
+    "lastUpdate": "2025-12-23T04:43:57Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
-    "lastUpdate": "2025-12-23T04:39:31Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-23T04:43:57Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 0,
-    "lastUpdate": "2025-12-23T00:33:46Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T04:43:59Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
-    "lastUpdate": "2025-12-23T00:33:46Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-23T04:44:23Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
-    "lastUpdate": "2025-12-23T00:34:11Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-23T04:44:26Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
