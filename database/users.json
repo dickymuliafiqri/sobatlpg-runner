@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-24T14:43:51Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T14:44:33Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-24T14:43:51Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T14:44:33Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -183,7 +183,7 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastUpdate": "2025-12-24T14:43:51Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -195,18 +195,18 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastUpdate": "2025-12-24T14:43:51Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastUpdate": "2025-12-24T14:43:53Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
     "stock": 0,
-    "lastUpdate": "2025-12-24T11:44:33Z",
+    "lastUpdate": "2025-12-24T14:44:33Z",
     "cycle": 0
   },
   {
@@ -218,7 +218,7 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-24T11:44:33Z",
+    "lastUpdate": "2025-12-24T14:44:33Z",
     "cycle": 0
   },
   {
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-24T14:43:54Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T14:44:35Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
