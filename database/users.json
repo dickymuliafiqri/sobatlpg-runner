@@ -27,7 +27,7 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastUpdate": "2025-12-24T16:11:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-24T16:12:25Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T16:12:45Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-24T16:12:25Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T16:12:45Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-24T16:12:25Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T16:12:45Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
