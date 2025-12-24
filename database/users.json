@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-24T06:26:09Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T06:26:38Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-24T06:26:09Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-24T06:26:38Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -163,21 +163,21 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
-    "lastUpdate": "2025-12-24T03:25:52Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-24T06:26:38Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "lastUpdate": "2025-12-24T03:25:52Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-24T06:26:38Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
-    "stock": 0,
-    "lastUpdate": "2025-12-24T03:25:52Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-24T06:26:40Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -187,9 +187,9 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
-    "lastUpdate": "2025-12-24T03:25:52Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-24T06:26:40Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
