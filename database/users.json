@@ -337,9 +337,9 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 3,
-    "lastUpdate": "2025-12-24T12:09:37Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-24T12:13:18Z",
+    "cycle": 5
   },
   {
     "name": "TUSOK",
@@ -367,9 +367,9 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 22,
-    "lastUpdate": "2025-12-24T12:09:37Z",
-    "cycle": 3
+    "stock": 13,
+    "lastUpdate": "2025-12-24T12:13:18Z",
+    "cycle": 4
   },
   {
     "name": "SUSILO",
@@ -415,9 +415,9 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastUpdate": "2025-12-24T12:10:00Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-24T12:13:18Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
@@ -434,8 +434,8 @@
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "lastUpdate": "2025-12-24T09:06:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-24T12:13:18Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -464,8 +464,8 @@
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-12-24T09:09:23Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-24T12:13:43Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
