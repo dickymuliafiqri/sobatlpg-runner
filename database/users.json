@@ -31,9 +31,9 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 34,
-    "lastUpdate": "2025-12-25T03:54:21Z",
-    "cycle": 3
+    "stock": 26,
+    "lastUpdate": "2025-12-25T03:58:53Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
@@ -73,9 +73,9 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
-    "lastUpdate": "2025-12-25T00:56:05Z",
-    "cycle": 0
+    "stock": 62,
+    "lastUpdate": "2025-12-25T03:58:53Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -385,9 +385,9 @@
   },
   {
     "name": "IMA",
-    "stock": 7,
-    "lastUpdate": "2025-12-25T03:54:21Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-25T03:58:53Z",
+    "cycle": 5
   },
   {
     "name": "DARMAWAN P",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-12-25T03:55:05Z",
-    "cycle": 3
+    "stock": 82,
+    "lastUpdate": "2025-12-25T03:58:53Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -464,8 +464,8 @@
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-12-25T00:14:39Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-25T04:01:50Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 80,
-    "lastUpdate": "2025-12-25T02:35:04Z",
-    "cycle": 3
+    "stock": 73,
+    "lastUpdate": "2025-12-25T04:02:12Z",
+    "cycle": 4
   }
 ]
