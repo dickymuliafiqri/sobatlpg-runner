@@ -188,8 +188,8 @@
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-12-25T03:32:38Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-25T06:35:55Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
@@ -392,8 +392,8 @@
   {
     "name": "DARMAWAN P",
     "stock": 0,
-    "lastUpdate": "2025-12-25T03:35:33Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-25T06:35:55Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 59,
-    "lastUpdate": "2025-12-25T06:31:32Z",
-    "cycle": 3
+    "stock": 51,
+    "lastUpdate": "2025-12-25T06:35:55Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -457,9 +457,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastUpdate": "2025-12-25T06:31:56Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-25T06:35:55Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
@@ -470,13 +470,13 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2025-12-25T01:42:39Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-25T06:36:19Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 66,
-    "lastUpdate": "2025-12-25T04:06:14Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-25T06:36:20Z",
+    "cycle": 1
   }
 ]
