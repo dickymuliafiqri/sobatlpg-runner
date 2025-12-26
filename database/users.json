@@ -85,9 +85,9 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 19,
-    "lastUpdate": "2025-12-26T03:17:31Z",
-    "cycle": 4
+    "stock": 12,
+    "lastUpdate": "2025-12-26T03:22:34Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 39,
-    "lastUpdate": "2025-12-26T03:17:31Z",
-    "cycle": 4
+    "stock": 32,
+    "lastUpdate": "2025-12-26T03:22:34Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -248,8 +248,8 @@
   {
     "name": "SUROSO",
     "stock": 0,
-    "lastUpdate": "2025-12-26T00:22:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-26T03:22:34Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -272,20 +272,20 @@
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
-    "lastUpdate": "2025-12-26T00:22:31Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-26T03:22:34Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
     "stock": 0,
-    "lastUpdate": "2025-12-26T00:18:12Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-26T03:22:59Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
-    "lastUpdate": "2025-12-26T00:18:12Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-26T03:23:00Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
