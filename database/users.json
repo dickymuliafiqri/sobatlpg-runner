@@ -97,9 +97,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 22,
-    "lastUpdate": "2025-12-27T10:30:15Z",
-    "cycle": 3
+    "stock": 20,
+    "lastUpdate": "2025-12-27T10:37:41Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 18,
-    "lastUpdate": "2025-12-27T10:30:36Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-27T10:37:41Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-27T10:24:14Z",
+    "lastUpdate": "2025-12-27T10:37:41Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastUpdate": "2025-12-27T10:37:41Z",
     "cycle": 1
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastUpdate": "2025-12-27T09:02:04Z",
-    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -241,9 +241,9 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-27T09:08:12Z",
-    "cycle": 0
+    "stock": 7,
+    "lastUpdate": "2025-12-27T10:37:43Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -295,9 +295,9 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 2,
-    "lastUpdate": "2025-12-27T09:27:03Z",
-    "cycle": 0
+    "stock": 0,
+    "lastUpdate": "2025-12-27T10:37:43Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-27T09:27:03Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-27T10:38:56Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 37,
-    "lastUpdate": "2025-12-27T09:54:55Z",
-    "cycle": 0
+    "stock": 36,
+    "lastUpdate": "2025-12-27T10:38:57Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -457,9 +457,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
-    "lastUpdate": "2025-12-27T07:28:16Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-27T10:38:58Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
