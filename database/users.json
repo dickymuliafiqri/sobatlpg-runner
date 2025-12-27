@@ -175,9 +175,9 @@
   },
   {
     "name": "ROSA V",
-    "stock": 6,
-    "lastUpdate": "2025-12-27T11:59:25Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-27T12:09:07Z",
+    "cycle": 4
   },
   {
     "name": "LUKMAN BS",
@@ -211,9 +211,9 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 10,
-    "lastUpdate": "2025-12-27T11:59:25Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-27T12:09:07Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -223,9 +223,9 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 30,
-    "lastUpdate": "2025-12-27T11:59:25Z",
-    "cycle": 2
+    "stock": 27,
+    "lastUpdate": "2025-12-27T12:09:07Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -260,20 +260,20 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "lastUpdate": "2025-12-27T09:05:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-27T12:09:07Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
-    "lastUpdate": "2025-12-27T09:05:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-27T12:09:32Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
-    "lastUpdate": "2025-12-27T09:05:27Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-27T12:09:54Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
