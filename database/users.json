@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 42,
-    "lastUpdate": "2025-12-27T02:53:51Z",
-    "cycle": 2
+    "stock": 31,
+    "lastUpdate": "2025-12-27T03:03:02Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -409,9 +409,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 35,
-    "lastUpdate": "2025-12-27T02:53:51Z",
-    "cycle": 1
+    "stock": 22,
+    "lastUpdate": "2025-12-27T03:03:02Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastUpdate": "2025-12-27T02:54:38Z",
-    "cycle": 2
+    "stock": 87,
+    "lastUpdate": "2025-12-27T03:03:02Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -458,14 +458,14 @@
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "lastUpdate": "2025-12-26T23:27:45Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-27T03:03:02Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
-    "lastUpdate": "2025-12-26T23:43:35Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-27T03:03:25Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
