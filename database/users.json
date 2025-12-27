@@ -68,8 +68,8 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 1,
-    "lastUpdate": "2025-12-27T03:09:07Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-27T03:09:40Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -410,8 +410,8 @@
   {
     "name": "TOKO ANITA",
     "stock": 1,
-    "lastUpdate": "2025-12-27T03:09:07Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-27T03:09:40Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 100,
-    "lastUpdate": "2025-12-27T03:07:49Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2025-12-27T03:09:40Z",
+    "cycle": 2
   }
 ]
