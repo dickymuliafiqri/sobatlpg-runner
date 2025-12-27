@@ -230,8 +230,8 @@
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 14,
-    "lastUpdate": "2025-12-27T05:07:39Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-27T05:10:46Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -242,8 +242,8 @@
   {
     "name": "ISTIQOMAH",
     "stock": 20,
-    "lastUpdate": "2025-12-27T05:07:39Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-27T05:10:46Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -283,9 +283,9 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 36,
-    "lastUpdate": "2025-12-27T05:07:39Z",
-    "cycle": 1
+    "stock": 35,
+    "lastUpdate": "2025-12-27T05:10:46Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -295,27 +295,27 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
-    "lastUpdate": "2025-12-27T05:08:25Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-27T05:10:46Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
-    "lastUpdate": "2025-12-27T01:22:50Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-27T05:11:11Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-27T02:09:13Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-27T05:11:35Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
-    "lastUpdate": "2025-12-27T01:51:17Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-27T05:11:36Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
