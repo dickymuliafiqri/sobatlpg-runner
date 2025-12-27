@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 18,
-    "lastUpdate": "2025-12-27T13:23:41Z",
-    "cycle": 3
+    "stock": 11,
+    "lastUpdate": "2025-12-27T13:27:06Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
-    "lastUpdate": "2025-12-27T13:24:04Z",
-    "cycle": 1
+    "stock": 23,
+    "lastUpdate": "2025-12-27T13:27:06Z",
+    "cycle": 2
   }
 ]
