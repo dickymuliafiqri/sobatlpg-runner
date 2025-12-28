@@ -21,7 +21,7 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastUpdate": "2025-12-28T21:18:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-28T21:18:41Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-28T21:19:17Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-28T21:18:41Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-28T21:19:17Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -255,7 +255,7 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastUpdate": "2025-12-28T21:18:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
@@ -272,13 +272,13 @@
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
-    "lastUpdate": "2025-12-28T18:19:16Z",
+    "lastUpdate": "2025-12-28T21:19:17Z",
     "cycle": 0
   },
   {
     "name": "SUPARNI",
     "stock": 0,
-    "lastUpdate": "2025-12-28T18:19:16Z",
+    "lastUpdate": "2025-12-28T21:19:17Z",
     "cycle": 0
   },
   {
@@ -290,7 +290,7 @@
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2025-12-28T18:19:19Z",
+    "lastUpdate": "2025-12-28T21:19:20Z",
     "cycle": 0
   },
   {
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-28T21:18:43Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-28T21:19:20Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
