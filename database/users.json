@@ -205,9 +205,9 @@
   },
   {
     "name": "YUDA",
-    "stock": 7,
-    "lastUpdate": "2025-12-29T11:21:40Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-29T11:26:04Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -451,9 +451,9 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 9,
-    "lastUpdate": "2025-12-29T11:21:40Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-29T11:26:04Z",
+    "cycle": 5
   },
   {
     "name": "TOKO SURYATI",
@@ -463,9 +463,9 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 16,
-    "lastUpdate": "2025-12-29T11:21:40Z",
-    "cycle": 2
+    "stock": 9,
+    "lastUpdate": "2025-12-29T11:26:04Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
