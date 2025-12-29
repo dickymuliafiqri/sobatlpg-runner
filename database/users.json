@@ -199,9 +199,9 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 22,
-    "lastUpdate": "2025-12-29T02:12:28Z",
-    "cycle": 1
+    "stock": 14,
+    "lastUpdate": "2025-12-29T02:16:54Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
@@ -445,9 +445,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 27,
-    "lastUpdate": "2025-12-29T02:12:28Z",
-    "cycle": 4
+    "stock": 20,
+    "lastUpdate": "2025-12-29T02:16:54Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -470,13 +470,13 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2025-12-28T23:16:09Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-29T02:16:54Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
-    "lastUpdate": "2025-12-29T02:13:16Z",
-    "cycle": 3
+    "stock": 64,
+    "lastUpdate": "2025-12-29T02:16:54Z",
+    "cycle": 4
   }
 ]
