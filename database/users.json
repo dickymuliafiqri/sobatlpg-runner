@@ -337,9 +337,9 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 9,
-    "lastUpdate": "2025-12-30T10:27:24Z",
-    "cycle": 4
+    "stock": 2,
+    "lastUpdate": "2025-12-30T10:31:11Z",
+    "cycle": 5
   },
   {
     "name": "TUSOK",
@@ -397,33 +397,33 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
-    "lastUpdate": "2025-12-30T10:27:48Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-30T10:31:11Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-30T10:27:50Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-30T10:31:11Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
-    "lastUpdate": "2025-12-30T06:15:49Z",
-    "cycle": 0
+    "stock": 43,
+    "lastUpdate": "2025-12-30T10:31:11Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "lastUpdate": "2025-12-30T06:16:23Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T10:31:35Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
-    "lastUpdate": "2025-12-30T06:18:46Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-30T10:31:36Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
