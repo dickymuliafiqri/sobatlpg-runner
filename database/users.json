@@ -26,8 +26,8 @@
   {
     "name": "CINDRAWATI",
     "stock": 0,
-    "lastUpdate": "2025-12-29T23:34:58Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T02:38:05Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -103,9 +103,9 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 5,
-    "lastUpdate": "2025-12-30T02:11:08Z",
-    "cycle": 0
+    "stock": 0,
+    "lastUpdate": "2025-12-30T02:38:05Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-30T02:11:08Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T02:38:05Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-30T02:11:08Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T02:38:05Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-30T02:11:11Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T02:38:09Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -464,8 +464,8 @@
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "lastUpdate": "2025-12-29T23:35:00Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T02:38:09Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 54,
-    "lastUpdate": "2025-12-30T02:33:18Z",
-    "cycle": 0
+    "stock": 46,
+    "lastUpdate": "2025-12-30T02:38:10Z",
+    "cycle": 1
   }
 ]
