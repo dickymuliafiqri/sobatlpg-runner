@@ -206,8 +206,8 @@
   {
     "name": "YUDA",
     "stock": 0,
-    "lastUpdate": "2025-12-29T23:26:27Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T02:28:46Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -452,8 +452,8 @@
   {
     "name": "ULFA MARIA",
     "stock": 0,
-    "lastUpdate": "2025-12-29T23:26:29Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-30T02:28:46Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 66,
-    "lastUpdate": "2025-12-30T02:25:18Z",
-    "cycle": 3
+    "stock": 60,
+    "lastUpdate": "2025-12-30T02:28:46Z",
+    "cycle": 4
   }
 ]
