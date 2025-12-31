@@ -25,9 +25,9 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
-    "lastUpdate": "2025-12-30T23:45:43Z",
-    "cycle": 0
+    "stock": 60,
+    "lastUpdate": "2025-12-31T02:47:19Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -50,14 +50,14 @@
   {
     "name": "SUCIYONO",
     "stock": 100,
-    "lastUpdate": "2025-12-31T02:43:51Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T02:47:19Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 75,
-    "lastUpdate": "2025-12-31T02:43:51Z",
-    "cycle": 4
+    "stock": 1,
+    "lastUpdate": "2025-12-31T02:47:19Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -86,8 +86,8 @@
   {
     "name": "MOH SAID",
     "stock": 60,
-    "lastUpdate": "2025-12-31T02:43:51Z",
-    "cycle": 3
+    "lastUpdate": "2025-12-31T02:47:19Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
