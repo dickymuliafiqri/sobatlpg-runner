@@ -313,9 +313,9 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T08:06:34Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-31T08:21:59Z",
+    "cycle": 5
   },
   {
     "name": "CAHYA HERAWATI",
@@ -337,9 +337,9 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T08:06:34Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-31T08:21:59Z",
+    "cycle": 4
   },
   {
     "name": "TUSOK",
@@ -355,15 +355,15 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T08:01:58Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-31T08:21:59Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T08:01:59Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-31T08:21:59Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -379,21 +379,21 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T08:03:53Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-31T08:22:57Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T05:02:12Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T08:23:06Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T04:59:03Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T08:23:09Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
