@@ -212,8 +212,8 @@
   {
     "name": "SRI UTAMI",
     "stock": 1,
-    "lastUpdate": "2025-12-31T07:40:01Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-31T07:41:50Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -223,15 +223,15 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T07:40:01Z",
-    "cycle": 4
+    "stock": 0,
+    "lastUpdate": "2025-12-31T07:41:50Z",
+    "cycle": 5
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T07:40:01Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-31T07:41:50Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -247,9 +247,9 @@
   },
   {
     "name": "SUROSO",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T07:40:01Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-31T07:41:50Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -259,15 +259,15 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T07:38:12Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-31T07:42:30Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T04:25:28Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T07:42:44Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
