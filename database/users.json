@@ -105,7 +105,7 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastUpdate": "2025-12-31T00:24:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-31T00:25:18Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-31T00:25:35Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-31T00:25:18Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-31T00:25:35Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -183,7 +183,7 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastUpdate": "2025-12-31T00:24:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-31T00:25:18Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-31T00:25:35Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
