@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:06:05Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -92,14 +92,14 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastUpdate": "2025-12-31T18:07:57Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-31T18:09:48Z",
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:02:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -111,25 +111,25 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:07:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:06:05Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:06:05Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:07:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-31T18:06:07Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
