@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -93,7 +93,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -309,7 +309,7 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-31T18:45:59Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -441,13 +441,13 @@
     "name": "TOKO POJOK",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:44:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T18:46:00Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-31T18:46:55Z",
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
