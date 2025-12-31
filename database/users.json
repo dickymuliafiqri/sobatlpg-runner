@@ -175,15 +175,15 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T07:22:31Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2025-12-31T07:26:29Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T07:22:31Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-31T07:26:29Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -200,32 +200,32 @@
   {
     "name": "JAMILAH",
     "stock": 1,
-    "lastUpdate": "2025-12-31T07:23:42Z",
-    "cycle": 2
+    "lastUpdate": "2025-12-31T07:26:29Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T07:23:47Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2025-12-31T07:26:29Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T04:19:10Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T07:27:14Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-31T04:19:40Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T07:27:36Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T04:19:42Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T07:27:38Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
