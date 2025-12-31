@@ -428,8 +428,8 @@
   {
     "name": "SOEKAMTO",
     "stock": 1,
-    "lastUpdate": "2025-12-31T20:15:06Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T20:16:15Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -452,20 +452,20 @@
   {
     "name": "ULFA MARIA",
     "stock": 1,
-    "lastUpdate": "2025-12-31T20:15:09Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T20:16:15Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
     "stock": 1,
-    "lastUpdate": "2025-12-31T20:15:09Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T20:16:15Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T17:13:46Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T20:16:15Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
