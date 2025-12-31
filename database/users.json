@@ -79,9 +79,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T02:27:51Z",
-    "cycle": 1
+    "stock": 100,
+    "lastUpdate": "2025-12-31T02:31:36Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -476,7 +476,7 @@
   {
     "name": "ABDUL WAFI",
     "stock": 99,
-    "lastUpdate": "2025-12-31T02:27:51Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T02:31:36Z",
+    "cycle": 2
   }
 ]
