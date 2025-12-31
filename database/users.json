@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:25:02Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -93,7 +93,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:25:02Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:25:02Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:25:02Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -213,7 +213,7 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:20:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -225,7 +225,7 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:23:11Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -296,7 +296,7 @@
   {
     "name": "HARSININGSIH",
     "stock": 0,
-    "lastUpdate": "2025-12-31T15:26:44Z",
+    "lastUpdate": "2025-12-31T18:26:51Z",
     "cycle": 0
   },
   {
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-31T18:25:03Z",
-    "cycle": 4
+    "lastUpdate": "2025-12-31T18:26:51Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
