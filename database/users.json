@@ -61,9 +61,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 100,
-    "lastUpdate": "2025-12-31T04:10:54Z",
-    "cycle": 4
+    "stock": 1,
+    "lastUpdate": "2025-12-31T04:13:38Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -164,8 +164,8 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
-    "lastUpdate": "2025-12-31T04:12:33Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T04:13:38Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -175,15 +175,15 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T00:34:35Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T04:13:38Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T00:24:14Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T04:13:38Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
