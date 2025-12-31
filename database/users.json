@@ -110,20 +110,20 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2025-12-30T21:46:17Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T00:46:21Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-31T00:46:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T00:46:21Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2025-12-31T00:46:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T00:46:21Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -188,14 +188,14 @@
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "lastUpdate": "2025-12-30T21:46:17Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T00:46:21Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
-    "lastUpdate": "2025-12-30T21:46:20Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T00:46:24Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2025-12-31T00:46:04Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T00:46:25Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
