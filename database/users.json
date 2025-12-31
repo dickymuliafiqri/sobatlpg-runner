@@ -194,20 +194,20 @@
   {
     "name": "ROSIDI",
     "stock": 1,
-    "lastUpdate": "2025-12-31T20:02:06Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T20:03:14Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
     "stock": 1,
-    "lastUpdate": "2025-12-31T20:02:07Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T20:03:14Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
     "stock": 1,
-    "lastUpdate": "2025-12-31T20:02:08Z",
-    "cycle": 1
+    "lastUpdate": "2025-12-31T20:03:14Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -218,8 +218,8 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2025-12-31T17:00:49Z",
-    "cycle": 0
+    "lastUpdate": "2025-12-31T20:03:14Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -235,9 +235,9 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T17:00:49Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2025-12-31T20:03:17Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
