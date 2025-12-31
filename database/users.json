@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:34:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -93,7 +93,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:34:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -117,13 +117,13 @@
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:34:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2025-12-31T18:34:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -147,7 +147,7 @@
     "name": "P. SUK",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:31:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -231,7 +231,7 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:34:20Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -309,19 +309,19 @@
     "name": "Bansos",
     "stock": 41,
     "lastUpdate": "2025-12-31T18:36:15Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:34:22Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastUpdate": "2025-12-31T18:34:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -331,9 +331,9 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T18:38:11Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-31T18:39:06Z",
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
@@ -343,15 +343,15 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T18:38:11Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-31T18:39:06Z",
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
-    "lastUpdate": "2025-12-31T18:38:11Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2025-12-31T18:39:06Z",
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -392,7 +392,7 @@
   {
     "name": "DARMAWAN P",
     "stock": 0,
-    "lastUpdate": "2025-12-31T15:38:58Z",
+    "lastUpdate": "2025-12-31T18:39:06Z",
     "cycle": 0
   },
   {
