@@ -103,15 +103,15 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 16,
-    "lastUpdate": "2026-01-01T03:24:46Z",
-    "cycle": 2
+    "stock": 4,
+    "lastUpdate": "2026-01-01T03:30:04Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
-    "lastUpdate": "2026-01-01T03:24:46Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2026-01-01T03:30:04Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -224,8 +224,8 @@
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
-    "lastUpdate": "2026-01-01T00:25:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-01T03:30:04Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -296,8 +296,8 @@
   {
     "name": "HARSININGSIH",
     "stock": 0,
-    "lastUpdate": "2026-01-01T00:28:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-01T03:30:04Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -373,15 +373,15 @@
   },
   {
     "name": "SUSILO",
-    "stock": 1,
-    "lastUpdate": "2026-01-01T03:25:25Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2026-01-01T03:30:27Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T23:18:04Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2026-01-01T03:30:30Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
