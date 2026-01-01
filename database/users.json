@@ -57,7 +57,7 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastUpdate": "2026-01-01T00:13:01Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -93,7 +93,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastUpdate": "2026-01-01T00:13:01Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -103,33 +103,33 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
-    "lastUpdate": "2026-01-01T00:13:01Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2026-01-01T00:15:18Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
     "lastUpdate": "2026-01-01T00:09:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2026-01-01T00:13:01Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastUpdate": "2026-01-01T00:13:03Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
-    "lastUpdate": "2026-01-01T00:13:05Z",
-    "cycle": 2
+    "stock": 0,
+    "lastUpdate": "2026-01-01T00:15:18Z",
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -140,7 +140,7 @@
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
-    "lastUpdate": "2025-12-31T21:13:00Z",
+    "lastUpdate": "2026-01-01T00:15:18Z",
     "cycle": 0
   },
   {
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2026-01-01T00:11:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-01T00:15:18Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
