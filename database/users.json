@@ -87,7 +87,7 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastUpdate": "2026-01-01T17:49:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2026-01-01T17:51:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-01T17:52:29Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2026-01-01T17:51:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-01T17:52:29Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -159,19 +159,19 @@
     "name": "JONI H",
     "stock": 0,
     "lastUpdate": "2026-01-01T17:51:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastUpdate": "2026-01-01T17:51:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastUpdate": "2026-01-01T17:51:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2026-01-01T17:51:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-01T17:52:29Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
