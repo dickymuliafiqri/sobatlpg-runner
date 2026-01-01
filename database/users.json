@@ -97,9 +97,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 27,
-    "lastUpdate": "2026-01-01T03:09:24Z",
-    "cycle": 2
+    "stock": 14,
+    "lastUpdate": "2026-01-01T03:13:29Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -109,9 +109,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
-    "lastUpdate": "2026-01-01T00:09:38Z",
-    "cycle": 0
+    "stock": 27,
+    "lastUpdate": "2026-01-01T03:13:29Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -301,9 +301,9 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 19,
-    "lastUpdate": "2026-01-01T03:09:24Z",
-    "cycle": 2
+    "stock": 10,
+    "lastUpdate": "2026-01-01T03:13:29Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -361,21 +361,21 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastUpdate": "2026-01-01T03:09:51Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2026-01-01T03:13:29Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "lastUpdate": "2025-12-31T23:15:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-01T03:13:54Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
-    "lastUpdate": "2025-12-31T23:18:04Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2026-01-01T03:14:17Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
