@@ -98,7 +98,7 @@
   {
     "name": "TK. MAJU",
     "stock": 0,
-    "lastUpdate": "2026-01-01T06:24:46Z",
+    "lastUpdate": "2026-01-01T09:24:49Z",
     "cycle": 0
   },
   {
@@ -116,14 +116,14 @@
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2026-01-01T09:24:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-01T09:24:49Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2026-01-01T09:24:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-01T09:24:49Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -212,7 +212,7 @@
   {
     "name": "SRI UTAMI",
     "stock": 0,
-    "lastUpdate": "2026-01-01T06:24:46Z",
+    "lastUpdate": "2026-01-01T09:24:49Z",
     "cycle": 0
   },
   {
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2026-01-01T09:24:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-01T09:24:53Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
