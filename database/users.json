@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2026-01-01T19:29:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-01T22:34:46Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -43,9 +43,9 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 68,
-    "lastUpdate": "2026-01-01T22:29:25Z",
-    "cycle": 2
+    "stock": 56,
+    "lastUpdate": "2026-01-01T22:34:46Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
