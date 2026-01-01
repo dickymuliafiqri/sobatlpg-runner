@@ -439,15 +439,15 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "lastUpdate": "2026-01-01T00:48:09Z",
-    "cycle": 0
+    "stock": 62,
+    "lastUpdate": "2026-01-01T03:48:18Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "lastUpdate": "2026-01-01T00:48:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-01T03:48:18Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
-    "lastUpdate": "2026-01-01T03:45:13Z",
-    "cycle": 3
+    "stock": 57,
+    "lastUpdate": "2026-01-01T03:48:18Z",
+    "cycle": 4
   }
 ]
