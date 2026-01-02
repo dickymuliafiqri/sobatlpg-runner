@@ -158,8 +158,8 @@
   {
     "name": "JONI H",
     "stock": 0,
-    "lastUpdate": "2026-01-01T23:55:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-02T02:55:16Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 19,
-    "lastUpdate": "2026-01-02T02:48:24Z",
-    "cycle": 3
+    "stock": 6,
+    "lastUpdate": "2026-01-02T02:55:16Z",
+    "cycle": 4
   }
 ]
