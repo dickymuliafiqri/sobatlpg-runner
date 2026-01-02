@@ -223,9 +223,9 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 17,
-    "lastUpdate": "2026-01-02T21:52:21Z",
-    "cycle": 3
+    "stock": 7,
+    "lastUpdate": "2026-01-02T21:57:59Z",
+    "cycle": 4
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -241,9 +241,9 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 2,
-    "lastUpdate": "2026-01-02T21:52:21Z",
-    "cycle": 3
+    "stock": 0,
+    "lastUpdate": "2026-01-02T21:57:59Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -271,15 +271,15 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
-    "lastUpdate": "2026-01-02T21:53:04Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2026-01-02T21:57:59Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
     "stock": 0,
-    "lastUpdate": "2026-01-02T18:36:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-02T21:57:59Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -290,14 +290,14 @@
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "lastUpdate": "2026-01-02T18:36:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-02T21:58:24Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
-    "lastUpdate": "2026-01-02T18:44:18Z",
-    "cycle": 0
+    "stock": 1,
+    "lastUpdate": "2026-01-02T21:58:25Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
