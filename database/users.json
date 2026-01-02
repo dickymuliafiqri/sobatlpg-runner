@@ -26,8 +26,8 @@
   {
     "name": "CINDRAWATI",
     "stock": 0,
-    "lastUpdate": "2026-01-02T19:06:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-02T22:07:25Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -337,9 +337,9 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
-    "lastUpdate": "2026-01-02T22:03:30Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2026-01-02T22:07:25Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
@@ -349,15 +349,15 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
-    "lastUpdate": "2026-01-02T22:03:31Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2026-01-02T22:07:25Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
-    "lastUpdate": "2026-01-02T18:40:51Z",
-    "cycle": 0
+    "stock": 23,
+    "lastUpdate": "2026-01-02T22:07:25Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
