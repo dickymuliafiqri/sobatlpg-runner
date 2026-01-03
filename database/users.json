@@ -13,15 +13,15 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 105,
-    "lastUpdate": "2026-01-03T06:55:46Z",
-    "cycle": 2
+    "stock": 95,
+    "lastUpdate": "2026-01-03T07:01:21Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
-    "lastUpdate": "2026-01-03T03:59:32Z",
-    "cycle": 0
+    "stock": 5,
+    "lastUpdate": "2026-01-03T07:01:21Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -32,14 +32,14 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2026-01-03T03:59:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-03T07:01:21Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
-    "lastUpdate": "2026-01-03T03:59:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-03T07:01:21Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 50,
-    "lastUpdate": "2026-01-03T06:55:46Z",
-    "cycle": 3
+    "stock": 40,
+    "lastUpdate": "2026-01-03T07:01:47Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 108,
-    "lastUpdate": "2026-01-03T06:56:41Z",
-    "cycle": 3
+    "stock": 1,
+    "lastUpdate": "2026-01-03T07:01:49Z",
+    "cycle": 4
   }
 ]
