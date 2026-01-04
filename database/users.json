@@ -32,14 +32,14 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "lastUpdate": "2026-01-04T19:10:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-04T22:10:42Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
-    "lastUpdate": "2026-01-04T19:10:37Z",
-    "cycle": 0
+    "stock": 88,
+    "lastUpdate": "2026-01-04T22:10:42Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -332,8 +332,8 @@
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
-    "lastUpdate": "2026-01-04T19:10:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-04T22:10:42Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
@@ -362,8 +362,8 @@
   {
     "name": "BUDI",
     "stock": 0,
-    "lastUpdate": "2026-01-04T19:10:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-04T22:10:42Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -410,8 +410,8 @@
   {
     "name": "TOKO ANITA",
     "stock": 0,
-    "lastUpdate": "2026-01-04T19:11:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-04T22:11:08Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 87,
-    "lastUpdate": "2026-01-04T21:55:34Z",
-    "cycle": 1
+    "stock": 1,
+    "lastUpdate": "2026-01-04T22:11:09Z",
+    "cycle": 2
   }
 ]
