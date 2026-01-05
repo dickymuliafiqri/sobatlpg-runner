@@ -99,17 +99,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 48,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:12:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T21:19:22Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 70,
-    "lastStock": 3,
-    "lastUpdate": "2026-01-05T21:12:53Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-05T21:19:22Z",
+    "cycle": 3
   },
   {
     "name": "TK. MAJU",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 72,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:12:53Z",
-    "cycle": 1
-  },
-  {
-    "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:12:53Z",
+    "lastUpdate": "2026-01-05T21:19:22Z",
     "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:12:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-05T21:19:22Z",
+    "cycle": 3
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-05T21:19:26Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -169,10 +169,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:13:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T21:19:28Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -234,8 +234,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T18:14:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T21:19:53Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T18:16:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T21:19:54Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T18:18:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T21:19:59Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
