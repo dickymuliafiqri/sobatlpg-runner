@@ -152,8 +152,8 @@
   {
     "name": "Bansos",
     "stock": 0,
-    "lastUpdate": "2026-01-05T00:21:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T03:22:04Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -446,8 +446,8 @@
   {
     "name": "UD RAHMAT",
     "stock": 1,
-    "lastUpdate": "2026-01-05T03:21:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-05T03:22:04Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
@@ -476,7 +476,7 @@
   {
     "name": "ABDUL WAFI",
     "stock": 1,
-    "lastUpdate": "2026-01-05T03:21:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T03:22:04Z",
+    "cycle": 2
   }
 ]
