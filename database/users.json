@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 51,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T22:46:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T22:51:53Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -64,10 +64,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 73,
     "lastStock": 1,
-    "lastUpdate": "2026-01-05T19:49:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T22:51:53Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -435,10 +435,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T22:46:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-05T22:51:53Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
@@ -456,31 +456,31 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T22:47:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T22:51:53Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 62,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:23:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T22:52:20Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:23:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T22:54:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:27:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T22:54:42Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -493,15 +493,15 @@
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:27:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T22:55:16Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:31:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T22:55:44Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
