@@ -101,15 +101,15 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T15:08:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T18:09:01Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-05T18:08:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-05T18:09:01Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -129,29 +129,29 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T15:08:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T18:09:01Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T18:08:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-05T18:09:01Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T18:08:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-05T18:09:03Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T15:09:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T18:09:04Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
