@@ -296,14 +296,14 @@
   {
     "name": "HARSININGSIH",
     "stock": 0,
-    "lastUpdate": "2026-01-05T00:22:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T03:23:50Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
-    "lastUpdate": "2026-01-05T00:22:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T03:23:50Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -445,9 +445,9 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
-    "lastUpdate": "2026-01-05T03:22:04Z",
-    "cycle": 4
+    "stock": 10,
+    "lastUpdate": "2026-01-05T03:23:50Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -475,8 +475,8 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
-    "lastUpdate": "2026-01-05T03:22:04Z",
-    "cycle": 2
+    "stock": 62,
+    "lastUpdate": "2026-01-05T03:23:50Z",
+    "cycle": 3
   }
 ]
