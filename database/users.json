@@ -86,8 +86,8 @@
   {
     "name": "MOH SAID",
     "stock": 0,
-    "lastUpdate": "2026-01-05T05:59:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T09:07:50Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -110,26 +110,26 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "lastUpdate": "2026-01-05T05:51:25Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastUpdate": "2026-01-05T08:50:08Z",
+    "lastUpdate": "2026-01-05T09:07:50Z",
     "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2026-01-05T08:50:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T09:07:50Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastUpdate": "2026-01-05T09:07:50Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "lastUpdate": "2026-01-05T05:51:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T09:07:54Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2026-01-05T08:50:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T09:07:54Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
