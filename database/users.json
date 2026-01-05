@@ -99,17 +99,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 35,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:19:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-05T21:25:06Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:19:22Z",
-    "cycle": 3
+    "stock": 61,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-05T21:25:06Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:19:22Z",
-    "cycle": 2
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:19:22Z",
+    "lastUpdate": "2026-01-05T21:25:06Z",
     "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:19:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-05T21:25:06Z",
+    "cycle": 4
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-05T21:25:09Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -178,8 +178,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T18:23:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T21:25:11Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:19:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T21:25:14Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -260,17 +260,17 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:19:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T21:25:41Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T18:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T21:26:10Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
