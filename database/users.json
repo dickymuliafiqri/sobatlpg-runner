@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 43,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T22:51:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-05T22:59:43Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -64,10 +64,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 73,
+    "stock": 63,
     "lastStock": 1,
-    "lastUpdate": "2026-01-05T22:51:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T22:59:43Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -463,10 +463,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 62,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T22:52:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T22:59:43Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
@@ -498,17 +498,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 33,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T22:55:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-05T22:59:43Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:27:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T23:04:17Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -521,29 +521,29 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:27:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T23:04:44Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:31:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T23:04:46Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:35:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T23:04:53Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T19:35:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T23:05:13Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
