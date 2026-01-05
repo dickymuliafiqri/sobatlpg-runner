@@ -111,25 +111,25 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastUpdate": "2026-01-05T05:51:25Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2026-01-05T05:52:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-05T05:52:24Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
-    "lastUpdate": "2026-01-05T05:52:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-05T05:52:24Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastUpdate": "2026-01-05T05:51:25Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -308,8 +308,8 @@
   {
     "name": "Bansos",
     "stock": 41,
-    "lastUpdate": "2026-01-05T05:52:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-05T05:52:24Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
