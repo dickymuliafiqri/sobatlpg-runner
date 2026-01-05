@@ -463,20 +463,20 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastUpdate": "2026-01-05T00:56:34Z",
-    "cycle": 1
+    "stock": 0,
+    "lastUpdate": "2026-01-05T01:01:18Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "lastUpdate": "2026-01-04T20:36:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-05T01:01:18Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
-    "lastUpdate": "2026-01-04T22:11:09Z",
-    "cycle": 2
+    "stock": 86,
+    "lastUpdate": "2026-01-05T01:01:18Z",
+    "cycle": 3
   }
 ]
