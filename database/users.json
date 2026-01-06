@@ -17,8 +17,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:33:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T20:34:20Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -108,8 +108,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:33:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T20:34:20Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-06T17:34:19Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:33:45Z",
+    "lastUpdate": "2026-01-06T20:34:20Z",
     "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:33:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T20:34:20Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-06T20:34:23Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -199,8 +199,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:33:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T20:34:24Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
