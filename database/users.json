@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T19:21:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-06T19:22:08Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T19:21:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-06T19:22:08Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T19:19:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T19:22:08Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
