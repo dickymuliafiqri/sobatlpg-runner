@@ -477,10 +477,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 52,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T21:19:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-06T21:26:32Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -519,10 +519,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 49,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T21:19:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-06T21:26:32Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -547,10 +547,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T21:20:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T21:26:32Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
