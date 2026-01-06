@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 93,
+    "stock": 87,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T21:32:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T21:39:32Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -477,10 +477,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 27,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T21:32:30Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T21:39:32Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
@@ -519,10 +519,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 24,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T21:32:30Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T21:39:32Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
