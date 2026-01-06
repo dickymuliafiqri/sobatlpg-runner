@@ -66,8 +66,8 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-01-06T07:45:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T10:50:48Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -162,10 +162,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:45:19Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T10:50:48Z",
+    "cycle": 5
   },
   {
     "name": "P. SUK",
@@ -183,10 +183,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:45:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-06T10:50:48Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 42,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:36:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T10:50:48Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:41:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T10:51:10Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
