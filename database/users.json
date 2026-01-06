@@ -346,8 +346,8 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T08:39:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T08:39:54Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -360,15 +360,15 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T08:37:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T08:39:54Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:38:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T08:39:54Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
