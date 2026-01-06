@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:37:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T05:38:52Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -388,29 +388,29 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:38:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T05:38:52Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:38:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T05:38:52Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:38:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-06T05:38:52Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T02:37:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T05:38:54Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
