@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T17:29:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T17:31:32Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -192,15 +192,15 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T17:29:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T17:31:32Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T14:28:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T17:31:32Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T14:31:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T17:31:32Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
