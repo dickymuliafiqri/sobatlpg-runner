@@ -421,45 +421,45 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:43:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T05:43:39Z",
+    "cycle": 5
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:43:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T05:43:39Z",
+    "cycle": 5
   },
   {
     "name": "SUSILO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:43:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T05:43:39Z",
+    "cycle": 5
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T05:43:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T05:43:39Z",
+    "cycle": 5
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T02:40:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T05:44:09Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T02:43:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T05:44:10Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -477,10 +477,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T02:43:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T05:44:12Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -491,10 +491,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T02:43:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T05:44:13Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
