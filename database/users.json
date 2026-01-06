@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 87,
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T21:39:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-06T21:45:04Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -150,8 +150,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T18:40:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T21:45:04Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -178,8 +178,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T18:40:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T21:45:04Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
