@@ -18,7 +18,7 @@
     "stock": 38,
     "lastStock": 39,
     "lastUpdate": "2026-01-06T13:23:00Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -73,8 +73,8 @@
     "name": "JAENAL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T13:27:53Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-06T13:28:27Z",
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -109,7 +109,7 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-01-06T13:23:00Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:23:00Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:23:00Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -207,7 +207,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:19:44Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -249,7 +249,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:19:44Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -263,14 +263,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:23:02Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:23:02Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -284,14 +284,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:23:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:25:55Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
@@ -305,7 +305,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:25:55Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -319,14 +319,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:25:55Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:26:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-06T13:26:33Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
