@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 30,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T00:27:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T00:32:44Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T21:25:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-06T00:32:44Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -463,10 +463,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 42,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T23:10:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T00:32:44Z",
+    "cycle": 4
   },
   {
     "name": "SALMAH",
@@ -498,10 +498,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 18,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-05T23:15:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T00:32:44Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
