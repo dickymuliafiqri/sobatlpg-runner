@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-06T13:14:36Z",
-    "cycle": 3
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-06T13:15:21Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-06T13:14:36Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-06T13:15:21Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T13:14:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T13:15:21Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T13:14:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T13:15:21Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:15:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T13:15:24Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -220,8 +220,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:15:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T13:15:25Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
@@ -246,17 +246,17 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:15:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T13:16:04Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T10:15:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-06T13:16:07Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T13:14:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-06T13:16:08Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
