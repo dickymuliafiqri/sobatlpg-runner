@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T20:55:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T20:56:18Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T20:55:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T20:56:18Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T20:55:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T20:56:18Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T20:55:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T20:56:18Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -463,10 +463,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T17:56:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T20:56:20Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -556,7 +556,7 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T20:55:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T20:56:20Z",
+    "cycle": 3
   }
 ]
