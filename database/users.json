@@ -59,8 +59,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:15:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-07T23:16:06Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:15:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T23:16:06Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -470,10 +470,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T20:15:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T23:16:06Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
