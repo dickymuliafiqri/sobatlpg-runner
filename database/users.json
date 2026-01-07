@@ -73,8 +73,8 @@
     "name": "JAENAL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T11:06:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-07T11:07:22Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -493,22 +493,22 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T11:06:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T11:07:22Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T11:06:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T11:07:22Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T07:25:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T11:07:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
