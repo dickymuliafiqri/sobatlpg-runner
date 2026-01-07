@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T01:30:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T04:30:35Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -535,22 +535,22 @@
     "name": "TOKO SURYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T04:29:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T04:30:35Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T04:29:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-07T04:30:35Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T01:11:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T04:30:35Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
