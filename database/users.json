@@ -108,8 +108,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-07T03:00:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T03:06:32Z",
+    "cycle": 5
   },
   {
     "name": "TK. MAJU",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 16,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T03:00:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T03:06:32Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T03:02:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T03:06:32Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T03:02:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T03:06:32Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -290,8 +290,8 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T22:41:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T03:06:35Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -304,8 +304,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T22:41:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T03:06:35Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -318,15 +318,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T22:43:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T03:06:56Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 23,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T00:32:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T03:07:04Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 23,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T00:38:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T03:07:05Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
