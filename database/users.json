@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 63,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T00:16:53Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T00:28:13Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -113,24 +113,24 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 45,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T00:16:53Z",
-    "cycle": 3
-  },
-  {
-    "name": "TOKO 2 PUTRI",
-    "stock": 33,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-07T00:16:53Z",
+    "lastUpdate": "2026-01-07T00:28:13Z",
     "cycle": 4
   },
   {
-    "name": "TOKO IIN",
-    "stock": 59,
+    "name": "TOKO 2 PUTRI",
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T00:21:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T00:28:13Z",
+    "cycle": 5
+  },
+  {
+    "name": "TOKO IIN",
+    "stock": 51,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-07T00:28:13Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -297,8 +297,8 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:46:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T00:32:22Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -311,8 +311,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:46:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T00:32:46Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -323,24 +323,24 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 14,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T23:09:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T00:32:50Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T20:50:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T00:32:57Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 48,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-06T22:58:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T00:33:11Z",
+    "cycle": 4
   },
   {
     "name": "HARSININGSIH",
