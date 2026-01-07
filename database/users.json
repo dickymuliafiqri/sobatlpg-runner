@@ -234,8 +234,8 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T10:15:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T10:16:23Z",
+    "cycle": 5
   },
   {
     "name": "YUDA",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T10:13:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-07T10:16:23Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -407,10 +407,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T07:13:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T10:16:23Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
