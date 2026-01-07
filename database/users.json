@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T22:21:38Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T22:22:51Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T22:22:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T22:22:51Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -388,22 +388,22 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T22:22:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-07T22:22:51Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:20:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T22:22:51Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:20:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T22:22:53Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
