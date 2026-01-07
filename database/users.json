@@ -18,7 +18,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:52:30Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -46,14 +46,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:51:26Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:51:26Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -95,7 +95,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:51:26Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -109,7 +109,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:53:28Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -137,21 +137,21 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:53:58Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:53:58Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T06:54:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T06:54:59Z",
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-07T06:53:58Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
