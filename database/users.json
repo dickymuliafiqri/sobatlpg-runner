@@ -225,10 +225,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T06:27:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T06:27:38Z",
+    "cycle": 4
   },
   {
     "name": "JAMILAH",
@@ -239,10 +239,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T06:27:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T06:27:38Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -276,8 +276,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T03:24:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T06:27:38Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -325,8 +325,8 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T03:24:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T06:27:38Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T06:24:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T06:28:04Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
