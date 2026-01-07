@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T12:29:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T15:30:30Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -192,15 +192,15 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T12:29:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T15:30:30Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T12:29:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T15:30:30Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -227,8 +227,8 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T12:29:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T15:30:30Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -239,10 +239,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T12:30:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T15:30:58Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T15:14:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T15:30:58Z",
+    "cycle": 4
   },
   {
     "name": "ONG SWI GIOK",
