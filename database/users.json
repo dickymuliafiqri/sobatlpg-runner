@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:29:34Z",
-    "cycle": 4
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-07T19:31:23Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:29:34Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-07T19:31:23Z",
+    "cycle": 5
   },
   {
     "name": "TK. MAJU",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:29:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T19:31:23Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:29:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T19:31:23Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:29:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T19:31:25Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:29:38Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-07T19:31:26Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -437,22 +437,22 @@
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T16:28:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T19:31:28Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T16:30:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T19:31:44Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T16:30:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T19:31:45Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
