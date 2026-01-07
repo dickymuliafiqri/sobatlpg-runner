@@ -465,8 +465,8 @@
     "name": "DIYAH UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:59:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T23:59:38Z",
+    "cycle": 4
   },
   {
     "name": "SALMAH",
@@ -535,8 +535,8 @@
     "name": "TOKO SURYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:59:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T23:59:38Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -556,7 +556,7 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:59:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T23:59:38Z",
+    "cycle": 4
   }
 ]
