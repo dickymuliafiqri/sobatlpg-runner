@@ -232,10 +232,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T19:23:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T22:23:24Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -388,22 +388,22 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T22:22:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-07T22:23:24Z",
+    "cycle": 3
   },
   {
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T22:22:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-07T22:23:24Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T22:22:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-07T22:23:24Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
