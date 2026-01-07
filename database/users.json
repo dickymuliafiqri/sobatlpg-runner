@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T21:47:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-07T21:49:29Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -225,10 +225,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T18:46:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T21:49:29Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -239,10 +239,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T18:46:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T21:49:29Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T18:46:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-07T21:49:29Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
