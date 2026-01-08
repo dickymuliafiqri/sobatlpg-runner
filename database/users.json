@@ -17,8 +17,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-08T09:57:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:03Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T09:57:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:03Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,8 +108,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-08T09:57:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:03Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T09:57:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:03Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T09:57:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:06Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -178,8 +178,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:01:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T10:02:08Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -197,10 +197,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 19,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T09:57:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:10Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T09:57:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:23Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -227,8 +227,8 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T09:57:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T10:02:25Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
