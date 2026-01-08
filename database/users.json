@@ -17,8 +17,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-08T07:39:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T07:46:24Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,24 +43,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 15,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:39:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T07:46:24Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 12,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:39:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T07:46:24Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 11,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:39:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T07:46:24Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:40:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T07:46:46Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 33,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:32:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T07:50:44Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -108,8 +108,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-08T07:32:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T07:51:31Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -120,17 +120,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 7,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T06:45:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T07:51:59Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T06:45:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T07:52:07Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
