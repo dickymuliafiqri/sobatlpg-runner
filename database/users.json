@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T14:27:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T17:27:56Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -344,31 +344,31 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T14:27:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T17:27:56Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T14:27:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T17:27:56Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T17:27:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T17:27:56Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T14:27:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T17:27:59Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
