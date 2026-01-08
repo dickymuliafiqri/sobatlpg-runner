@@ -185,15 +185,15 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T12:52:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T12:52:53Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T12:52:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T12:52:53Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T12:51:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T12:52:53Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T09:51:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T12:52:53Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
