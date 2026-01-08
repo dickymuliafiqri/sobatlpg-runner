@@ -66,8 +66,8 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-01-08T05:45:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T08:45:45Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 66,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T08:40:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T08:45:45Z",
+    "cycle": 3
   }
 ]
