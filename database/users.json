@@ -290,8 +290,8 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T18:24:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T18:25:12Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T18:22:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T18:25:12Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T15:23:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T18:25:12Z",
+    "cycle": 1
   }
 ]
