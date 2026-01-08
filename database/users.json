@@ -276,15 +276,15 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T13:19:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T13:20:00Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T10:19:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T13:20:00Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -295,17 +295,17 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T10:19:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T13:20:00Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T10:19:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T13:20:00Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
