@@ -206,8 +206,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T01:54:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T04:54:23Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -220,8 +220,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T01:54:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T04:54:23Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
@@ -409,15 +409,15 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T01:48:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T04:54:23Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T01:49:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T04:54:23Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -540,10 +540,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 16,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:48:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T04:54:51Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -556,7 +556,7 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:48:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T04:54:54Z",
+    "cycle": 2
   }
 ]
