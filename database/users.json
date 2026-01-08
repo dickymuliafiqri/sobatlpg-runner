@@ -8,10 +8,10 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 0,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:38:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T02:39:36Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 20,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T02:28:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T02:39:36Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 35,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T02:28:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T02:39:36Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
@@ -57,31 +57,31 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 82,
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T02:28:59Z",
-    "cycle": 2
-  },
-  {
-    "name": "SUMBER REJEKI",
-    "stock": 0,
-    "lastStock": 1,
-    "lastUpdate": "2026-01-07T23:41:30Z",
-    "cycle": 0
-  },
-  {
-    "name": "JAENAL",
-    "stock": 78,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-08T02:28:59Z",
+    "lastUpdate": "2026-01-08T02:39:36Z",
     "cycle": 3
   },
   {
-    "name": "JOKO SUWARNO",
-    "stock": 0,
+    "name": "SUMBER REJEKI",
+    "stock": 68,
+    "lastStock": 1,
+    "lastUpdate": "2026-01-08T02:44:04Z",
+    "cycle": 1
+  },
+  {
+    "name": "JAENAL",
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:38:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T02:44:47Z",
+    "cycle": 4
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 58,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-08T02:44:50Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -423,8 +423,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:41:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T02:45:00Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -458,8 +458,8 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T23:41:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T02:45:25Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
