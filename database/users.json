@@ -218,10 +218,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T14:20:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T17:21:01Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
@@ -255,8 +255,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T14:20:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T17:21:01Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T17:19:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-08T17:21:01Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
