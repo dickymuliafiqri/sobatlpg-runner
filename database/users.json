@@ -10,8 +10,8 @@
     "name": "AKBAR RISQ",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T22:43:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T22:44:26Z",
+    "cycle": 2
   },
   {
     "name": "ALFIAN DWI A.",
@@ -423,15 +423,15 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T22:43:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T22:44:26Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T22:43:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T22:44:26Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
@@ -456,10 +456,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T19:43:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T22:44:26Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
