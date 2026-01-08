@@ -148,10 +148,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T13:28:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T16:28:33Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -318,15 +318,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T16:28:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T16:28:33Z",
+    "cycle": 4
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T13:26:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T16:28:33Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T16:25:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T16:28:33Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
