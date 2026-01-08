@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T10:59:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T11:01:22Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -505,10 +505,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T10:52:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T11:01:22Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T10:52:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T11:01:22Z",
+    "cycle": 3
   }
 ]
