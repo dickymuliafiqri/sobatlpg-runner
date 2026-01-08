@@ -4,7 +4,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-08T00:21:43Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "AKBAR RISQ",
@@ -18,7 +18,7 @@
     "stock": 38,
     "lastStock": 39,
     "lastUpdate": "2026-01-08T00:22:28Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -109,21 +109,21 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-01-08T00:22:28Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T00:24:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T00:24:44Z",
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T00:24:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T00:24:44Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-08T00:23:44Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-08T00:23:44Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -155,16 +155,16 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T00:24:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T00:24:44Z",
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T21:24:30Z",
+    "lastUpdate": "2026-01-08T00:24:44Z",
     "cycle": 0
   },
   {
@@ -185,7 +185,7 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-07T21:24:30Z",
+    "lastUpdate": "2026-01-08T00:25:13Z",
     "cycle": 0
   },
   {
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-08T00:23:46Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-08T00:24:15Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
