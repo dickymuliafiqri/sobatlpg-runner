@@ -225,10 +225,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T22:21:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T22:22:00Z",
+    "cycle": 4
   },
   {
     "name": "JAMILAH",
@@ -239,10 +239,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T22:19:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T22:22:00Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T22:14:55Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T22:22:00Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
