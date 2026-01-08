@@ -248,8 +248,8 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T11:22:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T11:22:59Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -290,8 +290,8 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T11:00:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T11:22:59Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -344,17 +344,17 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T08:19:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T11:22:59Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T08:19:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T11:22:59Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
