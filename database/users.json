@@ -255,8 +255,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T01:54:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T04:59:36Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
@@ -540,10 +540,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 12,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:54:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T04:59:36Z",
+    "cycle": 4
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:54:54Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T04:59:36Z",
+    "cycle": 3
   }
 ]
