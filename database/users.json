@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T06:46:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-08T06:51:45Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T06:46:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-08T06:51:45Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -183,17 +183,17 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T06:46:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T06:51:45Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T03:47:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T06:51:45Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T06:46:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-08T06:51:48Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -262,15 +262,15 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T02:22:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T06:51:48Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T02:22:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T06:52:13Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T01:59:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T06:52:15Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -421,10 +421,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T02:45:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T06:52:17Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
