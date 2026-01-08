@@ -232,10 +232,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T11:21:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T14:21:38Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T14:21:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-08T14:21:38Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
