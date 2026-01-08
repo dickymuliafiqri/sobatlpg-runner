@@ -150,8 +150,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:22:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T07:24:28Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -171,8 +171,8 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:22:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T07:24:28Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -325,22 +325,22 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:22:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T07:24:28Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:22:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T07:24:28Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T04:23:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-08T07:24:57Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 34,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:17:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-08T07:24:58Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -542,8 +542,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:17:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T07:25:00Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -556,7 +556,7 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T07:17:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-08T07:25:01Z",
+    "cycle": 3
   }
 ]
