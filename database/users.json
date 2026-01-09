@@ -150,8 +150,8 @@
     "name": "SUPARMAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:35:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T17:35:49Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:35:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T17:35:49Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -267,17 +267,17 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T14:28:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T17:35:49Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T14:29:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T17:35:49Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
