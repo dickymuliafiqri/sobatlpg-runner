@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:57:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T16:57:39Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T16:56:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T16:57:39Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
