@@ -24,15 +24,15 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:58:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:06:04Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
-    "stock": 41,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:52:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T03:06:04Z",
+    "cycle": 4
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -50,10 +50,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 74,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:52:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T03:06:04Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 72,
     "lastStock": 1,
-    "lastUpdate": "2026-01-08T23:58:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:06:04Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:58:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:06:31Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -101,8 +101,8 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T00:10:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:11:23Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -120,17 +120,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 40,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:56:19Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T03:11:51Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 61,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:57:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T03:11:57Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -316,10 +316,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 13,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:59:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T03:12:40Z",
+    "cycle": 5
   },
   {
     "name": "SUPARNI",
