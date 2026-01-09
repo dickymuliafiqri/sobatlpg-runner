@@ -542,21 +542,21 @@
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T04:16:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T07:22:52Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T07:15:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T07:22:52Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 52,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T07:15:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T07:22:52Z",
+    "cycle": 2
   }
 ]
