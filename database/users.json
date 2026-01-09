@@ -323,59 +323,59 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T06:53:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T06:56:27Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T06:54:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T06:56:27Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:02:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T06:56:27Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T03:23:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T06:56:27Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T03:37:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T06:56:55Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:13:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T06:56:55Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T03:24:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T06:56:56Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T03:24:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T06:56:57Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
