@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:00:30Z",
-    "cycle": 4
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-09T13:01:10Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:00:30Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-09T13:01:10Z",
+    "cycle": 5
   },
   {
     "name": "TK. MAJU",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:00:30Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T13:01:10Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:00:30Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T13:01:10Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -213,15 +213,15 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:00:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T13:01:12Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:00:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T13:01:13Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
@@ -234,8 +234,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T09:57:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:01:31Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T09:57:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:01:35Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
