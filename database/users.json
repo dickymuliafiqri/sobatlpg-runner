@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-09T19:47:59Z",
-    "cycle": 1
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-09T19:52:23Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -59,8 +59,8 @@
     "name": "SUCIYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T16:49:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T19:52:23Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-09T19:47:59Z",
-    "cycle": 1
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-09T19:52:23Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T19:51:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T19:52:23Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T19:51:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T19:52:25Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -213,15 +213,15 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T19:48:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T19:52:27Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T19:48:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T19:52:50Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
@@ -239,10 +239,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T16:50:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T19:52:55Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T16:52:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T19:52:56Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
