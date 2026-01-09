@@ -120,31 +120,31 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 9,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T06:39:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T06:45:35Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 33,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T06:39:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T06:45:35Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T06:43:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T06:45:35Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T06:43:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T06:45:35Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T06:43:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T06:45:37Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -232,10 +232,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:38:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T06:45:38Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
