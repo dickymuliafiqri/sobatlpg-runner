@@ -64,10 +64,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 61,
+    "stock": 53,
     "lastStock": 1,
-    "lastUpdate": "2026-01-09T03:18:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T03:29:36Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 51,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T03:18:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T03:29:36Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 90,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T03:18:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T03:29:36Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 17,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T03:23:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T03:29:36Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -388,36 +388,36 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:36:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:34:00Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:39:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:34:07Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:49:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:34:30Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:45:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:34:38Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:45:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T03:34:50Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
