@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T21:30:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T00:31:03Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T00:30:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T00:31:03Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
