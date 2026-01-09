@@ -183,17 +183,17 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T10:05:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:06:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T10:05:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:06:13Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -318,15 +318,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:05:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T13:06:13Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:05:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T13:06:13Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
