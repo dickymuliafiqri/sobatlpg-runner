@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:14:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T20:15:15Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -122,8 +122,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T20:13:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T20:15:15Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
