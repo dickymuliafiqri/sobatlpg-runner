@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T20:41:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T23:41:32Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -542,15 +542,15 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T23:41:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T23:41:32Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T23:41:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T23:41:32Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
