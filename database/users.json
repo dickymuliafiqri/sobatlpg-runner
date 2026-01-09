@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T20:35:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T20:35:34Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T20:35:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T20:35:34Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T20:33:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-09T20:35:34Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
