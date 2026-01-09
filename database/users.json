@@ -50,10 +50,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T11:18:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T11:18:47Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T11:16:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T11:18:47Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
