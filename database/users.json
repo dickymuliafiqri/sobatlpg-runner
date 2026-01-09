@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T15:44:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T18:44:27Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -514,8 +514,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T18:43:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T18:44:27Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
