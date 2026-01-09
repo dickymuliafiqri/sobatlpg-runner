@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 55,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:27:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T02:40:23Z",
+    "cycle": 2
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -43,24 +43,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 93,
+    "stock": 88,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:27:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T02:40:23Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 79,
+    "stock": 77,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:27:54Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T02:40:23Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 74,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:32:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T02:40:23Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -120,17 +120,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 53,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:33:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T02:45:06Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 75,
+    "stock": 68,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:33:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T02:45:12Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -248,15 +248,15 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:31:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T02:45:54Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:23:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T02:46:14Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 27,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:11:04Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T02:46:16Z",
+    "cycle": 4
   },
   {
     "name": "ONG SWI GIOK",
