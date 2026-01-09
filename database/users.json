@@ -248,15 +248,15 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T13:01:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T13:02:22Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T09:57:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:02:22Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -288,24 +288,24 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T09:57:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:02:22Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T09:57:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:02:22Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T09:58:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T13:02:25Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
