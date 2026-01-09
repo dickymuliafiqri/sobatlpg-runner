@@ -8,10 +8,10 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 67,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:06:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T02:18:03Z",
+    "cycle": 4
   },
   {
     "name": "ALFIAN DWI A.",
@@ -43,24 +43,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 99,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:06:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T02:18:03Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:11:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T02:18:03Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 87,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:06:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T02:18:03Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -113,24 +113,24 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 57,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T02:06:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T02:21:06Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:17:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T02:22:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:17:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T02:22:50Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -206,8 +206,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:17:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T02:24:21Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -220,8 +220,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-08T23:23:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T02:24:49Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
