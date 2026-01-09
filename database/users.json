@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:18:34Z",
-    "cycle": 3
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-09T17:33:59Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -31,8 +31,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T14:28:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T17:33:59Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -52,8 +52,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T14:19:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T17:33:59Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:18:34Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-09T17:33:59Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -129,29 +129,29 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T14:28:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T17:34:20Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:18:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T17:34:22Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:18:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-09T17:34:24Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T14:28:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T17:34:25Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T17:17:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T17:34:27Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
