@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T22:32:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-09T22:33:46Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T19:32:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-09T22:33:46Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -311,8 +311,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T22:33:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-09T22:33:46Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
