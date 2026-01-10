@@ -17,8 +17,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T13:53:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T13:53:50Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-01-10T13:53:13Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-10T13:53:50Z",
+    "cycle": 3
   },
   {
     "name": "TK. MAJU",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T13:53:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T13:53:50Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T13:53:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T13:53:50Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -199,8 +199,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T10:53:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T13:53:52Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -227,8 +227,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T10:53:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T13:53:53Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T10:53:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T13:53:54Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T13:53:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T13:53:54Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -381,8 +381,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T10:53:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T13:53:56Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
