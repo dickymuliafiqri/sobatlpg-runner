@@ -281,17 +281,17 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T19:54:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T22:54:08Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T19:54:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T22:54:08Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T22:53:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T22:54:08Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
