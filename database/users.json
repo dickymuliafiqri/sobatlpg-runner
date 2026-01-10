@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 87,
+    "stock": 74,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T03:02:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T03:08:30Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 73,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T03:02:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T03:08:30Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -274,17 +274,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T03:03:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T03:08:30Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T00:01:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:08:30Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -360,15 +360,15 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T02:57:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T03:08:58Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
-    "stock": 38,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T02:57:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T03:09:00Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
@@ -393,24 +393,24 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T02:58:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T03:11:03Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T23:27:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:11:30Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T23:27:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:11:45Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
