@@ -8,17 +8,17 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 23,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T07:16:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T07:25:47Z",
+    "cycle": 2
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-10T07:16:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T07:25:47Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,17 +43,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 7,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T07:16:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T07:25:47Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 8,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T07:16:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T07:25:47Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 22,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T07:16:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T07:26:08Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,8 +108,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-10T07:19:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T07:29:02Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T07:20:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T07:29:13Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T06:44:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T07:29:15Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -206,8 +206,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T04:22:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T07:29:16Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
