@@ -325,15 +325,15 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T23:31:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T23:32:39Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T23:31:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T23:32:39Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -479,15 +479,15 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T23:31:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T23:32:39Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T20:17:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T23:32:39Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
