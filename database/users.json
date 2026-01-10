@@ -50,17 +50,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 54,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T02:57:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T03:02:13Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 87,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T00:01:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:02:13Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T00:01:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:02:13Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -150,8 +150,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T23:57:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:02:13Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -269,15 +269,15 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T23:57:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:02:42Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-09T23:57:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T03:03:09Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
