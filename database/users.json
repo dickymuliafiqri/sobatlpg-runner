@@ -498,10 +498,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T17:17:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T20:18:28Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -570,7 +570,7 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T20:17:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T20:18:28Z",
+    "cycle": 2
   }
 ]
