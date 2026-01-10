@@ -500,8 +500,8 @@
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T14:15:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T14:15:45Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -563,14 +563,14 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T14:15:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T14:15:45Z",
+    "cycle": 4
   },
   {
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T14:15:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T14:15:45Z",
+    "cycle": 3
   }
 ]
