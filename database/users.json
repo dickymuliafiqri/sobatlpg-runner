@@ -220,8 +220,8 @@
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T09:29:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T09:30:25Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -232,10 +232,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T06:29:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T09:30:25Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
