@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 27,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T04:06:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T04:17:34Z",
+    "cycle": 5
   },
   {
     "name": "CINDRAWATI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 19,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T04:06:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T04:17:34Z",
+    "cycle": 5
   },
   {
     "name": "BINA MAKMUR",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 43,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T04:12:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T04:17:34Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 52,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T04:01:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T04:17:34Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -206,8 +206,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T01:14:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T04:22:05Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -255,8 +255,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T01:06:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T04:22:35Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -281,10 +281,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 17,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T03:19:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T04:22:37Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -297,8 +297,8 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T01:14:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T04:22:37Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T03:22:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T04:23:06Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
