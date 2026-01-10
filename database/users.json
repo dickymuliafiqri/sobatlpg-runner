@@ -337,17 +337,17 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T20:33:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T20:33:30Z",
+    "cycle": 4
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T20:33:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T20:33:30Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T20:31:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T20:33:30Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -507,8 +507,8 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T17:31:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T20:33:30Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -521,8 +521,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T17:31:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T20:33:32Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
