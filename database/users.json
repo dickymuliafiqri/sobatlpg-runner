@@ -218,10 +218,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T18:35:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T18:36:05Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -232,10 +232,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T18:35:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T18:36:05Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T18:33:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T18:36:05Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
