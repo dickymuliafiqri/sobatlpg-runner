@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T18:47:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T18:47:54Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -372,10 +372,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T15:47:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T18:47:54Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T15:47:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T18:47:54Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
