@@ -248,8 +248,8 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T14:07:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T14:08:38Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -262,8 +262,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T14:07:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T14:08:38Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T14:07:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T14:08:38Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -533,17 +533,17 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T11:07:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T14:08:38Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T11:07:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T14:08:41Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
