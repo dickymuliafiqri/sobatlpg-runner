@@ -451,15 +451,15 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T13:59:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T14:00:08Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T10:57:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T14:00:08Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
