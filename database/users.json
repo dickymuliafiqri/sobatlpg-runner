@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-10T02:28:39Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-10T02:34:39Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 62,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T02:28:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T02:34:39Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 16,
+    "stock": 9,
     "lastStock": 3,
-    "lastUpdate": "2026-01-10T02:28:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T02:34:39Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 54,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T02:29:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-10T02:34:39Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
