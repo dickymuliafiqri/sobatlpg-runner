@@ -43,24 +43,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 28,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T05:48:28Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T05:59:39Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 27,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T05:48:28Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-10T05:59:39Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 14,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T05:48:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T05:59:39Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 50,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T05:50:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-10T05:59:39Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 9,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T05:54:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T06:02:58Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -108,29 +108,29 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-10T05:54:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-10T06:04:05Z",
+    "cycle": 3
   },
   {
     "name": "TK. MAJU",
-    "stock": 29,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T04:17:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T06:04:30Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 34,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T02:52:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T06:04:35Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 44,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-01-10T04:17:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-10T06:05:03Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
