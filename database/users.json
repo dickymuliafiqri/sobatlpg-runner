@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-11T12:57:32Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-11T12:58:13Z",
+    "cycle": 5
   },
   {
     "name": "TK. MAJU",
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T12:57:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T12:58:13Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -309,10 +309,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T12:57:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T12:58:13Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -353,15 +353,15 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T09:57:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T12:58:13Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T12:56:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T12:58:32Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -374,8 +374,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T09:57:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T12:58:34Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
