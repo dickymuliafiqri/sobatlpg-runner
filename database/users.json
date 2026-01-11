@@ -283,15 +283,15 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T04:58:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T04:59:04Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T01:58:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T04:59:04Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
