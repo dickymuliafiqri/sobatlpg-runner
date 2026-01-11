@@ -18,7 +18,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-11T03:55:42Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -109,7 +109,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-11T03:55:42Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-11T03:55:42Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-11T03:55:42Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -361,14 +361,14 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-11T03:55:44Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T03:55:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T03:56:17Z",
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T03:55:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-11T03:56:17Z",
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
