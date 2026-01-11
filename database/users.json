@@ -311,8 +311,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T06:54:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T06:54:41Z",
+    "cycle": 4
   },
   {
     "name": "YUSUF ISMAIL",
@@ -353,15 +353,15 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T06:54:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T06:54:41Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T06:52:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T06:54:41Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -372,10 +372,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T03:52:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T06:54:41Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
