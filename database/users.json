@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 33,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T22:56:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-11T23:08:34Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T23:01:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T23:08:35Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
