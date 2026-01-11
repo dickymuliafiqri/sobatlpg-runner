@@ -297,8 +297,8 @@
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:16:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T17:17:15Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:16:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T17:17:15Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -421,10 +421,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T14:17:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T17:17:15Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
