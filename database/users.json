@@ -540,10 +540,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T15:13:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T18:13:33Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -570,7 +570,7 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T18:12:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T18:13:33Z",
+    "cycle": 2
   }
 ]
