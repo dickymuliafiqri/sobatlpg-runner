@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:30:47Z",
-    "cycle": 3
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-11T17:46:42Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:30:47Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-11T17:46:42Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -458,8 +458,8 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T14:40:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T17:46:42Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -493,8 +493,8 @@
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T14:40:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T17:46:42Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
@@ -528,8 +528,8 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T14:40:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T17:47:05Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
