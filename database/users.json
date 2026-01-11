@@ -563,14 +563,14 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T12:04:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T12:04:58Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T09:01:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T12:04:58Z",
+    "cycle": 1
   }
 ]
