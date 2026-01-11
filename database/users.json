@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-11T20:31:23Z",
-    "cycle": 4
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-11T20:31:56Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -281,31 +281,31 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T20:31:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-11T20:31:56Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T20:31:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T20:31:56Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:18:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T20:31:56Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:15:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T20:32:17Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T20:27:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T20:32:23Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -414,24 +414,24 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:16:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T20:32:25Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:18:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T20:32:25Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T17:26:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T20:32:30Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
