@@ -64,10 +64,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:32:04Z",
-    "cycle": 2
+    "stock": 62,
+    "lastStock": 1,
+    "lastUpdate": "2026-01-11T21:35:59Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -554,10 +554,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:33:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-11T21:35:59Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
