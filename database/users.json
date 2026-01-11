@@ -185,15 +185,15 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T08:07:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T08:08:35Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T08:07:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T08:08:35Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -283,15 +283,15 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T08:08:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T08:08:35Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T04:59:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T08:08:35Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
