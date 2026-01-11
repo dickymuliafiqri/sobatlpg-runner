@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T18:05:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T21:06:20Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -325,22 +325,22 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:05:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T21:06:20Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T18:05:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T21:06:20Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T18:05:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T21:06:20Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
