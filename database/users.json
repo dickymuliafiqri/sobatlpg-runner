@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T11:51:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T11:52:13Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T11:51:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T11:52:13Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T11:51:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T11:52:13Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T11:51:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T11:52:13Z",
+    "cycle": 4
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -316,38 +316,38 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T11:51:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T11:52:15Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T11:51:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T11:52:16Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T08:52:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T11:52:39Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T08:52:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T11:52:42Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T08:52:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T11:52:43Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
