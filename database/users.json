@@ -108,8 +108,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T15:56:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-11T16:01:35Z",
+    "cycle": 5
   },
   {
     "name": "TK. MAJU",
@@ -232,17 +232,17 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T15:56:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T16:01:35Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T15:56:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T16:01:35Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -269,8 +269,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T15:57:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-11T16:01:35Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
