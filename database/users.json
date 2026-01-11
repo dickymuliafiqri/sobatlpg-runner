@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 87,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:53:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T22:07:15Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -78,24 +78,24 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 45,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:53:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-11T22:07:15Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 53,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:53:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T22:07:15Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:57:38Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-11T22:07:15Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 59,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T21:58:29Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-11T22:11:58Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -234,15 +234,15 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T19:03:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T22:12:06Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T19:05:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T22:12:10Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -269,15 +269,15 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T19:05:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T22:12:18Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T19:03:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T22:12:34Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
