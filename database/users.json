@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 76,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T22:07:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T22:17:51Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 43,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T22:07:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-11T22:17:51Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -311,8 +311,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T19:00:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T22:17:51Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T19:03:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T22:18:18Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -374,8 +374,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T19:03:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-11T22:18:43Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
