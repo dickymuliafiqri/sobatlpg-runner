@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T02:13:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-12T02:26:29Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -572,5 +572,12 @@
     "lastStock": 0,
     "lastUpdate": "2026-01-12T00:38:39Z",
     "cycle": 1
+  },
+  {
+    "name": "HJ. ASLAMIYAH",
+    "stock": 100,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-12T02:26:29Z",
+    "cycle": 0
   }
 ]
