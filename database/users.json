@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:38:21Z",
-    "cycle": 0
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-12T12:43:58Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:38:21Z",
-    "cycle": 0
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-12T12:43:58Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:38:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:43:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:38:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:43:58Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:38:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:44:00Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:40:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:44:01Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -402,15 +402,15 @@
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:43:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:44:02Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:43:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:44:03Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -442,10 +442,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:43:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:44:19Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
