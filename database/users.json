@@ -122,29 +122,29 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T20:07:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-12T20:08:21Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T20:07:48Z",
-    "cycle": 3
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-12T20:07:48Z",
+    "lastUpdate": "2026-01-12T20:08:21Z",
     "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T20:07:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T20:08:21Z",
+    "cycle": 5
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-12T20:08:21Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T20:07:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T20:08:24Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
