@@ -18,7 +18,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:52:23Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -109,14 +109,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:52:23Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:52:23Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:52:23Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:52:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -263,7 +263,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:53:01Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -284,7 +284,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:53:01Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -339,7 +339,7 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T14:53:50Z",
+    "lastUpdate": "2026-01-12T17:54:00Z",
     "cycle": 0
   },
   {
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T17:53:44Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T17:54:00Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -578,7 +578,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-12T17:53:01Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
