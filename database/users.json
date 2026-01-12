@@ -122,15 +122,15 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T10:59:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T11:00:30Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T08:00:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T11:00:30Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
