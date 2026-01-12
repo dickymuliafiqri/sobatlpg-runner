@@ -36,10 +36,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T03:07:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-12T03:08:11Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
@@ -162,17 +162,17 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T03:07:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-12T03:08:11Z",
+    "cycle": 4
   },
   {
     "name": "P. SUK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T03:07:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-12T03:08:11Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -211,10 +211,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T03:07:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T03:08:11Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T03:06:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T03:08:39Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T00:07:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T03:08:39Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -281,10 +281,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-11T23:55:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T03:08:41Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
