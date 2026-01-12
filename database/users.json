@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T11:30:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T11:31:05Z",
+    "cycle": 5
   },
   {
     "name": "LUKMAN BS",
@@ -218,10 +218,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T11:30:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T11:31:05Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -241,8 +241,8 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T08:28:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T11:31:05Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T11:28:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T11:31:05Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
