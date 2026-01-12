@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:05:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T09:06:13Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -388,8 +388,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:05:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T09:06:13Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
@@ -472,8 +472,8 @@
     "name": "SALMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:05:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T09:06:13Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
@@ -582,9 +582,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T06:04:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T09:06:13Z",
+    "cycle": 1
   }
 ]
