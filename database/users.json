@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:25:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-12T12:26:07Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -304,8 +304,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:23:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:26:07Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:23:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T12:26:07Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -451,8 +451,8 @@
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T09:23:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T12:26:07Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
