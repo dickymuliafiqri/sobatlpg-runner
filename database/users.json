@@ -262,8 +262,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T23:55:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T23:55:57Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -283,8 +283,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T23:55:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T23:55:57Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T20:54:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T23:55:57Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T23:54:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-12T23:55:57Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -575,10 +575,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T20:54:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T23:56:00Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
