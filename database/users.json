@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:13:57Z",
-    "cycle": 4
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-12T16:14:34Z",
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:13:57Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-12T16:14:34Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:13:57Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T16:14:34Z",
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:13:57Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T16:14:34Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:13:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T16:14:36Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:14:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T16:14:36Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -498,10 +498,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:14:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T16:14:38Z",
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:14:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T16:14:38Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -526,9 +526,9 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T16:09:31Z",
+    "lastUpdate": "2026-01-12T16:14:56Z",
     "cycle": 0
   },
   {
