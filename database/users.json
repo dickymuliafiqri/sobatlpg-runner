@@ -66,8 +66,8 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-01-12T07:26:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T10:30:27Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -568,10 +568,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 17,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T10:25:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T10:30:27Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
