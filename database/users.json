@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:40:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T15:40:57Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -288,10 +288,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T12:40:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-12T15:40:57Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T15:40:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-12T15:40:57Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
