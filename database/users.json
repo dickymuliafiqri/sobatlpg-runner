@@ -183,17 +183,17 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T05:51:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T06:02:03Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T05:51:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T06:02:03Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T05:51:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T06:02:03Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
@@ -372,10 +372,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T05:52:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T06:02:03Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T05:52:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T06:02:29Z",
+    "cycle": 3
   },
   {
     "name": "WIKAN K",
@@ -472,8 +472,8 @@
     "name": "SALMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T05:52:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-12T06:02:30Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
@@ -514,8 +514,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T05:52:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-12T06:02:31Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
