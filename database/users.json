@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 81,
+    "stock": 68,
     "lastStock": 39,
-    "lastUpdate": "2026-01-13T07:00:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:05:54Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,17 +43,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 18,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:00:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:05:54Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 7,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:00:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:05:54Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 24,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:00:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:05:54Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,15 +108,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-13T07:03:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:08:46Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:05:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:09:10Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:05:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:09:12Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:05:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:09:13Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:36:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T07:09:15Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
