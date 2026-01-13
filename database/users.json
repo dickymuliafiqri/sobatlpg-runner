@@ -36,10 +36,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:18:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T03:18:42Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -164,8 +164,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:18:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T03:18:42Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 48,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:13:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T03:18:42Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 29,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:13:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T03:18:42Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:13:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T03:19:07Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -365,10 +365,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:03:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T03:19:32Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
