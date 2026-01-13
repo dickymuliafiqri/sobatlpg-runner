@@ -24,15 +24,15 @@
     "name": "ATHI HANDAYANI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:29:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T16:30:20Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:29:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T16:30:20Z",
+    "cycle": 5
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -281,17 +281,17 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:29:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T16:30:20Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:29:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T16:30:20Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -339,8 +339,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:27:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T16:30:54Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:27:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T16:30:57Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -372,10 +372,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:27:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T16:30:59Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -388,15 +388,15 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:28:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T16:31:00Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:30:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T16:31:02Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
