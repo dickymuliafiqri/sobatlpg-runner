@@ -192,8 +192,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:38:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T21:39:30Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -549,8 +549,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:38:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T21:39:30Z",
+    "cycle": 5
   },
   {
     "name": "ABDUL WAFI",
@@ -561,10 +561,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:32:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T21:39:30Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
