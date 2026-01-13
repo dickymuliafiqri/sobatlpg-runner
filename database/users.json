@@ -554,10 +554,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 36,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:42:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T07:48:25Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -582,9 +582,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 39,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:43:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T07:48:25Z",
+    "cycle": 2
   }
 ]
