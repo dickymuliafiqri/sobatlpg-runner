@@ -269,8 +269,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:30:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T18:31:08Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -547,17 +547,17 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:27:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T18:31:22Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:31:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T18:31:23Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
