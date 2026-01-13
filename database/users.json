@@ -211,10 +211,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:32:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:32:45Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:32:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:32:45Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -274,17 +274,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:31:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T12:32:45Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:31:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:32:45Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
