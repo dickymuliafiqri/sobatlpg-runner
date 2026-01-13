@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:19:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:20:30Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -122,8 +122,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:11:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:20:30Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -157,8 +157,8 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:19:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:20:30Z",
+    "cycle": 4
   },
   {
     "name": "ERNA PUJIATI",
@@ -183,10 +183,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:17:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:20:30Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:17:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:21:14Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -227,8 +227,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:18:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:21:20Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -456,10 +456,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:08:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:21:21Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -470,10 +470,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:10:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:21:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -493,8 +493,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:16:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:21:22Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
