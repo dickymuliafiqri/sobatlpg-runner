@@ -171,8 +171,8 @@
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:29:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:30:30Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -234,15 +234,15 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:29:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:30:30Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:27:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:30:30Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -269,8 +269,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:29:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:30:30Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -456,10 +456,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:27:04Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:30:33Z",
+    "cycle": 4
   },
   {
     "name": "DIYAH UTAMI",
@@ -521,8 +521,8 @@
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:27:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:31:02Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
@@ -554,24 +554,24 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:25:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:31:05Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:22:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:31:07Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:25:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:31:17Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
