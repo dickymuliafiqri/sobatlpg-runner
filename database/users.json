@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 40,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:55:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T04:00:42Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 74,
+    "stock": 62,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:55:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T04:00:42Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -330,10 +330,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 7,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:55:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T04:00:42Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
@@ -414,10 +414,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:56:12Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T04:00:42Z",
+    "cycle": 5
   },
   {
     "name": "BUDI",
@@ -428,38 +428,38 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:40:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T04:04:22Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:29:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T04:04:53Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:52:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T04:05:01Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:34:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T04:05:22Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:52:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T04:05:25Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
