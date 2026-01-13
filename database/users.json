@@ -178,8 +178,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:11:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:11:52Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -479,22 +479,22 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:10:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T12:11:52Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:10:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T12:11:52Z",
+    "cycle": 3
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:11:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T12:11:52Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
@@ -505,10 +505,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:31:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:11:54Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
