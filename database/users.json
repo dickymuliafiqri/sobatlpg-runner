@@ -31,8 +31,8 @@
     "name": "CINDRAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T11:42:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T11:43:31Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -50,10 +50,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T07:13:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T11:43:31Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
