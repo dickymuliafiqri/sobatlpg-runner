@@ -164,8 +164,8 @@
     "name": "ERNA PUJIATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:23:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T09:23:49Z",
+    "cycle": 4
   },
   {
     "name": "P. SUK",
@@ -234,15 +234,15 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:23:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T09:23:49Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:22:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T09:23:49Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -255,8 +255,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:22:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T09:23:49Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:21:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T09:23:52Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
