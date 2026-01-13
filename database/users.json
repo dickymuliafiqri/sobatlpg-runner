@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:10:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T00:11:20Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:10:49Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T00:11:20Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:08:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T00:11:20Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -374,8 +374,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T21:09:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T00:11:20Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
