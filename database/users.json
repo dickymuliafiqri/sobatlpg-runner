@@ -17,15 +17,15 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:23:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T13:24:12Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:23:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T13:24:12Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:23:32Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-13T13:24:12Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:23:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T13:24:12Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:23:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T13:24:15Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:23:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T13:24:16Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -281,17 +281,17 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:23:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T13:24:17Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:03:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T13:24:43Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -311,8 +311,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T13:04:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T13:24:44Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
