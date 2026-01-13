@@ -18,7 +18,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-13T22:21:32Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -109,14 +109,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-13T22:21:32Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
     "lastUpdate": "2026-01-13T22:21:32Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-13T22:21:32Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-13T22:21:34Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-13T22:21:35Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -498,10 +498,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T22:21:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T22:22:07Z",
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
@@ -521,7 +521,7 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T19:21:54Z",
+    "lastUpdate": "2026-01-13T22:22:07Z",
     "cycle": 0
   },
   {
