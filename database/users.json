@@ -262,8 +262,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:38:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T12:39:47Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -297,8 +297,8 @@
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:38:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T12:39:47Z",
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
@@ -339,8 +339,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:38:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T12:39:47Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:38:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:39:47Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
