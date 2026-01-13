@@ -171,8 +171,8 @@
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:30:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:32:24Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:30:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:32:24Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -234,15 +234,15 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:30:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:32:24Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:30:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:32:24Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
