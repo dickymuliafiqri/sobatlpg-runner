@@ -295,10 +295,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:46:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:47:17Z",
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
@@ -353,22 +353,22 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:46:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:47:17Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:46:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:47:17Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:46:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:47:17Z",
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
@@ -416,8 +416,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:45:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:47:21Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -528,8 +528,8 @@
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:45:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:47:49Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
@@ -563,8 +563,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:37:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:47:52Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
