@@ -402,8 +402,8 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:51:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T00:52:21Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -444,8 +444,8 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:51:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T00:52:21Z",
+    "cycle": 4
   },
   {
     "name": "IMA",
@@ -456,10 +456,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T21:50:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T00:52:21Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
