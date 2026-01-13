@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:33:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:35:17Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -563,8 +563,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:34:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:35:17Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
@@ -577,14 +577,14 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:34:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:35:17Z",
+    "cycle": 3
   },
   {
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:34:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:35:17Z",
+    "cycle": 2
   }
 ]
