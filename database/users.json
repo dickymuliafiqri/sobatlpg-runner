@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:28:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T12:30:51Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -276,8 +276,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:29:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T12:30:51Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
