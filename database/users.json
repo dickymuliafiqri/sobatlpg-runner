@@ -59,8 +59,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T18:52:50Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T19:10:42Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T16:00:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T19:10:42Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
