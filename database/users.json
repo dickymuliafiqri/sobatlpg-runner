@@ -38,15 +38,15 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T14:46:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T14:48:37Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T11:48:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T14:48:37Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
