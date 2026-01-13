@@ -108,15 +108,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:49:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T21:50:42Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:49:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T21:50:42Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:49:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T21:50:42Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:49:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T21:50:42Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -192,8 +192,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:42:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T21:50:44Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -220,8 +220,8 @@
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:15:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T21:50:45Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -241,8 +241,8 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:18:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T21:50:45Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -290,15 +290,15 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:19:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T21:51:35Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T21:19:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T21:51:35Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
