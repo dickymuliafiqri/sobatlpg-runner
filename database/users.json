@@ -304,8 +304,8 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:49:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:50:34Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -353,8 +353,8 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:49:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:50:34Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -416,15 +416,15 @@
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:49:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T15:50:34Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:48:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:50:34Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
