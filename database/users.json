@@ -206,8 +206,8 @@
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:44:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T15:46:33Z",
+    "cycle": 5
   },
   {
     "name": "LUKMAN BS",
@@ -297,8 +297,8 @@
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:44:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T15:46:33Z",
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
@@ -351,24 +351,24 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:45:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T15:46:33Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:44:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:46:33Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T15:44:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T15:46:35Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
