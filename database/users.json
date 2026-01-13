@@ -311,8 +311,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:40:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T00:41:22Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -332,8 +332,8 @@
     "name": "H. JUMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:40:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T00:41:22Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T00:40:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T00:41:22Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -393,10 +393,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-12T21:40:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T00:41:22Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
