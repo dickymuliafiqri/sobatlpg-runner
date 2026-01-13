@@ -94,8 +94,8 @@
     "name": "LUTFI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:15:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T12:17:04Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:15:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T12:17:04Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -185,8 +185,8 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:15:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T12:17:04Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -199,15 +199,15 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:16:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:17:04Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:17:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:17:08Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
