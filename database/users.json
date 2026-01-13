@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:37:49Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T09:38:32Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
@@ -351,24 +351,24 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:37:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T09:38:32Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:37:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T09:38:32Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:37:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T09:38:32Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
@@ -381,15 +381,15 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:35:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T09:38:35Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:35:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T09:38:37Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
@@ -414,10 +414,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:37:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T09:39:01Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -498,10 +498,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:37:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T09:39:03Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -526,10 +526,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:38:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T09:39:05Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
