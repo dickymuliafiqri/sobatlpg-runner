@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 20,
+    "stock": 8,
     "lastStock": 3,
-    "lastUpdate": "2026-01-13T06:16:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T06:21:45Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:16:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-13T06:21:45Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:16:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T06:21:45Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:16:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T06:21:45Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -164,8 +164,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:18:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T06:21:47Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 10,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T06:16:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T06:21:48Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -234,15 +234,15 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:02:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T06:21:49Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:08:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T06:22:13Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -255,8 +255,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T03:08:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T06:22:15Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
