@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:17:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T12:17:59Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -183,10 +183,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:17:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T12:17:59Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:17:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-13T12:17:59Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -218,17 +218,17 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:17:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:18:13Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T09:17:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-13T12:18:38Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -507,8 +507,8 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:16:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T12:18:39Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
@@ -535,22 +535,22 @@
     "name": "TOKO SURYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:16:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T12:18:40Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:16:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-13T12:18:51Z",
+    "cycle": 4
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-13T12:14:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-13T12:18:53Z",
+    "cycle": 3
   },
   {
     "name": "ABDUL WAFI",
