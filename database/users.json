@@ -8,10 +8,10 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 86,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T06:11:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-14T06:19:57Z",
+    "cycle": 3
   },
   {
     "name": "ALFIAN DWI A.",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 84,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T06:11:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-14T06:19:57Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 61,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T06:11:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T06:19:57Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 66,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T06:11:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T06:19:57Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -162,10 +162,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 24,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T06:14:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T06:25:35Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
@@ -199,8 +199,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:22:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T06:25:45Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:16:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T06:25:46Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -227,15 +227,15 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:22:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T06:26:16Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:16:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T06:26:17Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
