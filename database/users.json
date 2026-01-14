@@ -8,17 +8,17 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 0,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:00:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T06:04:40Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 59,
+    "stock": 45,
     "lastStock": 39,
-    "lastUpdate": "2026-01-14T05:58:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T06:04:40Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 87,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:00:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T06:04:40Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -108,15 +108,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-14T05:58:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T06:04:40Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:58:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T06:05:04Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:58:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T06:05:05Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:58:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T06:05:07Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:58:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T06:05:08Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -582,9 +582,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 74,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:00:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T06:05:10Z",
+    "cycle": 1
   }
 ]
