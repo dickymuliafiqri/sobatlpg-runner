@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 94,
+    "stock": 81,
     "lastStock": 39,
-    "lastUpdate": "2026-01-14T05:39:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:46:04Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:39:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:46:04Z",
+    "cycle": 2
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 10,
+    "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-14T05:39:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:46:04Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:39:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:46:04Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:39:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:46:06Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:39:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:46:08Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:39:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:46:09Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:45:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-14T05:47:25Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -472,8 +472,8 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T02:46:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-14T05:47:26Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
