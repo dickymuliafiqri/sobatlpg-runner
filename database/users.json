@@ -18,14 +18,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:47:41Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T01:49:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T01:50:02Z",
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -109,14 +109,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:47:41Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:47:41Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:47:45Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:47:46Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -263,7 +263,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:46:38Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -277,14 +277,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:46:39Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-14T01:46:56Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T01:49:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T01:50:02Z",
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T01:49:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-14T01:50:02Z",
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T01:49:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-14T01:50:02Z",
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
