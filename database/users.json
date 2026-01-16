@@ -73,8 +73,8 @@
     "name": "JAENAL",
     "stock": 148,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:47:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T07:58:41Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -477,10 +477,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:47:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T07:58:41Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
@@ -491,10 +491,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 40,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:47:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T07:58:41Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
@@ -505,24 +505,24 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 32,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:51:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T07:58:41Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 248,
+    "stock": 243,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:52:05Z",
+    "lastUpdate": "2026-01-16T08:01:31Z",
     "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 94,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:52:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T08:01:32Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -540,10 +540,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 24,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:54:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:01:48Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -554,17 +554,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 268,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:39:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T08:02:39Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:42:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T08:04:42Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
