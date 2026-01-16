@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 245,
+    "stock": 239,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:17:52Z",
+    "lastUpdate": "2026-01-16T08:26:23Z",
     "cycle": 1
   },
   {
@@ -540,10 +540,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 11,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:20:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T08:26:23Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -554,17 +554,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 265,
+    "stock": 262,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:20:24Z",
+    "lastUpdate": "2026-01-16T08:26:23Z",
     "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 10,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:20:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T08:26:23Z",
+    "cycle": 4
   },
   {
     "name": "ROSIDI",
@@ -577,36 +577,36 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:58:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:29:49Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
-    "stock": 74,
+    "stock": 199,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T06:05:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:30:20Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
-    "stock": 43,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T02:29:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:30:24Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T02:29:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:31:34Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 13,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T02:29:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:32:06Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
