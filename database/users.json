@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 150,
+    "stock": 148,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:38:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:47:53Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 8,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:38:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T07:47:53Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -477,10 +477,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 28,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:42:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T07:47:53Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -491,10 +491,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 48,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:43:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:47:53Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -505,24 +505,24 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:52:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:51:53Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 261,
+    "stock": 248,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:33:01Z",
+    "lastUpdate": "2026-01-16T07:52:05Z",
     "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
+    "stock": 94,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:33:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:52:11Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -540,17 +540,17 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:36:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T07:54:00Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T04:07:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T07:55:45Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
