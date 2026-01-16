@@ -15,9 +15,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 177,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-16T13:36:15Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-16T13:48:59Z",
     "cycle": 1
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 211,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:36:15Z",
+    "lastUpdate": "2026-01-16T13:48:59Z",
     "cycle": 1
   },
   {
@@ -183,10 +183,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 21,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:36:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T13:48:59Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 11,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:39:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T13:48:59Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
