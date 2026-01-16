@@ -241,8 +241,8 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T05:57:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:58:27Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 227,
+    "stock": 222,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:53:28Z",
+    "lastUpdate": "2026-01-16T08:58:27Z",
     "cycle": 1
   },
   {
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 253,
+    "stock": 251,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:53:28Z",
+    "lastUpdate": "2026-01-16T08:58:27Z",
     "cycle": 1
   },
   {
@@ -582,9 +582,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 189,
+    "stock": 182,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:53:28Z",
+    "lastUpdate": "2026-01-16T08:58:27Z",
     "cycle": 1
   },
   {
