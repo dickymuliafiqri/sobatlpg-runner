@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 155,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:29:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T06:44:46Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 120,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:29:29Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T06:44:46Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:29:29Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T06:44:46Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -288,10 +288,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 28,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:23:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T06:44:46Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
@@ -302,31 +302,31 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 48,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:25:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T06:47:02Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T04:07:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T06:48:28Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:16:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T06:49:03Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T04:29:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T06:49:04Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -339,8 +339,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:46:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T06:50:05Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
