@@ -3,8 +3,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T11:28:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T14:30:03Z",
+    "cycle": 2
   },
   {
     "name": "AKBAR RISQ",
@@ -15,9 +15,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 168,
+    "stock": 169,
     "lastStock": 39,
-    "lastUpdate": "2026-01-16T14:18:42Z",
+    "lastUpdate": "2026-01-16T14:30:03Z",
     "cycle": 1
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 197,
+    "stock": 192,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:18:42Z",
+    "lastUpdate": "2026-01-16T14:30:03Z",
     "cycle": 1
   },
   {
@@ -276,8 +276,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:18:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T14:30:03Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -288,10 +288,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:18:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T14:30:05Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:23:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T14:34:14Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -316,17 +316,17 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 19,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:23:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T14:34:27Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 20,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:25:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T14:34:48Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -346,8 +346,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-15T18:15:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T14:35:42Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
