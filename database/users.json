@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 185,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-16T12:57:15Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-16T13:12:35Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 215,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T12:57:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T13:12:35Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -122,36 +122,36 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T12:54:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T13:12:35Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 117,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T12:57:16Z",
+    "lastUpdate": "2026-01-16T13:12:35Z",
+    "cycle": 3
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-16T13:13:26Z",
     "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T12:58:12Z",
-    "cycle": 1
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-16T12:58:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T13:13:27Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T12:58:14Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T13:13:28Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -164,15 +164,15 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T05:27:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T13:13:48Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:35:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T13:14:19Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
