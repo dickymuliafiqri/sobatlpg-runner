@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 147,
+    "stock": 145,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:07:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T08:17:52Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -491,10 +491,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 36,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:07:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T08:17:52Z",
+    "cycle": 5
   },
   {
     "name": "SOEKAMTO",
@@ -505,24 +505,24 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 21,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:07:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T08:17:52Z",
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
     "stock": 245,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:10:11Z",
+    "lastUpdate": "2026-01-16T08:17:52Z",
     "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 80,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:10:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T08:20:03Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -540,10 +540,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 14,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:10:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T08:20:04Z",
+    "cycle": 4
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -554,24 +554,24 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 267,
+    "stock": 265,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:12:07Z",
+    "lastUpdate": "2026-01-16T08:20:24Z",
     "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 13,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:13:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T08:20:32Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:58:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T08:23:09Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
