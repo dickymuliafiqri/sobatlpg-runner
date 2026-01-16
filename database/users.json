@@ -15,9 +15,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 170,
+    "stock": 168,
     "lastStock": 39,
-    "lastUpdate": "2026-01-16T14:09:06Z",
+    "lastUpdate": "2026-01-16T14:18:42Z",
     "cycle": 1
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 202,
+    "stock": 197,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:09:06Z",
+    "lastUpdate": "2026-01-16T14:18:42Z",
     "cycle": 1
   },
   {
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 20,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:09:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T14:18:42Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -288,10 +288,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 7,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:11:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T14:18:42Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 13,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:14:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T14:23:36Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
@@ -318,29 +318,29 @@
     "name": "YUSUF ISMAIL",
     "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:14:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T14:23:43Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
-    "stock": 27,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:22:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T14:25:23Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-15T18:15:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T14:25:27Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T09:54:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T14:25:29Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
