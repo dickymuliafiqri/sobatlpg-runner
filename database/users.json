@@ -297,8 +297,8 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:24:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T09:26:42Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 209,
+    "stock": 205,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T09:21:49Z",
+    "lastUpdate": "2026-01-16T09:26:42Z",
     "cycle": 1
   },
   {
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 234,
+    "stock": 227,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T09:21:49Z",
+    "lastUpdate": "2026-01-16T09:26:42Z",
     "cycle": 1
   },
   {
@@ -582,10 +582,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 134,
+    "stock": 122,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T09:21:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T09:26:42Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
