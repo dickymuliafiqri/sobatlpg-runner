@@ -15,9 +15,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 167,
+    "stock": 163,
     "lastStock": 39,
-    "lastUpdate": "2026-01-16T14:39:57Z",
+    "lastUpdate": "2026-01-16T14:49:21Z",
     "cycle": 1
   },
   {
@@ -38,14 +38,14 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T11:47:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T14:49:21Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 187,
+    "stock": 180,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:39:57Z",
+    "lastUpdate": "2026-01-16T14:49:21Z",
     "cycle": 1
   },
   {
@@ -316,17 +316,17 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 12,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:40:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T14:49:21Z",
+    "cycle": 5
   },
   {
     "name": "SUPARNI",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:44:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T14:49:50Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:45:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T14:53:05Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -374,22 +374,22 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-15T18:15:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T14:53:06Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T19:05:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T14:53:07Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T10:10:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T14:53:08Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
