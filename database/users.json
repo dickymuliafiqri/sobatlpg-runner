@@ -395,8 +395,8 @@
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:10:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T10:16:48Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
@@ -416,8 +416,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:15:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T10:16:48Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 163,
+    "stock": 159,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T10:10:50Z",
+    "lastUpdate": "2026-01-16T10:16:48Z",
     "cycle": 1
   },
   {
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 185,
+    "stock": 179,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T10:10:50Z",
+    "lastUpdate": "2026-01-16T10:16:48Z",
     "cycle": 1
   },
   {
