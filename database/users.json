@@ -491,10 +491,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 8,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:48:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T19:52:37Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
@@ -512,38 +512,38 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 124,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:48:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T19:52:37Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 25,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T16:19:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T19:52:37Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T15:38:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T19:52:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T15:50:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T19:53:08Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T16:12:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T19:53:39Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
