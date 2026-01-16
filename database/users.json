@@ -71,9 +71,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 151,
+    "stock": 150,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:29:45Z",
+    "lastUpdate": "2026-01-16T07:38:07Z",
     "cycle": 1
   },
   {
@@ -400,10 +400,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:29:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T07:38:07Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -421,24 +421,24 @@
   },
   {
     "name": "BUDI",
-    "stock": 39,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:29:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T07:38:07Z",
+    "cycle": 5
   },
   {
     "name": "YULI SORAYA",
-    "stock": 34,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:29:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T07:38:07Z",
+    "cycle": 5
   },
   {
     "name": "SUSILO",
-    "stock": 11,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:32:29Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T07:42:04Z",
+    "cycle": 5
   },
   {
     "name": "HJ. HAERONI",
@@ -477,31 +477,31 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 41,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T07:33:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:42:16Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:52:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:43:28Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T03:34:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T07:43:57Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T04:22:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T07:44:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
