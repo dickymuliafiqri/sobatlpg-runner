@@ -143,8 +143,8 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T18:52:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T18:55:28Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -183,10 +183,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 26,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:52:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T18:55:28Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -204,17 +204,17 @@
   },
   {
     "name": "ROSA V",
-    "stock": 11,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:02:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T18:55:28Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
-    "stock": 25,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T14:09:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T18:55:28Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -234,22 +234,22 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:56:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T18:55:30Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:57:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T18:55:59Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:58:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T18:56:28Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
