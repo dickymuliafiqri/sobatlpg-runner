@@ -220,8 +220,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T13:40:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T16:40:20Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -582,17 +582,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 66,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T16:32:19Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T16:40:20Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
-    "stock": 19,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T16:32:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T16:40:20Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
@@ -610,9 +610,9 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T16:33:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T16:40:20Z",
+    "cycle": 2
   }
 ]
