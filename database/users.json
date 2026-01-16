@@ -43,9 +43,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 154,
+    "stock": 146,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:11:36Z",
+    "lastUpdate": "2026-01-16T23:23:03Z",
     "cycle": 1
   },
   {
@@ -71,9 +71,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 160,
+    "stock": 153,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:11:36Z",
+    "lastUpdate": "2026-01-16T23:23:03Z",
     "cycle": 1
   },
   {
@@ -85,17 +85,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 111,
+    "stock": 110,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:15:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T23:23:03Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 134,
+    "stock": 127,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:17:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T23:23:03Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 78,
+    "stock": 76,
     "lastStock": 3,
-    "lastUpdate": "2026-01-16T23:17:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T23:27:02Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:18:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T23:27:27Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 27,
+    "stock": 97,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T22:10:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T23:27:28Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T22:11:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T23:27:30Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T22:13:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T23:27:32Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
