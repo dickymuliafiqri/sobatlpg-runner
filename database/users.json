@@ -71,9 +71,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 156,
+    "stock": 154,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:52:35Z",
+    "lastUpdate": "2026-01-16T07:02:49Z",
     "cycle": 1
   },
   {
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 22,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:52:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T07:02:49Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -288,10 +288,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 20,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:52:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-16T07:02:49Z",
+    "cycle": 5
   },
   {
     "name": "HADI SUTOYO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 38,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:52:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T07:02:49Z",
+    "cycle": 4
   },
   {
     "name": "ONG SWI GIOK",
@@ -316,17 +316,17 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 39,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:56:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T07:06:59Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 39,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:56:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T07:07:07Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 7,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:56:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:07:49Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -386,17 +386,17 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T06:57:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T07:09:09Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-14T05:28:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T07:10:56Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
