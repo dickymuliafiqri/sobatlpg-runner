@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 144,
+    "stock": 131,
     "lastStock": 39,
-    "lastUpdate": "2026-01-16T15:40:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T15:46:58Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 146,
+    "stock": 144,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T15:40:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T15:46:58Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -493,8 +493,8 @@
     "name": "UD SAMAN HADI",
     "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T15:40:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-16T15:46:58Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
@@ -505,24 +505,24 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 16,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T15:41:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T15:46:58Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 142,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T15:42:29Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-16T15:49:57Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
-    "stock": 61,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T15:37:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-16T15:50:02Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -535,22 +535,22 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T09:37:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T15:50:57Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T08:26:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T15:51:27Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T10:58:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-16T15:51:52Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
