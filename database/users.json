@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 45,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:56:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T00:02:06Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 53,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:56:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T00:02:06Z",
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 141,
+    "stock": 138,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:56:41Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-17T00:02:06Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -360,15 +360,15 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:56:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T00:02:06Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:56:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T00:02:09Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -388,29 +388,29 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:28:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:05:15Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:28:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:05:44Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:29:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:05:46Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:29:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:06:00Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
