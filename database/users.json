@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:18:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T14:19:49Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -388,8 +388,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:18:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T14:19:49Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
@@ -400,31 +400,31 @@
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:15:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:19:49Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:15:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:19:49Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:18:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:19:51Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:15:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:19:52Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
