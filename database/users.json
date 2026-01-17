@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:45Z",
-    "cycle": 1
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-17T12:24:30Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -115,8 +115,8 @@
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:24:30Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:24:30Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:24:30Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:24:32Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -514,8 +514,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:24:33Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -540,10 +540,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:24:33Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -554,10 +554,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:19:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:24:34Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -598,8 +598,8 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T12:20:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T12:25:20Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
