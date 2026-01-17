@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 63,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:18:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-17T01:20:42Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T22:20:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T01:20:42Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -248,8 +248,8 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:19:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T01:20:42Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -262,8 +262,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:19:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T01:20:42Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
