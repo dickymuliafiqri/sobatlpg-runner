@@ -449,10 +449,10 @@
   },
   {
     "name": "IMA",
-    "stock": 11,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:32:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-17T00:39:19Z",
+    "cycle": 5
   },
   {
     "name": "DARMAWAN P",
@@ -512,38 +512,38 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 205,
+    "stock": 198,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:32:54Z",
+    "lastUpdate": "2026-01-17T00:39:19Z",
     "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:33:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T00:39:19Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:33:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T00:39:19Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:53:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:39:50Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:58:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:40:19Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
