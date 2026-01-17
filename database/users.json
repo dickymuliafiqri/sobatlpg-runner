@@ -150,8 +150,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T23:36:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T02:37:09Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 157,
+    "stock": 150,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T02:33:58Z",
+    "lastUpdate": "2026-01-17T02:37:09Z",
     "cycle": 1
   },
   {
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 153,
+    "stock": 149,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T02:33:58Z",
+    "lastUpdate": "2026-01-17T02:37:09Z",
     "cycle": 1
   },
   {
