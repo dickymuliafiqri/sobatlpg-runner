@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T20:18:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T20:22:07Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -374,15 +374,15 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T17:19:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T20:22:07Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T17:19:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T20:22:10Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -409,8 +409,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T17:21:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T20:22:10Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
