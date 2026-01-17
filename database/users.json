@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "lastStock": 3,
-    "lastUpdate": "2026-01-17T11:30:38Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-17T14:30:49Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -584,8 +584,8 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:30:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-17T14:30:49Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
