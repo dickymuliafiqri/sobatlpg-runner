@@ -309,10 +309,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:17:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T14:17:57Z",
+    "cycle": 4
   },
   {
     "name": "YUSUF ISMAIL",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:17:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T14:17:57Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:17:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T14:17:57Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -351,17 +351,17 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:17:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-17T14:17:57Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T14:12:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-17T14:18:44Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -374,29 +374,29 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:14:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:18:45Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:14:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:18:45Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:15:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:18:46Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T11:15:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T14:18:47Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
