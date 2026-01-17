@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 62,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:21:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-17T01:23:39Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -283,22 +283,22 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:21:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T01:23:39Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:21:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T01:23:39Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T22:16:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T01:23:39Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
