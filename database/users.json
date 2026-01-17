@@ -449,10 +449,10 @@
   },
   {
     "name": "IMA",
-    "stock": 18,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:26:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T00:32:54Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -498,38 +498,38 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:27:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T00:32:54Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:48:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:32:54Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 205,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T22:25:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:32:54Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T20:03:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:33:24Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T19:52:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:33:25Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
