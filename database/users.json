@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 188,
+    "stock": 187,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:38:09Z",
+    "lastUpdate": "2026-01-17T01:43:04Z",
     "cycle": 1
   },
   {
@@ -556,7 +556,7 @@
     "name": "ABDUL WAFI",
     "stock": 176,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:38:09Z",
+    "lastUpdate": "2026-01-17T01:43:04Z",
     "cycle": 1
   },
   {
@@ -582,10 +582,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 61,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:38:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T01:43:04Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
