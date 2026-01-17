@@ -99,10 +99,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 53,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T02:13:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-17T02:18:21Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 173,
+    "stock": 166,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T02:13:10Z",
+    "lastUpdate": "2026-01-17T02:18:21Z",
     "cycle": 1
   },
   {
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 167,
+    "stock": 163,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T02:13:10Z",
+    "lastUpdate": "2026-01-17T02:18:21Z",
     "cycle": 1
   },
   {
