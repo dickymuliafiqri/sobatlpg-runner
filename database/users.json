@@ -514,7 +514,7 @@
     "name": "TOKO POJOK",
     "stock": 194,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:44:44Z",
+    "lastUpdate": "2026-01-17T00:48:38Z",
     "cycle": 1
   },
   {
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 186,
+    "stock": 185,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:44:44Z",
+    "lastUpdate": "2026-01-17T00:48:38Z",
     "cycle": 1
   },
   {
@@ -568,17 +568,17 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T00:45:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-17T00:48:38Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T20:07:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:48:39Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -589,17 +589,17 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T20:08:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:49:08Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T20:11:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T00:49:09Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
