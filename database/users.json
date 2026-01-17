@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 64,
     "lastStock": 0,
-    "lastUpdate": "2026-01-16T22:06:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-17T01:10:20Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 187,
+    "stock": 188,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:04:55Z",
+    "lastUpdate": "2026-01-17T01:10:20Z",
     "cycle": 1
   },
   {
@@ -554,9 +554,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 177,
+    "stock": 176,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:04:55Z",
+    "lastUpdate": "2026-01-17T01:10:20Z",
     "cycle": 1
   },
   {
@@ -589,17 +589,17 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 43,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:04:55Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-17T01:10:20Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
-    "stock": 6,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T01:05:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-17T01:13:29Z",
+    "cycle": 5
   },
   {
     "name": "CAHYA HERAWATI",
