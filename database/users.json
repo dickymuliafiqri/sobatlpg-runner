@@ -162,10 +162,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 29,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:18:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-18T23:21:42Z",
+    "cycle": 3
   },
   {
     "name": "P. SUK",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:18:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:21:42Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:19:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:21:42Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -276,8 +276,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:19:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:21:42Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -332,8 +332,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:18:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:22:10Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -346,8 +346,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:18:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:22:12Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
