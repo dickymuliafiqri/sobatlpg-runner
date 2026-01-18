@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T05:28:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T08:28:25Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T08:27:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-18T08:28:25Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -388,8 +388,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T08:27:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-18T08:28:25Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
