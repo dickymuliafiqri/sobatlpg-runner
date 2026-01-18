@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 41,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:44:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-18T23:50:37Z",
+    "cycle": 4
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
+    "stock": 73,
     "lastStock": 3,
-    "lastUpdate": "2026-01-18T20:48:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:50:37Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:45:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-18T23:50:37Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -386,24 +386,24 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 8,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:36:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-18T23:50:37Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:35:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:51:05Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:39:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:51:30Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
