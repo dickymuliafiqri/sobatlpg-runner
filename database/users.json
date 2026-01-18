@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-18T02:23:10Z",
-    "cycle": 3
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-18T02:23:39Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -115,8 +115,8 @@
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T02:23:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-18T02:23:39Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T02:23:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-18T02:23:39Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T02:23:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-18T02:23:39Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -311,22 +311,22 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T23:23:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T02:23:40Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T23:23:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T02:23:41Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T23:23:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T02:23:42Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -339,8 +339,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-17T23:23:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T02:24:04Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T02:23:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-18T02:24:10Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
