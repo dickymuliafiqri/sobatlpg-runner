@@ -437,8 +437,8 @@
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T05:46:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-18T05:47:33Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
@@ -451,8 +451,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T05:46:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-18T05:47:33Z",
+    "cycle": 3
   },
   {
     "name": "DARMAWAN P",
@@ -584,15 +584,15 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T05:46:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-18T05:47:33Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T02:46:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T05:47:33Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
