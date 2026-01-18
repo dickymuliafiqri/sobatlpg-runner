@@ -18,7 +18,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:25:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -116,7 +116,7 @@
     "stock": 6,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:25:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:25:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:25:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -298,35 +298,35 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:23:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:23:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:26:52Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T11:26:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-18T11:27:37Z",
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T11:26:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-18T11:27:37Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T11:26:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-18T11:27:37Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -353,7 +353,7 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T08:27:08Z",
+    "lastUpdate": "2026-01-18T11:27:37Z",
     "cycle": 0
   },
   {
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-18T11:25:28Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -374,14 +374,14 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T08:27:53Z",
+    "lastUpdate": "2026-01-18T11:28:05Z",
     "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T08:27:53Z",
+    "lastUpdate": "2026-01-18T11:28:05Z",
     "cycle": 0
   },
   {
@@ -409,7 +409,7 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T08:27:56Z",
+    "lastUpdate": "2026-01-18T11:28:05Z",
     "cycle": 0
   },
   {
