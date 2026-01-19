@@ -18,7 +18,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -116,7 +116,7 @@
     "stock": 6,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:45:56Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -312,7 +312,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:43:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:45:58Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -396,14 +396,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:43:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-19T16:43:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "Bansos",
@@ -414,24 +414,24 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T16:45:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T16:46:42Z",
+    "cycle": 0
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T16:45:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T16:46:42Z",
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T16:46:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T16:46:42Z",
+    "cycle": 0
   },
   {
     "name": "SUSILO",
