@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T18:40:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T18:40:44Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -288,17 +288,17 @@
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T18:40:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T18:40:44Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T18:40:07Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T18:40:44Z",
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
@@ -353,22 +353,22 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T15:39:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T18:40:44Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T18:38:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T18:41:15Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T15:39:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T18:41:15Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
