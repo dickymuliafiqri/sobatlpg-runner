@@ -290,15 +290,15 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T15:36:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T15:37:44Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T15:36:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T15:37:44Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -351,17 +351,17 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T12:36:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T15:37:44Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T15:36:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T15:37:44Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -374,15 +374,15 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T12:36:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T15:37:46Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T12:36:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T15:37:47Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
