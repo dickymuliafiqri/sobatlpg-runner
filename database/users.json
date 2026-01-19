@@ -71,17 +71,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 88,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T00:11:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T00:15:24Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 46,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T00:11:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T00:15:24Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-19T00:11:06Z",
-    "cycle": 4
+    "stock": 53,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-19T00:15:24Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T00:11:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T00:15:24Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -444,36 +444,36 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:44:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T00:20:30Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:52:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T00:21:04Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:44:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T00:21:07Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:53:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T00:21:33Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:45:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T00:21:36Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
