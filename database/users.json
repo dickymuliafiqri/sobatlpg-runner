@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 93,
+    "stock": 86,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:53:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T02:03:41Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -92,17 +92,17 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 88,
+    "stock": 86,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:53:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T02:03:41Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
-    "stock": 22,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:56:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T02:03:41Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 44,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:57:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T02:03:41Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 28,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:58:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T02:08:09Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -218,10 +218,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 33,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:58:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T02:08:25Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -283,8 +283,8 @@
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T22:39:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T02:08:49Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
