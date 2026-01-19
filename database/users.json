@@ -3,8 +3,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:53:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:57:48Z",
+    "cycle": 1
   },
   {
     "name": "AKBAR RISQ",
@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 31,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:50:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-18T23:57:48Z",
+    "cycle": 5
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:54:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:57:48Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 73,
+    "stock": 66,
     "lastStock": 3,
-    "lastUpdate": "2026-01-18T23:50:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-18T23:57:48Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:54:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-18T23:57:49Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:50:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T00:01:49Z",
+    "cycle": 3
   },
   {
     "name": "WIKAN K",
@@ -400,24 +400,24 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:51:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T00:02:25Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:31:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T00:02:54Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T20:39:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T00:02:56Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
