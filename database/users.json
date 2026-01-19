@@ -227,8 +227,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T02:01:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T05:03:31Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -512,17 +512,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 68,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T04:53:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-19T05:03:31Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
-    "stock": 9,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T04:53:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T05:03:31Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
@@ -554,10 +554,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 67,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T04:53:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T05:03:31Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -568,10 +568,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 17,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T04:54:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T05:03:33Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -582,10 +582,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 26,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T04:58:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T05:07:55Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -598,21 +598,21 @@
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T00:51:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T05:08:22Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T00:51:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T05:08:34Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:07:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T05:08:52Z",
+    "cycle": 1
   }
 ]
