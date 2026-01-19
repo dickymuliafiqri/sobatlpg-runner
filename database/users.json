@@ -311,8 +311,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T06:29:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T06:30:35Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -353,36 +353,36 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T06:29:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T06:30:35Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T04:35:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T06:30:35Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T02:40:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T06:30:35Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T02:40:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T06:30:36Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T02:40:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T06:30:39Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -470,10 +470,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 42,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T04:42:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T06:30:40Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
