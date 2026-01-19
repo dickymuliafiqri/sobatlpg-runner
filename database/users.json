@@ -24,8 +24,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T00:25:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T03:36:56Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -50,17 +50,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 32,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T03:24:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-19T03:36:56Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 29,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T03:28:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-19T03:36:56Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 73,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T03:30:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-19T03:36:56Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,38 +85,38 @@
   },
   {
     "name": "KARSONO",
-    "stock": 47,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T03:32:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T03:37:28Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 79,
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T02:14:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T03:41:01Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T02:14:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T03:41:14Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 53,
+    "stock": 46,
     "lastStock": 3,
-    "lastUpdate": "2026-01-19T00:15:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T03:41:33Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T23:13:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T03:42:09Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
