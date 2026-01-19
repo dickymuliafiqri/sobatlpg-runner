@@ -8,10 +8,10 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 78,
+    "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:20:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T01:29:55Z",
+    "cycle": 4
   },
   {
     "name": "ALFIAN DWI A.",
@@ -38,8 +38,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T22:26:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T01:29:55Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -50,24 +50,24 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 72,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:20:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T01:29:55Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 93,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T01:20:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-19T01:29:55Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 53,
+    "stock": 42,
     "lastStock": 1,
-    "lastUpdate": "2026-01-19T01:20:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T01:30:27Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -92,17 +92,17 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 94,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T22:28:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T01:34:00Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T22:33:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T01:34:49Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T22:28:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T01:36:38Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-01-18T22:28:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T01:37:11Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
