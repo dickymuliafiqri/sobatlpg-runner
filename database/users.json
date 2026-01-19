@@ -17,8 +17,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 60,
     "lastStock": 39,
-    "lastUpdate": "2026-01-19T08:27:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:38Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 14,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T08:27:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:38Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,15 +108,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-19T08:27:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:38Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T08:27:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:38Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T08:27:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:39Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T08:27:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:41Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T08:27:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:42Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T08:27:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T08:32:44Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -554,10 +554,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 25,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T08:22:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-19T08:33:04Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
