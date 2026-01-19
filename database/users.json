@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 63,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T23:45:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T23:51:20Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 63,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T23:45:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-19T23:51:20Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 56,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T23:45:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-19T23:51:20Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -582,10 +582,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 22,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T23:45:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-19T23:51:20Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
