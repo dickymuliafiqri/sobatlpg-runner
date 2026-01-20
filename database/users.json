@@ -17,8 +17,8 @@
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-20T20:49:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:50:33Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-01-20T20:49:26Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-20T20:50:33Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:49:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:50:33Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:49:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:50:33Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:49:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:50:34Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:49:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:50:35Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -568,10 +568,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:49:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T20:50:35Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -589,10 +589,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:50:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T20:50:36Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:49:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:50:37Z",
+    "cycle": 2
   }
 ]
