@@ -428,24 +428,24 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T08:33:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T11:34:08Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T08:33:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T11:34:08Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T08:33:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T11:34:08Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T11:32:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-20T11:34:08Z",
+    "cycle": 5
   }
 ]
