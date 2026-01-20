@@ -108,8 +108,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-20T20:01:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-20T20:02:45Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -199,8 +199,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:02:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T20:02:45Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-20T20:01:42Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-20T20:02:45Z",
+    "cycle": 4
   }
 ]
