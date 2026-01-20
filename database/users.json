@@ -491,10 +491,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:54:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T17:54:36Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-20T17:53:16Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-20T17:54:36Z",
+    "cycle": 5
   }
 ]
