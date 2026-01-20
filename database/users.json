@@ -3,8 +3,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T03:18:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T06:18:19Z",
+    "cycle": 1
   },
   {
     "name": "AKBAR RISQ",
@@ -17,8 +17,8 @@
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-20T06:17:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T06:18:19Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T03:18:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T06:18:19Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -108,15 +108,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T06:17:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T06:18:19Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T06:17:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T06:18:21Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T06:17:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T06:18:22Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T06:17:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T06:18:23Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T06:17:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T06:18:24Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T06:17:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T06:18:24Z",
+    "cycle": 2
   }
 ]
