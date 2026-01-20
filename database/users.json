@@ -318,15 +318,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:06:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T14:06:33Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T11:06:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T14:06:33Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -337,17 +337,17 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T11:06:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T14:06:33Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T11:06:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T14:06:33Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:06:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T14:06:36Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:06:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T14:06:37Z",
+    "cycle": 2
   }
 ]
