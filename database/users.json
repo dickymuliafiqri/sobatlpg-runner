@@ -213,8 +213,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:33:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:34:24Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -395,15 +395,15 @@
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:33:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:34:24Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:33:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T20:34:24Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-20T20:32:54Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-20T20:34:24Z",
+    "cycle": 5
   }
 ]
