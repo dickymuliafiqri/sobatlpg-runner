@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 45,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T00:49:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T00:57:45Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -64,10 +64,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 32,
+    "stock": 29,
     "lastStock": 1,
-    "lastUpdate": "2026-01-20T00:49:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T00:57:45Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 33,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T00:49:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T00:57:45Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
@@ -99,10 +99,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 27,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T00:49:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T00:57:45Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -120,17 +120,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T00:52:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-20T01:00:57Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T00:53:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-20T01:02:14Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
@@ -148,10 +148,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T21:54:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T01:02:38Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -332,8 +332,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T21:35:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T01:03:50Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -346,8 +346,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-19T21:35:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T01:03:51Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
