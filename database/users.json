@@ -507,15 +507,15 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:44:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T20:44:39Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:44:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T20:44:39Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T20:44:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T20:44:39Z",
+    "cycle": 3
   }
 ]
