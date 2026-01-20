@@ -367,8 +367,8 @@
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:08:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T14:09:52Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -500,8 +500,8 @@
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:08:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-20T14:09:52Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-20T14:08:03Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-20T14:09:52Z",
+    "cycle": 5
   }
 ]
