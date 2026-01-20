@@ -17,8 +17,8 @@
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-20T17:26:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T17:27:10Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -108,15 +108,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-20T17:26:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T17:27:10Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:26:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T17:27:10Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:26:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T17:27:10Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:26:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T17:27:12Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -164,8 +164,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:26:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T17:27:13Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -283,8 +283,8 @@
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:26:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T17:27:13Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:26:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T17:27:14Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-20T17:26:24Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-20T17:27:16Z",
+    "cycle": 4
   }
 ]
