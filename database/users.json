@@ -206,8 +206,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T08:14:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T11:14:27Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-20T11:11:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-20T11:14:27Z",
+    "cycle": 4
   }
 ]
