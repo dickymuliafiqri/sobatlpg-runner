@@ -493,8 +493,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T14:42:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-20T14:43:22Z",
+    "cycle": 5
   },
   {
     "name": "SOEKAMTO",
@@ -526,24 +526,24 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T11:42:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T14:43:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T11:42:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T14:43:22Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T11:42:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-20T14:43:22Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
