@@ -325,8 +325,8 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:10:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-20T17:10:33Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T17:10:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-20T17:10:33Z",
+    "cycle": 5
   }
 ]
