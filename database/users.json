@@ -155,10 +155,10 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T07:39:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-21T07:44:30Z",
+    "cycle": 5
   },
   {
     "name": "ERNA PUJIATI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T07:39:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T07:44:30Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -234,50 +234,50 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:38:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:44:30Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:33:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:44:30Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:33:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:44:59Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:33:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:44:59Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:33:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:45:00Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:33:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:45:01Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 13,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:53:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:45:02Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
