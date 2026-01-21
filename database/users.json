@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T23:08:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T23:09:34Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -232,24 +232,24 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T23:08:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T23:09:34Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T23:08:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T23:09:34Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T23:08:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T23:09:34Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -262,15 +262,15 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:09:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T23:10:01Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:09:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T23:10:01Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T23:08:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T23:10:01Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T23:08:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T23:10:02Z",
+    "cycle": 4
   }
 ]
