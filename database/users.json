@@ -8,17 +8,17 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 78,
+    "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T02:16:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-21T02:25:44Z",
+    "cycle": 5
   },
   {
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-21T02:16:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-21T02:25:44Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,52 +43,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 86,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T02:16:11Z",
-    "cycle": 2
-  },
-  {
-    "name": "HENDRA KURNIAWAN",
-    "stock": 56,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T02:16:14Z",
-    "cycle": 4
-  },
-  {
-    "name": "SUCIYONO",
-    "stock": 77,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T02:17:54Z",
+    "lastUpdate": "2026-01-21T02:25:44Z",
     "cycle": 3
   },
   {
-    "name": "SUMBER REJEKI",
-    "stock": 41,
-    "lastStock": 1,
-    "lastUpdate": "2026-01-21T02:20:08Z",
+    "name": "HENDRA KURNIAWAN",
+    "stock": 53,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T02:25:44Z",
+    "cycle": 5
+  },
+  {
+    "name": "SUCIYONO",
+    "stock": 73,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T02:25:47Z",
     "cycle": 4
+  },
+  {
+    "name": "SUMBER REJEKI",
+    "stock": 35,
+    "lastStock": 1,
+    "lastUpdate": "2026-01-21T02:29:47Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 94,
+    "stock": 91,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T02:20:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T02:30:08Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 48,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T02:21:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-21T02:30:47Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 63,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T01:59:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T02:30:47Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
