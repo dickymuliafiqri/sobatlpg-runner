@@ -18,7 +18,7 @@
     "stock": 38,
     "lastStock": 39,
     "lastUpdate": "2026-01-21T14:31:40Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -32,7 +32,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:31:40Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -109,14 +109,14 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-01-21T14:31:40Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:31:40Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -137,14 +137,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:31:42Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:31:43Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:31:44Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -522,7 +522,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:35:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
@@ -556,7 +556,7 @@
     "name": "ABDUL WAFI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:39:44Z",
+    "lastUpdate": "2026-01-21T14:39:57Z",
     "cycle": 0
   },
   {
@@ -564,27 +564,27 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:31:44Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:31:45Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:35:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:39:44Z",
+    "lastUpdate": "2026-01-21T14:39:57Z",
     "cycle": 0
   },
   {
@@ -592,13 +592,13 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-21T14:36:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:39:44Z",
+    "lastUpdate": "2026-01-21T14:39:57Z",
     "cycle": 0
   },
   {
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-21T14:36:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-21T14:39:57Z",
+    "cycle": 0
   }
 ]
