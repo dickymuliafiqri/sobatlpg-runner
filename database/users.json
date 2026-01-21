@@ -388,8 +388,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:15:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T20:16:56Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
@@ -409,8 +409,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:14:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:16:56Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:09:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T20:16:56Z",
+    "cycle": 4
   }
 ]
