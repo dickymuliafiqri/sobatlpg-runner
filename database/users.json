@@ -323,10 +323,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T07:51:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T07:55:11Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -337,59 +337,59 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T07:51:12Z",
+    "lastUpdate": "2026-01-21T07:55:11Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 0,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T07:55:11Z",
+    "cycle": 1
+  },
+  {
+    "name": "ARIF FAUZI",
+    "stock": 0,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T07:55:11Z",
+    "cycle": 1
+  },
+  {
+    "name": "Bansos",
+    "stock": 41,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T07:55:13Z",
+    "cycle": 1
+  },
+  {
+    "name": "MOH HAFIF",
+    "stock": 0,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T07:55:14Z",
     "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:44:20Z",
-    "cycle": 0
-  },
-  {
-    "name": "ARIF FAUZI",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:48:22Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
-    "stock": 41,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T04:06:21Z",
-    "cycle": 0
-  },
-  {
-    "name": "MOH HAFIF",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:48:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:55:41Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:48:53Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:48:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:55:42Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:53:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T07:55:42Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
