@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T13:23:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T16:23:24Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-21T16:08:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T16:23:24Z",
+    "cycle": 4
   }
 ]
