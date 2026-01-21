@@ -274,24 +274,24 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:11:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T20:12:39Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:11:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T20:12:39Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:11:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T20:12:39Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:11:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T20:12:39Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -318,22 +318,22 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:11:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:13:12Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:11:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:13:12Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:12:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:13:14Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -346,8 +346,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:12:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:13:14Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:09:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T20:13:16Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
