@@ -248,8 +248,8 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:01:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T11:02:19Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -262,8 +262,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:01:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T11:02:19Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -274,17 +274,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T07:50:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T11:02:19Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T07:47:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T11:02:19Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
