@@ -528,15 +528,15 @@
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:27:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T20:28:23Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:27:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:28:23Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-21T20:27:23Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T20:28:23Z",
+    "cycle": 4
   }
 ]
