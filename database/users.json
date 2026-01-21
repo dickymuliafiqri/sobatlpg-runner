@@ -8,17 +8,17 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 84,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T01:53:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T02:05:00Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-21T01:53:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T02:05:00Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 13,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T01:53:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T02:05:00Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -43,45 +43,45 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 93,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T23:01:41Z",
-    "cycle": 0
-  },
-  {
-    "name": "HENDRA KURNIAWAN",
-    "stock": 71,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T01:53:37Z",
-    "cycle": 2
-  },
-  {
-    "name": "SUCIYONO",
-    "stock": 91,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T01:53:39Z",
+    "lastUpdate": "2026-01-21T02:05:00Z",
     "cycle": 1
   },
   {
-    "name": "SUMBER REJEKI",
-    "stock": 60,
-    "lastStock": 1,
-    "lastUpdate": "2026-01-21T01:56:29Z",
+    "name": "HENDRA KURNIAWAN",
+    "stock": 64,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T02:05:03Z",
+    "cycle": 3
+  },
+  {
+    "name": "SUCIYONO",
+    "stock": 86,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T02:09:57Z",
     "cycle": 2
+  },
+  {
+    "name": "SUMBER REJEKI",
+    "stock": 48,
+    "lastStock": 1,
+    "lastUpdate": "2026-01-21T02:09:58Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 94,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T22:59:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T02:09:59Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 62,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T01:57:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T02:11:11Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
