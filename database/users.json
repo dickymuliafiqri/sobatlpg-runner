@@ -395,15 +395,15 @@
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T14:13:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T14:14:03Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T14:13:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T14:14:03Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -414,10 +414,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:11:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T14:14:03Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -428,10 +428,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:11:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T14:14:03Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
