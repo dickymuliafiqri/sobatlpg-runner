@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 31,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:14:31Z",
+    "lastUpdate": "2026-01-21T03:20:37Z",
+    "cycle": 5
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T03:20:37Z",
     "cycle": 4
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:14:33Z",
-    "cycle": 3
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:14:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T03:20:37Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -155,10 +155,10 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 41,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:14:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T03:20:37Z",
+    "cycle": 3
   },
   {
     "name": "ERNA PUJIATI",
@@ -169,38 +169,38 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:15:27Z",
+    "lastUpdate": "2026-01-21T03:20:39Z",
+    "cycle": 2
+  },
+  {
+    "name": "Bansos",
+    "stock": 0,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T03:20:40Z",
+    "cycle": 1
+  },
+  {
+    "name": "JONI H",
+    "stock": 0,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T03:20:41Z",
+    "cycle": 1
+  },
+  {
+    "name": "TOKO IRAWAN",
+    "stock": 0,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T03:21:10Z",
     "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T22:44:51Z",
-    "cycle": 0
-  },
-  {
-    "name": "JONI H",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-20T22:51:37Z",
-    "cycle": 0
-  },
-  {
-    "name": "TOKO IRAWAN",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-20T22:51:37Z",
-    "cycle": 0
-  },
-  {
-    "name": "Bansos",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-20T23:02:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T03:21:13Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
