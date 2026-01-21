@@ -521,8 +521,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:35:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T14:35:19Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -577,8 +577,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T11:35:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T14:35:19Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T14:29:43Z",
-    "cycle": 2
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-21T14:35:19Z",
+    "cycle": 3
   }
 ]
