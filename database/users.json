@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 23,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:43:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-21T03:48:22Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 21,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:44:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T03:48:22Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:44:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T03:48:22Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -351,45 +351,45 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T03:44:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T03:48:22Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T23:50:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T03:48:49Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T23:14:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T03:48:50Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T23:19:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T03:48:53Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T23:26:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T03:48:54Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-20T23:43:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T03:48:56Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
