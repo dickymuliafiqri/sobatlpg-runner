@@ -185,8 +185,8 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:02:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T20:03:05Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-21T20:02:16Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-21T20:03:05Z",
+    "cycle": 5
   }
 ]
