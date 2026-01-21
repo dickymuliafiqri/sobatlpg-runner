@@ -17,8 +17,8 @@
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-21T22:56:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:42Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -108,15 +108,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-21T22:56:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:42Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T22:56:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:42Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T22:56:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:42Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T22:56:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:44Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -178,8 +178,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T19:59:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:45Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -199,8 +199,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T19:59:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:45Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T22:56:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T22:59:46Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T22:56:43Z",
-    "cycle": 0
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-21T22:59:46Z",
+    "cycle": 1
   }
 ]
