@@ -17,8 +17,8 @@
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-21T17:06:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T17:28:31Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:06:01Z",
-    "cycle": 0
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-21T17:28:31Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:06:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T17:28:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:06:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T17:28:31Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:06:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T17:28:33Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -295,10 +295,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:12:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T17:28:33Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:17:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T17:28:34Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -549,8 +549,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T14:27:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T17:28:35Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:26:24Z",
-    "cycle": 0
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-21T17:28:36Z",
+    "cycle": 1
   }
 ]
