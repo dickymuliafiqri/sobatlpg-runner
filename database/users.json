@@ -309,10 +309,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:14:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T20:15:19Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:14:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-21T20:15:19Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -337,10 +337,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:14:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T20:15:19Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -351,45 +351,45 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:14:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-21T20:15:19Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T20:13:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-21T20:15:47Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:14:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:15:47Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:14:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:15:48Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:14:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:15:48Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T17:14:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-21T20:15:48Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
