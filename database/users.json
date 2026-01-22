@@ -8,10 +8,10 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 82,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T01:01:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-22T01:12:59Z",
+    "cycle": 3
   },
   {
     "name": "Bansos",
@@ -64,24 +64,24 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
-    "lastStock": 1,
-    "lastUpdate": "2026-01-21T22:05:45Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-22T01:12:59Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-21T22:12:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-22T01:12:59Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 63,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T01:01:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-22T01:12:59Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
