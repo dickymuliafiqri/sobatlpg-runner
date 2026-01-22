@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T09:15:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-22T09:15:38Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -619,7 +619,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-22T09:11:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-22T09:15:38Z",
+    "cycle": 2
   }
 ]
