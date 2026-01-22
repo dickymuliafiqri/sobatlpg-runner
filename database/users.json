@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 89,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T00:11:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-22T00:17:26Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -582,10 +582,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 54,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T00:11:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-22T00:17:26Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 130,
+    "stock": 123,
     "lastStock": 39,
-    "lastUpdate": "2026-01-22T00:11:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-22T00:17:26Z",
+    "cycle": 5
   }
 ]
