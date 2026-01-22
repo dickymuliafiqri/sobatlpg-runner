@@ -190,10 +190,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T19:43:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-22T19:44:30Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T19:43:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-22T19:44:30Z",
+    "cycle": 4
   },
   {
     "name": "LUKMAN BS",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T19:43:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-22T19:44:30Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -260,10 +260,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T19:43:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-22T19:44:30Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -274,10 +274,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T17:39:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-22T19:45:00Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -290,15 +290,15 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T17:39:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-22T19:45:01Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T17:40:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-22T19:45:01Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -339,8 +339,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T17:41:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-22T19:45:01Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
