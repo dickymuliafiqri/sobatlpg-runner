@@ -143,15 +143,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T00:37:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-23T00:42:31Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T00:37:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-23T00:42:31Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 45,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T00:37:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-23T00:42:31Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T00:37:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T00:42:31Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -381,8 +381,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T20:42:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T00:42:34Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -409,8 +409,8 @@
     "name": "Bansos",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T20:43:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T00:42:35Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -423,15 +423,15 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T20:50:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T00:42:36Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T21:09:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T00:42:36Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -451,8 +451,8 @@
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-22T20:50:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T00:43:07Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
