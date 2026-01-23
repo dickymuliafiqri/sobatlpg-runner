@@ -18,7 +18,7 @@
     "stock": 38,
     "lastStock": 39,
     "lastUpdate": "2026-01-23T12:51:22Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -32,7 +32,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:45:28Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -109,14 +109,14 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-01-23T12:51:22Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:51:22Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T13:00:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-23T13:01:44Z",
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:51:22Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:51:24Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -284,7 +284,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:45:31Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -319,7 +319,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:51:24Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
@@ -361,7 +361,7 @@
     "stock": 41,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:51:25Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MOH HAFIF",
@@ -389,7 +389,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:35:32Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
@@ -529,7 +529,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:39:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
@@ -557,7 +557,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:55:23Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -571,7 +571,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T12:51:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -620,6 +620,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-23T13:00:32Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
