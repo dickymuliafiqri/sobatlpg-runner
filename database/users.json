@@ -115,36 +115,36 @@
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T18:19:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-23T18:20:04Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T18:19:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T18:20:04Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T18:19:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T18:20:04Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T18:19:14Z",
+    "lastUpdate": "2026-01-23T18:20:08Z",
+    "cycle": 5
+  },
+  {
+    "name": "Bansos",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-23T18:20:09Z",
     "cycle": 4
-  },
-  {
-    "name": "Bansos",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-23T14:32:19Z",
-    "cycle": 3
   },
   {
     "name": "SUPARMAN",
