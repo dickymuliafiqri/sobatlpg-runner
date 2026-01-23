@@ -400,10 +400,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 10,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T02:56:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-23T03:01:49Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -442,10 +442,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 9,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T02:56:55Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-23T03:01:49Z",
+    "cycle": 3
   },
   {
     "name": "IMA",
