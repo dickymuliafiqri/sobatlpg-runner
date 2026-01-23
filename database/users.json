@@ -505,17 +505,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 17,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T05:28:12Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-23T05:35:07Z",
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
-    "stock": 61,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T05:28:12Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-23T05:35:07Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -554,31 +554,31 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 71,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T05:28:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T05:35:07Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T05:28:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T05:35:07Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T01:07:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T05:35:41Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T01:12:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T05:36:15Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
