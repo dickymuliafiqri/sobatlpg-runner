@@ -603,23 +603,23 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T12:26:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-23T12:28:23Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T12:26:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-23T12:28:23Z",
+    "cycle": 4
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-23T12:27:12Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-23T12:28:23Z",
+    "cycle": 5
   }
 ]
