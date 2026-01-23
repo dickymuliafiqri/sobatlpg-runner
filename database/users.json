@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T10:21:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T10:26:43Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T10:21:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T10:26:43Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -554,10 +554,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 29,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T10:21:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-23T10:26:43Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -617,9 +617,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-23T10:21:10Z",
-    "cycle": 1
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-23T10:26:43Z",
+    "cycle": 2
   }
 ]
