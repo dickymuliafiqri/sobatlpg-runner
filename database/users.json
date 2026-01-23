@@ -17,8 +17,8 @@
     "name": "Bansos",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-23T11:07:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:49Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:07:52Z",
-    "cycle": 0
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-23T12:30:49Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:07:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:49Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,15 +136,15 @@
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:07:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:49Z",
+    "cycle": 1
   },
   {
     "name": "Bansos",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:07:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:51Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -281,10 +281,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 2,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:46:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:51Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -316,10 +316,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 25,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:46:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:52Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -360,8 +360,8 @@
     "name": "Bansos",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:18:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:52Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -388,8 +388,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T12:07:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-23T12:30:53Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
