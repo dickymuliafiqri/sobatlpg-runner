@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T08:32:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T11:36:10Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -185,8 +185,8 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T08:32:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T11:36:10Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -199,22 +199,22 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T08:32:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T11:36:10Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T08:33:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T11:36:10Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T08:33:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T11:36:46Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 190,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T11:31:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T11:36:47Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T11:31:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T11:36:48Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T11:31:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T11:37:18Z",
+    "cycle": 4
   }
 ]
