@@ -372,10 +372,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T17:44:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T20:44:38Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T17:44:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T20:44:38Z",
+    "cycle": 4
   },
   {
     "name": "ROSIDI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T20:27:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T20:44:38Z",
+    "cycle": 3
   }
 ]
