@@ -225,10 +225,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:22:39Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T15:27:10Z",
+    "cycle": 5
   },
   {
     "name": "SRI HIDAYATI",
@@ -276,8 +276,8 @@
     "name": "MOH HAFIF",
     "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:22:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T15:27:10Z",
+    "cycle": 4
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -302,10 +302,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:23:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T15:27:10Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "IMA",
-    "stock": 18,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:23:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T15:27:10Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -367,8 +367,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:23:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T15:27:41Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 141,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:23:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T15:28:51Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -444,7 +444,7 @@
     "name": "ABDUL WAFI",
     "stock": 173,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:10:17Z",
+    "lastUpdate": "2026-01-24T15:30:03Z",
     "cycle": 1
   },
   {
@@ -470,17 +470,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 60,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:10:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T15:30:16Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
     "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:10:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T15:30:46Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
