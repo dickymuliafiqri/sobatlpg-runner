@@ -351,10 +351,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T19:16:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T22:20:17Z",
+    "cycle": 5
   },
   {
     "name": "SALMAH",
@@ -381,8 +381,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T22:15:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T22:20:17Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 274,
+    "stock": 268,
     "lastStock": 39,
-    "lastUpdate": "2026-01-24T22:15:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T22:20:17Z",
+    "cycle": 1
   }
 ]
