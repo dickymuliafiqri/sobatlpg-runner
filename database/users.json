@@ -241,8 +241,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:49:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:53:52Z",
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
@@ -442,9 +442,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 151,
+    "stock": 150,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:49:17Z",
+    "lastUpdate": "2026-01-24T18:53:52Z",
     "cycle": 1
   },
   {
@@ -493,8 +493,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:50:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T18:53:52Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:49:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T18:53:52Z",
+    "cycle": 2
   }
 ]
