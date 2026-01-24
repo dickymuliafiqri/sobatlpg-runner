@@ -115,8 +115,8 @@
     "name": "SUPARMAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T17:27:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T17:34:11Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 155,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T17:27:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T17:34:11Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 330,
     "lastStock": 39,
-    "lastUpdate": "2026-01-24T17:27:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T17:34:11Z",
+    "cycle": 1
   }
 ]
