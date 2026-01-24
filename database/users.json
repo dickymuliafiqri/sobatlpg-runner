@@ -290,15 +290,15 @@
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:59:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T21:59:55Z",
+    "cycle": 4
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:59:41Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T21:59:55Z",
+    "cycle": 5
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-24T21:59:10Z",
-    "cycle": 1
+    "stock": 286,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-24T21:59:55Z",
+    "cycle": 2
   }
 ]
