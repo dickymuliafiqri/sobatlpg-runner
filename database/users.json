@@ -262,8 +262,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:54:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T15:59:31Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -295,10 +295,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:54:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T15:59:31Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -309,31 +309,31 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T12:54:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T15:59:31Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T12:54:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T15:59:31Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T12:54:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T16:00:04Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:54:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T16:00:04Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
@@ -444,7 +444,7 @@
     "name": "ABDUL WAFI",
     "stock": 173,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:55:03Z",
+    "lastUpdate": "2026-01-24T16:00:07Z",
     "cycle": 1
   },
   {
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 349,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-24T15:55:03Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-24T16:00:36Z",
     "cycle": 1
   }
 ]
