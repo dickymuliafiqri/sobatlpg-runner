@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T16:52:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T16:56:43Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 341,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-24T16:52:08Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-24T16:56:43Z",
     "cycle": 1
   }
 ]
