@@ -484,10 +484,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:41:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T21:41:15Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 289,
     "lastStock": 39,
-    "lastUpdate": "2026-01-24T21:28:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T21:41:15Z",
+    "cycle": 1
   }
 ]
