@@ -141,10 +141,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T11:00:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T11:03:09Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -400,9 +400,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 199,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T11:00:45Z",
+    "lastUpdate": "2026-01-24T11:03:09Z",
     "cycle": 1
   },
   {
@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T11:00:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T11:03:09Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 349,
     "lastStock": 39,
-    "lastUpdate": "2026-01-24T11:01:16Z",
+    "lastUpdate": "2026-01-24T11:03:09Z",
     "cycle": 1
   }
 ]
