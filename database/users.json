@@ -288,17 +288,17 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:58:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:59:41Z",
+    "cycle": 3
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:59:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T18:59:41Z",
+    "cycle": 4
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -316,10 +316,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:59:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T18:59:41Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 148,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:58:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:59:41Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:58:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T19:00:11Z",
+    "cycle": 4
   }
 ]
