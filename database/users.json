@@ -157,8 +157,8 @@
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T17:59:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T18:02:42Z",
+    "cycle": 4
   },
   {
     "name": "LUKMAN BS",
@@ -197,10 +197,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T14:59:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T18:02:42Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 154,
+    "stock": 153,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T17:59:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T18:02:42Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-24T17:59:01Z",
-    "cycle": 2
+    "stock": 329,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-24T18:02:42Z",
+    "cycle": 3
   }
 ]
