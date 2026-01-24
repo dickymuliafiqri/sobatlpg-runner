@@ -248,8 +248,8 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T08:32:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T08:34:18Z",
+    "cycle": 2
   },
   {
     "name": "Bansos",
@@ -290,8 +290,8 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T08:33:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T08:34:18Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T03:01:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T08:34:18Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
