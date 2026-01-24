@@ -99,10 +99,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 60,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T01:23:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T01:25:01Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
@@ -486,22 +486,22 @@
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T01:23:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T01:25:01Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T01:07:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T01:25:01Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T01:07:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T01:25:01Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
