@@ -458,15 +458,15 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:14:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T21:18:40Z",
+    "cycle": 4
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:14:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T21:18:40Z",
+    "cycle": 3
   },
   {
     "name": "TK. MAJU",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 294,
+    "stock": 290,
     "lastStock": 39,
-    "lastUpdate": "2026-01-24T21:13:33Z",
+    "lastUpdate": "2026-01-24T21:18:40Z",
     "cycle": 1
   }
 ]
