@@ -155,38 +155,38 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:02:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T18:07:43Z",
+    "cycle": 5
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:06:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T18:07:43Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:04:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:07:43Z",
+    "cycle": 3
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:06:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T18:07:43Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:04:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:08:10Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -197,17 +197,17 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:02:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:08:11Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:05:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:08:36Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -218,10 +218,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:07:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:08:38Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
@@ -246,10 +246,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T15:07:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T18:08:53Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
