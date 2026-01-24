@@ -365,17 +365,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T10:05:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T10:13:47Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T10:05:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-24T10:13:47Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 207,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T10:05:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T10:13:47Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -414,17 +414,17 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T10:06:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T10:13:47Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T10:06:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T10:14:18Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
@@ -442,31 +442,31 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 185,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T10:07:24Z",
+    "lastUpdate": "2026-01-24T10:14:48Z",
     "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T03:18:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T10:14:58Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T03:18:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T10:14:58Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T03:18:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T10:15:27Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
