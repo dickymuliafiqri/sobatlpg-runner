@@ -185,8 +185,8 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:08:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T21:08:19Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -199,8 +199,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T18:08:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T21:08:19Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-24T21:00:11Z",
-    "cycle": 1
+    "stock": 299,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-24T21:08:19Z",
+    "cycle": 2
   }
 ]
