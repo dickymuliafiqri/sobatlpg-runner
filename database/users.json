@@ -367,8 +367,8 @@
     "name": "MOH HAFIF",
     "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T00:33:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T00:49:12Z",
+    "cycle": 4
   },
   {
     "name": "Bansos",
@@ -416,8 +416,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T00:01:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T00:49:12Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -442,17 +442,17 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T21:28:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T00:50:38Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
     "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T23:46:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T00:50:39Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -472,15 +472,15 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:47:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T00:51:08Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-23T11:52:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-24T00:51:39Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
