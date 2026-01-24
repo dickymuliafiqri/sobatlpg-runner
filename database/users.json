@@ -302,10 +302,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 50,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T09:53:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T09:56:33Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -339,22 +339,22 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T09:54:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-24T09:56:33Z",
+    "cycle": 3
   },
   {
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T09:54:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T09:56:33Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T09:54:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-24T09:56:33Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
