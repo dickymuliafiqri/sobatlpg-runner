@@ -136,8 +136,8 @@
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T20:51:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-24T20:52:22Z",
+    "cycle": 4
   },
   {
     "name": "JONI H",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-24T20:51:41Z",
-    "cycle": 1
+    "stock": 306,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-24T20:52:22Z",
+    "cycle": 2
   }
 ]
