@@ -435,10 +435,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:20:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T08:24:42Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 199,
+    "stock": 193,
     "lastStock": 39,
-    "lastUpdate": "2026-01-25T08:19:52Z",
+    "lastUpdate": "2026-01-25T08:24:42Z",
     "cycle": 1
   }
 ]
