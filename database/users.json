@@ -358,10 +358,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T22:10:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T01:10:23Z",
+    "cycle": 4
   },
   {
     "name": "TOKO ANITA",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 251,
+    "stock": 249,
     "lastStock": 39,
-    "lastUpdate": "2026-01-25T01:00:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T01:10:23Z",
+    "cycle": 1
   }
 ]
