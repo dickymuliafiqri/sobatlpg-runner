@@ -339,8 +339,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T10:26:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T10:27:49Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -479,15 +479,15 @@
     "name": "H. JUMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T10:26:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-25T10:27:49Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T10:26:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-25T10:27:49Z",
+    "cycle": 5
   },
   {
     "name": "CAHYA HERAWATI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T10:26:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-25T10:27:49Z",
+    "cycle": 5
   }
 ]
