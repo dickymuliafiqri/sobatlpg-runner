@@ -276,8 +276,8 @@
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:16:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T07:21:48Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -337,10 +337,10 @@
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:16:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T07:21:48Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 14,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:26:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:21:48Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -400,17 +400,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 135,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:26:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:21:48Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:32:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:22:57Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:39:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:22:58Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -470,17 +470,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 42,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:50:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:23:15Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
-    "stock": 37,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:50:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:24:07Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 217,
+    "stock": 216,
     "lastStock": 39,
-    "lastUpdate": "2026-01-25T05:59:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:26:44Z",
+    "cycle": 1
   }
 ]
