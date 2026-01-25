@@ -337,10 +337,10 @@
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:12:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-25T05:18:55Z",
+    "cycle": 5
   },
   {
     "name": "DARMAWAN P",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 21,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:12:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T05:18:55Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
@@ -400,52 +400,52 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 136,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:13:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T05:18:55Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
-    "stock": 58,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:13:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T05:18:55Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:13:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T05:19:23Z",
+    "cycle": 3
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:14:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T05:19:51Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T05:15:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T05:20:19Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T16:22:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T05:20:45Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 144,
+    "stock": 138,
     "lastStock": 0,
-    "lastUpdate": "2026-01-24T19:10:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T05:21:14Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
