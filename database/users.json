@@ -71,17 +71,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 81,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T18:42:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T18:51:52Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
     "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T18:42:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T18:51:52Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -92,17 +92,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 27,
+    "stock": 26,
     "lastStock": 3,
-    "lastUpdate": "2026-01-25T18:44:14Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T18:51:52Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T18:46:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T18:51:52Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -274,10 +274,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 32,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T18:46:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T18:55:25Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -400,17 +400,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 111,
+    "stock": 110,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T18:47:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T18:56:32Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 16,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T17:13:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T18:56:32Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 112,
+    "stock": 111,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T17:17:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T18:56:47Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 12,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T17:29:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T18:58:01Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
