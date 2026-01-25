@@ -1,17 +1,17 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 67,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:22:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T20:35:42Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:22:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T20:35:42Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 86,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:22:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T20:35:42Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 56,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:22:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T20:35:42Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 24,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:26:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T20:39:31Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,31 +57,31 @@
   },
   {
     "name": "JAENAL",
-    "stock": 54,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:26:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T20:39:59Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 10,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:27:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T20:40:10Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 72,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:27:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T20:40:35Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 36,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:30:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T20:43:46Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
