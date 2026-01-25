@@ -71,17 +71,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 80,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T19:03:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-25T19:12:04Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 46,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T19:03:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T19:12:04Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -92,17 +92,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 19,
+    "stock": 13,
     "lastStock": 3,
-    "lastUpdate": "2026-01-25T19:03:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T19:12:04Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 34,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T19:03:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T19:12:04Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -129,15 +129,15 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T16:13:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T19:16:22Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T16:14:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T19:16:27Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -274,10 +274,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 30,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T19:07:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T19:16:34Z",
+    "cycle": 4
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -402,15 +402,15 @@
     "name": "TOKO POJOK",
     "stock": 110,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T19:07:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T19:16:37Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
-    "stock": 13,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T19:07:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T19:16:48Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
