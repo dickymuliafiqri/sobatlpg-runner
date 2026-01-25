@@ -276,8 +276,8 @@
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:39:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:17Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -367,8 +367,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:41:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:17Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -402,15 +402,15 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:42:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:17Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 42,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:46:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:17Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 128,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:53:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:45Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -458,8 +458,8 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T08:48:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:45Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -470,24 +470,24 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 35,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T08:04:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:47Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
-    "stock": 21,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T08:04:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:09:48Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T08:49:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T09:10:13Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
