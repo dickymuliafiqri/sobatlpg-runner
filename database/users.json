@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 54,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:58:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:05:35Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 74,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:58:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:05:35Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:58:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:05:35Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
     "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:48:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:05:35Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -59,8 +59,8 @@
     "name": "JAENAL",
     "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:52:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:08:21Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,17 +71,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 62,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:52:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:08:33Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 24,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T20:53:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:08:58Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -94,15 +94,15 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-25T21:18:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:08:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 8,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T21:18:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T22:09:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
