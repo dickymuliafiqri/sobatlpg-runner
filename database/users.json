@@ -206,8 +206,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:42:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T07:43:23Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -220,8 +220,8 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:42:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T07:43:23Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
@@ -234,8 +234,8 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:42:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T07:43:23Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -407,10 +407,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 49,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:34:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T07:43:23Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
