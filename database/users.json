@@ -113,10 +113,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:30:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T07:33:28Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:30:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T07:33:28Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -162,10 +162,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T04:32:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-25T07:33:28Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -274,10 +274,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 39,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:30:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-25T07:33:28Z",
+    "cycle": 4
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:31:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T07:33:55Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -402,15 +402,15 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:31:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-25T07:33:56Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
-    "stock": 52,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:22:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T07:34:38Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T07:22:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-25T07:35:04Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
