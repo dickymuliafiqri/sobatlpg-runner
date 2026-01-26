@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-26T18:39:31Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T18:41:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-26T18:41:49Z",
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
@@ -428,10 +428,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T18:41:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T18:41:49Z",
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -508,6 +508,6 @@
     "stock": 38,
     "lastStock": 39,
     "lastUpdate": "2026-01-26T18:39:31Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
