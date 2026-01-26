@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T11:27:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T14:27:45Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -374,22 +374,22 @@
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T14:26:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-26T14:27:45Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T14:26:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-26T14:27:45Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T14:26:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-26T14:27:45Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
