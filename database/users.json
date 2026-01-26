@@ -402,29 +402,29 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T14:30:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T14:31:03Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T14:30:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-26T14:31:03Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T14:30:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-26T14:31:03Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T11:06:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T14:31:03Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
