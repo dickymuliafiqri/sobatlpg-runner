@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-26T22:11:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T22:11:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T22:11:57Z",
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
@@ -508,6 +508,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-26T22:11:26Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
