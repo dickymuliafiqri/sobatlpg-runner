@@ -302,31 +302,31 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T20:26:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T20:27:22Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T20:26:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T20:27:22Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T20:26:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T20:27:22Z",
+    "cycle": 4
   },
   {
     "name": "SUSILO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T20:26:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T20:27:22Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-26T20:18:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-26T20:27:54Z",
+    "cycle": 2
   }
 ]
