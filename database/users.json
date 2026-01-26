@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-26T23:05:59Z",
-    "cycle": 4
+    "stock": 82,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-26T23:06:51Z",
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-26T23:05:59Z",
-    "cycle": 4
+    "stock": 131,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-26T23:06:51Z",
+    "cycle": 0
   }
 ]
