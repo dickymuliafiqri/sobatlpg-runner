@@ -52,7 +52,7 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-01-26T14:09:06Z",
+    "lastUpdate": "2026-01-26T17:09:39Z",
     "cycle": 0
   },
   {
@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-01-26T17:08:41Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-26T17:09:39Z",
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-26T17:06:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -179,14 +179,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-26T17:08:41Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-26T17:08:41Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-26T17:08:41Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-26T17:09:39Z",
+    "cycle": 0
   }
 ]
