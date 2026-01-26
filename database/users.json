@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 24,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T15:45:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T15:55:32Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 11,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T15:45:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T15:55:32Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 8,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T15:45:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T15:55:32Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 22,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T15:45:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T15:55:32Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-26T15:49:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T15:59:31Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 15,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T15:49:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T15:59:53Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T15:49:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T15:59:58Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -458,15 +458,15 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T12:53:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T16:00:18Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T12:41:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T16:00:51Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
