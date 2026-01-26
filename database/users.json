@@ -78,38 +78,38 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 99,
+    "stock": 95,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T03:47:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-26T03:56:28Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
     "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T03:47:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-26T03:56:28Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 63,
+    "stock": 56,
     "lastStock": 3,
-    "lastUpdate": "2026-01-26T03:47:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-26T03:56:28Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 24,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T03:47:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-26T03:56:28Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 34,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T03:51:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-26T03:58:30Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -169,10 +169,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 17,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T03:52:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-26T03:58:31Z",
+    "cycle": 5
   },
   {
     "name": "JAMILAH",
@@ -267,24 +267,24 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T02:04:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T04:01:02Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 3,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T23:08:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T04:01:40Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T02:04:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T04:01:41Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
