@@ -66,8 +66,8 @@
     "name": "JOKO SUWARNO",
     "stock": 74,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T23:58:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T00:03:48Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
@@ -395,14 +395,14 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T21:03:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T00:03:48Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 181,
+    "stock": 180,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T23:58:17Z",
+    "lastUpdate": "2026-01-26T00:03:48Z",
     "cycle": 1
   },
   {
@@ -442,9 +442,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 175,
+    "stock": 173,
     "lastStock": 0,
-    "lastUpdate": "2026-01-25T23:58:17Z",
+    "lastUpdate": "2026-01-26T00:03:48Z",
     "cycle": 1
   },
   {
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 176,
+    "stock": 174,
     "lastStock": 39,
-    "lastUpdate": "2026-01-25T23:58:17Z",
+    "lastUpdate": "2026-01-26T00:04:19Z",
     "cycle": 1
   }
 ]
