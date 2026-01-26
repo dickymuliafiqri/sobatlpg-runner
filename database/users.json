@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 65,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T11:17:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T11:23:08Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -456,10 +456,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T11:17:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-26T11:23:08Z",
+    "cycle": 4
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 88,
+    "stock": 85,
     "lastStock": 39,
-    "lastUpdate": "2026-01-26T11:17:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T11:23:08Z",
+    "cycle": 3
   }
 ]
