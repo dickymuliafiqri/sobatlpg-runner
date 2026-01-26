@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T15:16:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-26T18:16:59Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-26T18:16:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T18:16:59Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-26T18:16:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-26T18:16:59Z",
+    "cycle": 3
   }
 ]
