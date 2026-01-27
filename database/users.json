@@ -25,7 +25,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T15:14:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -39,7 +39,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T15:14:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T15:17:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -225,10 +225,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T15:17:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T15:18:15Z",
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
@@ -508,6 +508,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T15:17:39Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
