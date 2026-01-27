@@ -78,10 +78,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 13,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T09:16:50Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T09:23:24Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-27T09:16:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T09:23:24Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T09:16:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T09:23:24Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T09:17:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T09:23:24Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 3,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T07:54:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T09:23:54Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 47,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T08:11:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T09:24:01Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
