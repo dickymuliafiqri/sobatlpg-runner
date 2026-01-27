@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-27T17:06:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T17:07:36Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -479,8 +479,8 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T14:06:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T17:07:36Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -493,8 +493,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T14:06:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T17:07:36Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-27T17:06:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T17:07:36Z",
+    "cycle": 2
   }
 ]
