@@ -402,8 +402,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T10:51:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T10:52:12Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -416,22 +416,22 @@
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T10:51:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T10:52:12Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T10:51:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T10:52:12Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T07:46:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T10:52:12Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
