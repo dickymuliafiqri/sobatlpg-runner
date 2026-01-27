@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T18:00:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T18:01:04Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-27T18:00:17Z",
-    "cycle": 2
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-27T18:01:04Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -260,10 +260,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T18:00:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T18:01:04Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -414,10 +414,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T18:00:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T18:01:04Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
