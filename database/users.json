@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 93,
+    "stock": 92,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T01:40:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T01:50:22Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 90,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T01:40:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T01:50:22Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 77,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T01:40:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T01:50:22Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 88,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T01:40:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T01:50:22Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 94,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T22:45:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T01:54:17Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 77,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T22:49:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T01:56:15Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -157,8 +157,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-26T22:52:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T01:56:20Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 89,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T01:45:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T01:56:28Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
