@@ -428,10 +428,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T20:00:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T23:00:48Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T22:59:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T23:00:48Z",
+    "cycle": 4
   }
 ]
