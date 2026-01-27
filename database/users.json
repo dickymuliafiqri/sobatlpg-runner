@@ -85,17 +85,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T12:50:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T12:50:49Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-27T12:50:07Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-27T12:50:49Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -183,10 +183,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T12:50:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T12:50:49Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-27T12:50:07Z",
-    "cycle": 3
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-27T12:50:49Z",
+    "cycle": 4
   }
 ]
