@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T22:32:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T22:33:36Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T22:32:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T22:33:36Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T22:32:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T22:33:36Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-27T22:32:55Z",
-    "cycle": 3
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-27T22:33:36Z",
+    "cycle": 4
   }
 ]
