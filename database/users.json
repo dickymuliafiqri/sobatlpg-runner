@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T15:29:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T15:29:50Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T12:29:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T15:29:50Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T15:29:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T15:29:50Z",
+    "cycle": 3
   }
 ]
