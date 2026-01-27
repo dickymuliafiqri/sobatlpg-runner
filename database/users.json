@@ -323,10 +323,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T07:41:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-27T07:47:52Z",
+    "cycle": 5
   },
   {
     "name": "HJ. HAERONI",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T07:41:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-27T07:47:52Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
@@ -388,8 +388,8 @@
     "name": "SOEKAMTO",
     "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T07:41:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T07:47:52Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 62,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T07:42:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-27T07:47:52Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -437,36 +437,36 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T04:38:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T07:49:35Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 55,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T04:57:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T07:49:57Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T04:38:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T07:50:02Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T04:38:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T07:50:33Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T04:39:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-27T07:51:01Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
