@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T23:06:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -452,14 +452,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T23:04:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T23:04:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -484,10 +484,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T23:07:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-27T23:07:47Z",
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -508,6 +508,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T23:06:12Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
