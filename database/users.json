@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T17:05:25Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -463,10 +463,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T17:05:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T17:06:12Z",
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -487,7 +487,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T17:05:25Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -508,6 +508,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T17:05:25Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
