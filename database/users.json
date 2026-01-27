@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-27T20:07:30Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-27T20:07:59Z",
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -463,10 +463,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T20:07:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-27T20:07:59Z",
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -479,7 +479,7 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T17:07:36Z",
+    "lastUpdate": "2026-01-27T20:07:59Z",
     "cycle": 0
   },
   {
@@ -487,13 +487,13 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-27T20:05:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-27T17:07:36Z",
+    "lastUpdate": "2026-01-27T20:07:59Z",
     "cycle": 0
   },
   {
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-27T20:07:30Z",
-    "cycle": 4
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-27T20:08:28Z",
+    "cycle": 0
   }
 ]
