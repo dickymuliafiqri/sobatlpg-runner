@@ -241,8 +241,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:48:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-28T11:49:06Z",
+    "cycle": 5
   },
   {
     "name": "YUSUF ISMAIL",
@@ -255,8 +255,8 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:48:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-28T11:49:06Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
@@ -269,15 +269,15 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:48:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-28T11:49:06Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:48:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T11:49:06Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
