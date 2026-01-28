@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:55:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-28T13:55:41Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -421,10 +421,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T10:55:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T13:55:41Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T10:55:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T13:55:41Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:55:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-28T13:55:41Z",
+    "cycle": 4
   }
 ]
