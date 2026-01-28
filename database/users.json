@@ -94,22 +94,22 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-28T08:25:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-28T08:30:18Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 11,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:25:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-28T08:30:18Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 26,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:25:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-28T08:30:18Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -190,17 +190,17 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:26:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T08:30:18Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T05:24:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T08:30:48Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T05:27:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T08:30:52Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
