@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T14:34:37Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -155,10 +155,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T14:34:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-28T14:35:08Z",
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -508,6 +508,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T14:34:37Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
