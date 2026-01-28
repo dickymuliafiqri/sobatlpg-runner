@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:26:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T16:27:18Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-01-28T16:26:35Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-28T16:27:18Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -108,8 +108,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:26:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T16:27:18Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-28T16:26:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T16:27:18Z",
+    "cycle": 2
   }
 ]
