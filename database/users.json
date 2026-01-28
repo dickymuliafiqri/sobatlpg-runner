@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 16,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:52:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T11:57:07Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-28T11:52:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T11:57:07Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -379,10 +379,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 1,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:53:14Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T11:57:07Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:52:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T11:57:07Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -472,8 +472,8 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:57:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T11:57:35Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:52:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T11:58:07Z",
+    "cycle": 1
   }
 ]
