@@ -11,7 +11,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T12:09:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -32,7 +32,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T12:03:31Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -53,7 +53,7 @@
     "stock": 0,
     "lastStock": 1,
     "lastUpdate": "2026-01-28T11:52:43Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T12:10:37Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -179,7 +179,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T12:09:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
@@ -221,7 +221,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T11:52:43Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
@@ -242,7 +242,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T11:53:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
@@ -298,7 +298,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T12:09:11Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -312,7 +312,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T12:09:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
@@ -382,7 +382,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T12:10:37Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
@@ -402,8 +402,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T12:10:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-28T12:11:19Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -473,7 +473,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-28T11:57:35Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T12:10:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-28T12:11:19Z",
+    "cycle": 0
   }
 ]
