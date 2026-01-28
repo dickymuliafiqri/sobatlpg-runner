@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:36:57Z",
-    "cycle": 0
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-28T21:39:53Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -339,22 +339,22 @@
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T18:39:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T21:39:53Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T18:39:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T21:39:53Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T18:39:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T21:39:53Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
