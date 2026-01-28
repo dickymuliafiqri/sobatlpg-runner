@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:13:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T11:19:07Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,17 +43,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 19,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T11:13:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T11:19:07Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 12,
+    "stock": 11,
     "lastStock": 1,
-    "lastUpdate": "2026-01-28T11:13:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T11:19:07Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-28T11:13:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T11:19:07Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -379,10 +379,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 26,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T10:55:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T11:19:33Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 10,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T10:55:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T11:22:32Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 38,
     "lastStock": 39,
-    "lastUpdate": "2026-01-28T11:12:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T11:22:55Z",
+    "cycle": 1
   }
 ]
