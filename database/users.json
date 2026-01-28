@@ -234,8 +234,8 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:30:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-28T13:31:19Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -388,15 +388,15 @@
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:30:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-28T13:31:19Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:30:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T13:31:19Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T13:30:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-28T13:31:19Z",
+    "cycle": 5
   }
 ]
