@@ -94,22 +94,22 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-28T08:21:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-28T08:25:37Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 17,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:21:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T08:25:37Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
-    "stock": 27,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:21:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T08:25:37Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -157,8 +157,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T05:24:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T08:25:37Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -183,17 +183,17 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T08:21:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T08:26:05Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T05:19:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-28T08:26:12Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
