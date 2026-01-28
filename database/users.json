@@ -197,17 +197,17 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:53:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-28T20:54:31Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:53:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-28T20:54:31Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -407,17 +407,17 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:53:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-28T20:54:31Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:33:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-28T20:55:02Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:33:36Z",
-    "cycle": 1
+    "stock": 38,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-28T20:55:02Z",
+    "cycle": 2
   }
 ]
