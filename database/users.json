@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 49,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T00:32:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T00:41:49Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -22,17 +22,17 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:36:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:41:49Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 94,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T00:32:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T00:41:49Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -50,10 +50,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 70,
+    "stock": 69,
     "lastStock": 1,
-    "lastUpdate": "2026-01-29T00:32:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T00:41:49Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -99,10 +99,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 43,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T00:37:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-29T00:44:36Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -262,22 +262,22 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:46:29Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:36:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:46:35Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:33:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:46:56Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
