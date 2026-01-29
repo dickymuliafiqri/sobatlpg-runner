@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 85,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T04:50:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-29T04:55:02Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -456,31 +456,31 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T04:50:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T04:55:02Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T04:50:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T04:55:02Z",
+    "cycle": 3
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:33:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T04:55:36Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:30:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T04:55:37Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
