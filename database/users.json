@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-01-29T20:38:11Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-29T20:39:32Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -129,22 +129,22 @@
     "name": "ERNA PUJIATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:38:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T20:39:32Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:38:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T20:39:32Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:38:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T20:39:32Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
