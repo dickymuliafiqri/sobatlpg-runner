@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:27:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:32:37Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 96,
+    "stock": 94,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T00:17:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T00:32:37Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,17 +43,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 81,
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T00:17:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-29T00:32:37Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 74,
+    "stock": 70,
     "lastStock": 1,
-    "lastUpdate": "2026-01-29T00:17:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T00:32:37Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -99,10 +99,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 51,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T00:01:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-29T00:37:03Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -178,8 +178,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:27:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:37:36Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -241,22 +241,22 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:10:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:38:03Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:27:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:38:16Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:27:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:38:31Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
