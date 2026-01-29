@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 89,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T00:41:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-29T01:02:18Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -281,10 +281,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:30:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T01:07:35Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
@@ -374,15 +374,15 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:33:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T01:12:27Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T21:42:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T01:13:08Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
