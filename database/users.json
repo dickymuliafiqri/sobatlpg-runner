@@ -127,45 +127,45 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:40:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-29T20:40:50Z",
+    "cycle": 4
   },
   {
     "name": "P. SUK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:40:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T20:40:50Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:40:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T20:40:50Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:40:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T20:40:50Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:38:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T20:41:19Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:39:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T20:41:21Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:38:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T20:41:22Z",
+    "cycle": 2
   }
 ]
