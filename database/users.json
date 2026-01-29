@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T18:24:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T18:34:12Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 16,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T18:24:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T18:34:12Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 16,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T18:24:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T18:34:12Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 4,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T18:24:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T18:34:12Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 9,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T18:29:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T18:37:02Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-01-29T18:29:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T18:37:21Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -190,17 +190,17 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:41:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T18:37:44Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:41:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T18:38:15Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -316,10 +316,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T13:42:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T18:38:20Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
