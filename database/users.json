@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T23:54:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T00:01:51Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -99,10 +99,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 53,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T23:54:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T00:01:51Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -183,24 +183,24 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T23:55:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T00:01:51Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:52:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:02:20Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-28T20:54:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T00:02:47Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
