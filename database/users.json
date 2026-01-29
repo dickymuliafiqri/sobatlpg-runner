@@ -232,45 +232,45 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:45:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-29T20:46:11Z",
+    "cycle": 4
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:45:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T20:46:11Z",
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:45:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T20:46:11Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:45:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-29T20:46:11Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:44:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T20:46:40Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T17:45:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T20:46:40Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:43:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-29T20:46:41Z",
+    "cycle": 4
   }
 ]
