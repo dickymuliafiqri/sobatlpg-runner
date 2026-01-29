@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 55,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T23:36:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T23:43:24Z",
+    "cycle": 2
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -50,10 +50,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 74,
+    "stock": 72,
     "lastStock": 1,
-    "lastUpdate": "2026-01-29T23:36:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T23:43:24Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -64,10 +64,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 66,
+    "stock": 64,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T23:37:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-29T23:43:24Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -85,31 +85,31 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:38:11Z",
-    "cycle": 0
-  },
-  {
-    "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-29T23:37:17Z",
+    "lastUpdate": "2026-01-29T23:43:24Z",
     "cycle": 1
   },
   {
+    "name": "TITIK ISMIATIN",
+    "stock": 57,
+    "lastStock": 3,
+    "lastUpdate": "2026-01-29T23:46:35Z",
+    "cycle": 2
+  },
+  {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:38:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T23:46:57Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 77,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:38:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T23:47:09Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -122,15 +122,15 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:38:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T23:48:14Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T20:40:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-29T23:48:45Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
