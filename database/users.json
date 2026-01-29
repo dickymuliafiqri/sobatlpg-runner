@@ -32,14 +32,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-29T22:26:58Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-29T22:26:58Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -60,7 +60,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-29T22:26:58Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-29T22:28:44Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-29T22:29:18Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-29T22:30:02Z",
+    "cycle": 0
   }
 ]
