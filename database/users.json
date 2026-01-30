@@ -396,14 +396,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:36:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:36:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -417,14 +417,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:36:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:38:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T20:38:42Z",
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
@@ -508,6 +508,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:38:12Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
