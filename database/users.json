@@ -38,15 +38,15 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T14:58:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T15:07:05Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T14:58:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T15:07:05Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -59,8 +59,8 @@
     "name": "JAENAL",
     "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T14:58:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T15:07:05Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -220,8 +220,8 @@
     "name": "SUROSO",
     "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T14:58:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T15:07:05Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -248,8 +248,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T15:01:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T15:09:26Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -304,8 +304,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T12:05:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T15:09:47Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T15:02:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T15:09:54Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -500,14 +500,14 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:50:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T15:10:18Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 29,
     "lastStock": 39,
-    "lastUpdate": "2026-01-30T14:44:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T15:10:50Z",
+    "cycle": 1
   }
 ]
