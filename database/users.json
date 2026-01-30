@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T17:28:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T20:29:05Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 29,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-30T20:28:10Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-30T20:29:05Z",
+    "cycle": 5
   }
 ]
