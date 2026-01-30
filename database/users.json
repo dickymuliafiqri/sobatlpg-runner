@@ -32,7 +32,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T18:22:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -305,7 +305,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T18:22:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BUDI",
@@ -501,13 +501,13 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T18:22:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T18:25:39Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-30T18:26:08Z",
+    "cycle": 0
   }
 ]
