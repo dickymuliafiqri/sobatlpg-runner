@@ -36,17 +36,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:51:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T11:58:04Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 35,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:51:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T11:58:04Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,31 +57,31 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:51:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T11:58:04Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 1,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:51:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T11:58:04Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 10,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T10:40:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T12:01:34Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 17,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T10:40:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T12:02:35Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -220,8 +220,8 @@
     "name": "SUROSO",
     "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:02:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T12:03:05Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -246,10 +246,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 18,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:02:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T12:04:33Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -302,10 +302,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:21:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T12:05:58Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
