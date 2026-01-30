@@ -421,10 +421,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T17:36:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T20:37:17Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:36:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T20:37:17Z",
+    "cycle": 3
   }
 ]
