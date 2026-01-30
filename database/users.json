@@ -199,15 +199,15 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T16:47:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T19:47:21Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T16:47:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T19:47:21Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 29,
     "lastStock": 39,
-    "lastUpdate": "2026-01-30T19:46:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T19:47:21Z",
+    "cycle": 4
   }
 ]
