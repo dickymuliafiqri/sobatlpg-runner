@@ -134,31 +134,31 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T22:33:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T22:33:57Z",
+    "cycle": 4
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T22:33:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T22:33:57Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T22:33:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T22:33:57Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T22:33:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T22:33:57Z",
+    "cycle": 4
   },
   {
     "name": "LUKMAN BS",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 29,
     "lastStock": 39,
-    "lastUpdate": "2026-01-30T22:31:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T22:34:26Z",
+    "cycle": 3
   }
 ]
