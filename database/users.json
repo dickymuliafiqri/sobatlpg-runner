@@ -220,8 +220,8 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:07:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T23:07:26Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -234,8 +234,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:07:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T23:07:26Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 29,
+    "stock": 129,
     "lastStock": 39,
-    "lastUpdate": "2026-01-30T23:06:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T23:07:26Z",
+    "cycle": 1
   }
 ]
