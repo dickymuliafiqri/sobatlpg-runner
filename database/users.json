@@ -255,15 +255,15 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:07:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T20:08:18Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T17:07:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T20:08:18Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 29,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-30T20:07:21Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-30T20:08:18Z",
+    "cycle": 3
   }
 ]
