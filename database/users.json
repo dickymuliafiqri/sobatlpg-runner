@@ -381,15 +381,15 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T07:46:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T07:47:14Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T07:46:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T07:47:14Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-30T07:46:28Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-30T07:47:14Z",
+    "cycle": 4
   }
 ]
