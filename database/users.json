@@ -332,15 +332,15 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:23:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T20:24:15Z",
+    "cycle": 3
   },
   {
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:23:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T20:24:15Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:23:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T20:24:15Z",
+    "cycle": 4
   }
 ]
