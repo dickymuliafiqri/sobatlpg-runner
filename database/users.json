@@ -66,22 +66,22 @@
     "name": "JOKO SUWARNO",
     "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:20:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-30T08:27:19Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
     "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:20:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-30T08:27:19Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
     "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:21:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-30T08:27:19Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:21:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-30T08:27:19Z",
+    "cycle": 5
   },
   {
     "name": "ONG SWI GIOK",
@@ -248,8 +248,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:23:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T08:29:42Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
@@ -360,8 +360,8 @@
     "name": "SALMAH",
     "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T07:26:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:30:56Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T07:30:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:31:20Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -416,15 +416,15 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T04:53:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:31:33Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T04:53:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:31:50Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
