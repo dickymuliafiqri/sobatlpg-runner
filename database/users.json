@@ -38,15 +38,15 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T15:14:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T15:28:48Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 12,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T15:14:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T15:28:48Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 5,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T15:14:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T15:28:48Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -218,10 +218,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T15:14:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T15:28:48Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
