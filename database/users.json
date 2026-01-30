@@ -87,8 +87,8 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T17:22:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T20:22:55Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -325,15 +325,15 @@
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T17:22:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T20:22:55Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T17:22:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T20:22:55Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 29,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-30T20:22:16Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-30T20:22:55Z",
+    "cycle": 2
   }
 ]
