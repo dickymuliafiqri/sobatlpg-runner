@@ -246,10 +246,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 34,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:35:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T08:40:39Z",
+    "cycle": 4
   },
   {
     "name": "SUPARNI",
@@ -358,10 +358,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 5,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:35:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T08:40:39Z",
+    "cycle": 3
   },
   {
     "name": "TOKO ANITA",
@@ -395,8 +395,8 @@
     "name": "TOKO TIARA",
     "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:35:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T08:40:39Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
@@ -442,31 +442,31 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T08:37:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T08:40:39Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T05:03:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:43:54Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T05:03:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:44:09Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T05:04:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:44:41Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -479,15 +479,15 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T05:12:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:44:46Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T05:12:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T08:44:53Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
