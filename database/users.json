@@ -73,8 +73,8 @@
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T19:10:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T22:11:08Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 29,
     "lastStock": 39,
-    "lastUpdate": "2026-01-30T22:10:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T22:11:08Z",
+    "cycle": 3
   }
 ]
