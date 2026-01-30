@@ -452,21 +452,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:51:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:51:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:51:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:53:33Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-30T20:54:07Z",
+    "cycle": 0
   }
 ]
