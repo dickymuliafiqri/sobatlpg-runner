@@ -221,7 +221,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:07:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
@@ -235,7 +235,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-01-30T20:07:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -253,17 +253,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:08:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T20:09:25Z",
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:08:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T20:09:25Z",
+    "cycle": 0
   },
   {
     "name": "ARIF FAUZI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:08:51Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 39,
+    "lastUpdate": "2026-01-30T20:09:25Z",
+    "cycle": 0
   }
 ]
