@@ -85,10 +85,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 58,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T23:35:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T23:38:28Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
@@ -339,8 +339,8 @@
     "name": "IMA",
     "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T23:35:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T23:38:28Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -386,31 +386,31 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T23:35:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-30T23:38:28Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:36:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T23:38:28Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:36:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T23:38:58Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T20:34:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T23:39:02Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
