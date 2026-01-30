@@ -218,10 +218,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T14:02:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-30T14:10:30Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -248,8 +248,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T14:06:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-30T14:10:30Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -276,29 +276,29 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:02:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T14:10:30Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:02:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T14:10:30Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:02:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T14:11:01Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T11:05:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-30T14:11:02Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
