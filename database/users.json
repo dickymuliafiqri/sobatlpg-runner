@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T19:05:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T19:05:35Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T19:05:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T19:05:35Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
-    "lastStock": 39,
-    "lastUpdate": "2026-01-31T16:05:27Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-31T19:05:35Z",
+    "cycle": 1
   }
 ]
