@@ -31,8 +31,8 @@
     "name": "BINA MAKMUR",
     "stock": 99,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:29:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T00:38:39Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -477,10 +477,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 60,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:33:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T00:38:39Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
