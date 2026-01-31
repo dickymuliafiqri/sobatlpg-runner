@@ -53,7 +53,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-31T15:34:37Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -95,14 +95,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-31T15:34:37Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T15:34:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-31T15:35:11Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
