@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T16:06:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T16:07:03Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T16:06:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T16:07:03Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -442,17 +442,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T13:07:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T16:07:03Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T13:07:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T16:07:03Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
