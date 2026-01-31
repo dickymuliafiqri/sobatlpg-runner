@@ -183,10 +183,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T09:28:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T09:32:09Z",
+    "cycle": 5
   },
   {
     "name": "SRI UTAMI",
@@ -197,10 +197,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 22,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T09:28:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T09:32:09Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -225,10 +225,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 11,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T09:28:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-31T09:32:09Z",
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
@@ -309,10 +309,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T06:01:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T09:32:09Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
