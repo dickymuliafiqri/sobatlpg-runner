@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T13:51:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T13:52:19Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T13:51:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T13:52:19Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 7,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T13:46:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T13:52:19Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
