@@ -53,7 +53,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-31T16:30:13Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-31T16:30:13Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -498,10 +498,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T16:30:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T16:30:44Z",
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
