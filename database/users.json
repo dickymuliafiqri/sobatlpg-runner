@@ -53,7 +53,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-31T14:44:57Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-01-31T14:44:57Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -113,17 +113,17 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T14:44:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-31T14:45:42Z",
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T14:44:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-31T14:45:42Z",
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
