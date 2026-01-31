@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T18:26:30Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T18:27:16Z",
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T18:26:30Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T18:27:16Z",
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -204,23 +204,23 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T18:26:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-31T18:27:16Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T18:26:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-31T18:27:16Z",
+    "cycle": 0
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T15:26:03Z",
+    "lastUpdate": "2026-01-31T18:27:44Z",
     "cycle": 0
   },
   {
