@@ -183,10 +183,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 18,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T05:46:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T05:55:28Z",
+    "cycle": 5
   },
   {
     "name": "SRI UTAMI",
@@ -199,8 +199,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T05:46:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T05:55:28Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -227,8 +227,8 @@
     "name": "HADI SUTOYO",
     "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T05:50:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-01-31T05:55:28Z",
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
@@ -290,15 +290,15 @@
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T02:36:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T05:55:28Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T02:36:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T05:58:18Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -309,10 +309,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T02:36:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T05:59:05Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -346,22 +346,22 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T02:40:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T05:59:45Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T02:41:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T05:59:46Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T02:44:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T05:59:48Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
