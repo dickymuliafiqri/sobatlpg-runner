@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 52,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:05:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-31T00:13:46Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:05:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-31T00:13:46Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 99,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:05:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-31T00:13:46Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -430,8 +430,8 @@
     "name": "SUDJIONO",
     "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:05:38Z",
-    "cycle": 4
+    "lastUpdate": "2026-01-31T00:13:46Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 100,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:08:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-01-31T00:17:00Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -463,24 +463,24 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:09:13Z",
-    "cycle": 3
-  },
-  {
-    "name": "TK. MAJU",
-    "stock": 76,
-    "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:10:42Z",
+    "lastUpdate": "2026-01-31T00:17:10Z",
     "cycle": 4
   },
   {
-    "name": "H. JUMAT",
-    "stock": 65,
+    "name": "TK. MAJU",
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-01-31T00:10:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-01-31T00:17:26Z",
+    "cycle": 5
+  },
+  {
+    "name": "H. JUMAT",
+    "stock": 63,
+    "lastStock": 0,
+    "lastUpdate": "2026-01-31T00:17:45Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -493,8 +493,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-01-30T21:03:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-01-31T00:19:34Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
