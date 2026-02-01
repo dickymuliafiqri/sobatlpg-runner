@@ -192,29 +192,29 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-01T08:27:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-01T08:27:52Z",
+    "cycle": 3
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-01T08:27:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-01T08:27:52Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-01T05:27:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-01T08:27:52Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-01T05:27:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-01T08:27:52Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
