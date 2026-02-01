@@ -53,7 +53,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-01T10:46:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-01T10:46:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -480,14 +480,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-01T10:43:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-01T10:46:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-01T10:46:55Z",
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-01T10:46:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-01T10:46:55Z",
+    "cycle": 0
   }
 ]
