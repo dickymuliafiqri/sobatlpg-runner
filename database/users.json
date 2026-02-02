@@ -274,10 +274,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 7,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T05:30:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T05:36:42Z",
+    "cycle": 3
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 69,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T05:30:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T05:36:42Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
