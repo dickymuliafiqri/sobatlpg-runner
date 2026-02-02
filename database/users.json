@@ -197,24 +197,24 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:13:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:13:41Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:13:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:13:41Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T17:13:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T17:13:41Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
