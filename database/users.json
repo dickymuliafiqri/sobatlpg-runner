@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 61,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:16:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T06:30:57Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 13,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:16:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T06:30:57Z",
+    "cycle": 4
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 73,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:16:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T06:30:57Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 45,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:16:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T06:30:57Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -57,38 +57,38 @@
   },
   {
     "name": "JAENAL",
-    "stock": 81,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:21:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T06:35:08Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 22,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:22:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T06:36:02Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 46,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:23:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T06:36:14Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T03:30:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T06:36:35Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T03:30:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T06:38:25Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
