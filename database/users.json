@@ -211,31 +211,31 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:27:12Z",
-    "cycle": 0
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-02T14:30:17Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:27:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T14:30:17Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:27:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T14:30:17Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:27:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T14:30:17Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 9,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:26:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T14:30:48Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
