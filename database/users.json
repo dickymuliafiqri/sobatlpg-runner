@@ -78,17 +78,17 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T00:21:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T00:21:45Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T00:21:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T00:21:45Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
@@ -99,10 +99,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T00:21:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T00:21:45Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -409,8 +409,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-01T21:20:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T00:22:15Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -486,8 +486,8 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T00:19:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T00:22:15Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
