@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T08:49:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T11:50:44Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -288,10 +288,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:48:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T11:50:44Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
@@ -323,45 +323,45 @@
   },
   {
     "name": "SUSILO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:48:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T11:50:44Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T08:49:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T11:50:44Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T08:30:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T11:51:16Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T08:30:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T11:51:17Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T08:30:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T11:51:17Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T08:49:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T11:51:18Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
