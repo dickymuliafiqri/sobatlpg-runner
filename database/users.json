@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 33,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T13:58:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T14:03:07Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
-    "lastUpdate": "2026-02-02T13:58:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T14:03:07Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
