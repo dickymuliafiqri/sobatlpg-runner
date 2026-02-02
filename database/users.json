@@ -297,8 +297,8 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T17:38:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T17:39:04Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -309,17 +309,17 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:38:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:39:04Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:38:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:39:04Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -388,8 +388,8 @@
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T17:37:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T17:39:04Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
