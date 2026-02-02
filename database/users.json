@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-02T17:09:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:09:40Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
-    "lastUpdate": "2026-02-02T17:09:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:09:40Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -176,17 +176,17 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:09:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:09:40Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:09:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T17:09:40Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
