@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 73,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:02:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T06:16:39Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 29,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:02:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T06:16:39Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:02:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T06:16:39Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 60,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:02:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T06:16:39Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -57,24 +57,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 87,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:06:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T06:21:56Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 38,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:08:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-02T06:22:12Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 56,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:08:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T06:23:27Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 8,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T06:09:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T06:23:36Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -414,10 +414,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T03:04:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T06:27:09Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
