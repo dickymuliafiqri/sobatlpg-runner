@@ -374,15 +374,15 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T05:58:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T09:02:34Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T05:58:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T09:02:34Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 53,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T08:55:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T09:02:34Z",
+    "cycle": 4
   }
 ]
