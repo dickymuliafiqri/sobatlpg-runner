@@ -150,22 +150,22 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T16:58:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T16:58:46Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T13:58:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T16:58:46Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T13:58:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T16:58:46Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T16:58:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T16:58:46Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
