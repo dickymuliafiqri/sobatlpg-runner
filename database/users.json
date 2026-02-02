@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-02T14:30:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T14:34:09Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -225,10 +225,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:30:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T14:34:09Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -262,8 +262,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:32:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T14:34:09Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:30:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-02T14:34:09Z",
+    "cycle": 5
   },
   {
     "name": "TOKO TIARA",
