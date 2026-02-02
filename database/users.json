@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 11,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T12:56:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T13:02:09Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:56:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T13:02:09Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
