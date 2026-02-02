@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T14:35:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-02T14:36:39Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T11:36:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-02T14:36:39Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
