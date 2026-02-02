@@ -108,15 +108,15 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T00:41:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T00:42:06Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T00:41:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T00:42:06Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-02T00:41:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-02T00:42:06Z",
+    "cycle": 2
   }
 ]
