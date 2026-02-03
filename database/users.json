@@ -113,10 +113,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T12:22:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-03T12:23:08Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -134,10 +134,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T12:22:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-03T12:23:08Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-03T12:21:16Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-03T12:23:08Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
