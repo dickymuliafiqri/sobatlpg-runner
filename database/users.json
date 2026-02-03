@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T19:10:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-03T19:10:40Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T19:10:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-03T19:10:40Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -204,17 +204,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T16:10:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T19:10:40Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T19:10:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-03T19:10:40Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
