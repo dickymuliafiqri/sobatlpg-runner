@@ -93,9 +93,9 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-03T12:29:50Z",
-    "cycle": 4
+    "lastStock": 3,
+    "lastUpdate": "2026-02-03T12:30:22Z",
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-03T12:29:50Z",
-    "cycle": 4
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-03T12:30:22Z",
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-03T12:29:50Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-03T12:30:22Z",
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -479,7 +479,7 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T09:30:16Z",
+    "lastUpdate": "2026-02-03T12:30:22Z",
     "cycle": 0
   },
   {
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T09:30:16Z",
+    "lastUpdate": "2026-02-03T12:30:49Z",
     "cycle": 0
   }
 ]
