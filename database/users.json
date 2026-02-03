@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T13:42:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T13:43:25Z",
+    "cycle": 2
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -428,10 +428,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T10:43:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T13:43:25Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
