@@ -484,17 +484,17 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T19:56:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T22:56:41Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T22:55:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T22:56:41Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
