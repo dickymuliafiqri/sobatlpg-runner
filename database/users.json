@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-03T06:48:59Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-03T06:50:20Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -248,22 +248,22 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T06:49:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T06:50:20Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T06:49:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T06:50:20Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T06:49:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T06:50:20Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
