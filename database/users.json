@@ -197,10 +197,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T21:59:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-03T22:00:09Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -211,17 +211,17 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-03T21:59:28Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-03T22:00:09Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T21:59:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T22:00:09Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
