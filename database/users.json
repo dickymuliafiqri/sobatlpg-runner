@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T22:48:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-03T22:48:53Z",
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 3,
     "lastUpdate": "2026-02-03T22:46:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-03T22:46:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -165,7 +165,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-03T22:45:39Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-03T22:46:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -428,10 +428,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T22:48:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-03T22:48:53Z",
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
