@@ -162,10 +162,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T03:42:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T06:42:40Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T06:40:57Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-03T06:42:40Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
