@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T18:44:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T21:44:36Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T18:44:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T21:44:36Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-03T21:43:48Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-03T21:44:36Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
