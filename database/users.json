@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 13,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T05:14:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T05:27:35Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 15,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T05:14:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T05:27:35Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 24,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T05:14:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T05:27:35Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 55,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T05:20:14Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T05:27:35Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -78,10 +78,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 28,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T05:20:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T05:31:53Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 3,
-    "lastUpdate": "2026-02-03T03:36:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T05:33:14Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
-    "lastUpdate": "2026-02-03T03:46:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T05:33:24Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-03T03:48:28Z",
-    "cycle": 0
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-03T05:33:36Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 61,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T04:11:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T05:33:38Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
