@@ -437,8 +437,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T16:51:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-03T16:52:31Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
@@ -463,10 +463,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T13:51:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T16:52:31Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -498,10 +498,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-03T13:51:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-03T16:52:31Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
