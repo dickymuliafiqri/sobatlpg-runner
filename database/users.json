@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T05:08:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-04T05:09:18Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T05:08:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-04T05:09:18Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T02:09:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T05:09:18Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
