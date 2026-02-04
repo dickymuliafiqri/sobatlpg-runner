@@ -151,28 +151,28 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-04T21:54:02Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-04T21:52:47Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-04T21:52:47Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-04T21:52:47Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T21:54:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-04T21:54:32Z",
+    "cycle": 0
   },
   {
     "name": "SUROSO",
