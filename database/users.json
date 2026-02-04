@@ -416,8 +416,8 @@
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T16:21:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T16:22:29Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
@@ -435,10 +435,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T13:22:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T16:22:29Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
