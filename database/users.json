@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 58,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-04T16:28:45Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-04T16:29:47Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-04T16:28:45Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-04T16:29:47Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -458,8 +458,8 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T16:29:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T16:29:47Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
