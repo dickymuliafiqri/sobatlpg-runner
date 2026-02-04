@@ -162,10 +162,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T01:49:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T04:50:09Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T01:49:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T04:50:09Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -444,8 +444,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T04:49:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T04:50:09Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
