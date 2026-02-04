@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T21:55:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T21:55:36Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -183,10 +183,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T18:55:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T21:55:36Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -204,17 +204,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T18:55:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T21:55:36Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T21:55:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T21:55:36Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
