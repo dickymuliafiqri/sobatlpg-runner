@@ -151,7 +151,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-04T13:41:53Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -190,17 +190,17 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T13:41:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-04T13:42:34Z",
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T13:41:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-04T13:42:34Z",
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-04T13:41:53Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
