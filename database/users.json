@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 58,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-04T22:26:12Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-04T22:27:38Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-04T22:26:12Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-04T22:27:38Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -409,8 +409,8 @@
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T22:26:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T22:27:38Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -430,8 +430,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T22:26:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T22:27:38Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
