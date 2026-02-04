@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T15:55:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T15:56:07Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T15:55:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-04T15:56:07Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T12:56:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T15:56:07Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
