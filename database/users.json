@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 58,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-04T19:38:34Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-04T19:39:14Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T19:38:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T19:39:14Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -491,17 +491,17 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T16:39:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T19:39:14Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T16:39:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-04T19:39:14Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
