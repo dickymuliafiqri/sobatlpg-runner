@@ -80,8 +80,8 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T03:17:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T06:21:17Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 13,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T06:15:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T06:21:17Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T06:15:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T06:21:17Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
