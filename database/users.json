@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T10:06:32Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-05T10:07:47Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T10:06:32Z",
-    "cycle": 3
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-05T10:07:47Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T10:06:32Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-05T10:07:47Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -288,17 +288,17 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T10:06:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T10:07:47Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T07:06:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T10:08:14Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
