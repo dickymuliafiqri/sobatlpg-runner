@@ -95,13 +95,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T17:58:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T14:58:23Z",
+    "lastUpdate": "2026-02-05T17:58:50Z",
     "cycle": 0
   },
   {
@@ -143,7 +143,7 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T14:58:23Z",
+    "lastUpdate": "2026-02-05T17:58:50Z",
     "cycle": 0
   },
   {
@@ -151,20 +151,20 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T17:58:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T17:58:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-05T17:58:50Z",
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T14:58:48Z",
+    "lastUpdate": "2026-02-05T17:58:50Z",
     "cycle": 0
   },
   {
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T17:58:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
