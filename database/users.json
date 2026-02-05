@@ -318,8 +318,8 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:53:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T22:54:10Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
@@ -456,10 +456,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T19:53:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T22:54:10Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -491,10 +491,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T19:53:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T22:54:10Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
