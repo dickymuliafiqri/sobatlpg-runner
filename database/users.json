@@ -337,10 +337,10 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T19:47:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T22:47:15Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -451,8 +451,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:46:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T22:47:15Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
