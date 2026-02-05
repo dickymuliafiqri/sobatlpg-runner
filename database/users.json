@@ -50,10 +50,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T15:40:00Z",
-    "cycle": 2
+    "stock": 0,
+    "lastStock": 1,
+    "lastUpdate": "2026-02-05T15:41:25Z",
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:40:00Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:40:00Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:40:00Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
