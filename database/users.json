@@ -95,14 +95,14 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-02-05T15:01:21Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T14:58:23Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -144,14 +144,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T14:58:23Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
     "lastUpdate": "2026-02-05T15:01:21Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -165,7 +165,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T14:58:48Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-05T15:01:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-05T15:02:29Z",
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -508,6 +508,6 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:01:21Z",
-    "cycle": 2
+    "cycle": 0
   }
 ]
