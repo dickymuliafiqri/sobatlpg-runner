@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T06:44:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T09:45:12Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T09:44:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T09:45:12Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T06:44:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T09:45:12Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T09:44:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T09:45:12Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
