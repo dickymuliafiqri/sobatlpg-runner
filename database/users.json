@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T16:49:00Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-05T16:49:49Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T16:49:00Z",
-    "cycle": 3
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-05T16:49:49Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T16:49:00Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-05T16:49:49Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -318,8 +318,8 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T13:49:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T16:49:49Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -456,10 +456,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T16:49:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T16:50:14Z",
+    "cycle": 4
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -486,22 +486,22 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T16:47:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T16:50:15Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T13:49:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T16:50:15Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T13:49:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T16:50:20Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
