@@ -463,17 +463,17 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T04:53:53Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-05T05:01:12Z",
+    "cycle": 5
   },
   {
     "name": "TK. MAJU",
-    "stock": 45,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T04:53:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T05:01:12Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 65,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T04:53:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T05:01:12Z",
+    "cycle": 4
   }
 ]
