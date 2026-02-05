@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-05T15:06:49Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-05T15:07:34Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T15:06:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T15:07:34Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -169,17 +169,17 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T12:07:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T15:07:34Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T12:07:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T15:07:34Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
