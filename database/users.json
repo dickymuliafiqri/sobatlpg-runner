@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:42:28Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-05T22:43:08Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:42:28Z",
-    "cycle": 4
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-05T22:43:08Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:42:28Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-05T22:43:08Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -351,10 +351,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:42:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T22:43:08Z",
+    "cycle": 4
   },
   {
     "name": "SALMAH",
@@ -381,22 +381,22 @@
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T19:41:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T22:43:36Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T19:43:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T22:43:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T19:43:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T22:43:38Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -407,10 +407,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T19:43:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T22:43:42Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
