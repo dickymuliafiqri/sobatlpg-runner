@@ -85,10 +85,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T15:12:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T18:12:52Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -183,10 +183,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T15:12:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T18:12:52Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-05T18:12:04Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-05T18:12:52Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
