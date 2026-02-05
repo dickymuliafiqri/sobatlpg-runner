@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 24,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T03:23:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-05T03:35:08Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 25,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T03:23:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-05T03:35:08Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T03:23:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-05T03:35:08Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 37,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T03:23:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-05T03:35:08Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 7,
+    "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-05T03:28:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T03:37:07Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 9,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T03:29:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T03:38:47Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
-    "lastUpdate": "2026-02-05T03:29:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T03:39:48Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -213,15 +213,15 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-05T03:30:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-05T03:40:14Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-04T21:56:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T03:40:28Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
