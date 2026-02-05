@@ -25,7 +25,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:22:48Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -81,7 +81,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:22:48Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:24:55Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-05T15:24:55Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -199,7 +199,7 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T12:24:58Z",
+    "lastUpdate": "2026-02-05T15:25:36Z",
     "cycle": 0
   },
   {
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-05T15:24:55Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-05T15:25:36Z",
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -309,10 +309,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T15:24:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T15:25:36Z",
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
