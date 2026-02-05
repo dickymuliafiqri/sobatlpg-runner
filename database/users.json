@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T09:47:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-05T09:47:45Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -108,8 +108,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T09:47:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-05T09:47:45Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -213,15 +213,15 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T09:44:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T09:47:45Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T06:47:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T09:47:45Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
