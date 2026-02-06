@@ -479,8 +479,8 @@
     "name": "H. JUMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T18:47:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T18:48:46Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -493,21 +493,21 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T18:47:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T18:48:46Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:48:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T18:48:46Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:48:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T18:48:46Z",
+    "cycle": 1
   }
 ]
