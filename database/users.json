@@ -115,8 +115,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T23:32:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T02:34:43Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -246,10 +246,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T02:29:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-06T02:34:43Z",
+    "cycle": 5
   },
   {
     "name": "SUPARNI",
@@ -351,31 +351,31 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T02:29:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T02:34:43Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:36:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:34:43Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:36:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:35:17Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:39:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:35:17Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
