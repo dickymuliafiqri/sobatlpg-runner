@@ -456,17 +456,17 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:44:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-06T15:45:26Z",
+    "cycle": 5
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:44:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-06T15:45:26Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -477,37 +477,37 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:44:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T15:45:26Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:44:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T15:45:26Z",
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T12:40:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T15:45:58Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T12:42:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T15:45:59Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T12:42:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T15:46:00Z",
+    "cycle": 1
   }
 ]
