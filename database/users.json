@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T21:41:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T21:41:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T21:41:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -403,7 +403,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T21:40:00Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -417,21 +417,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T21:40:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T21:43:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-06T21:43:41Z",
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T21:43:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-06T21:43:41Z",
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
