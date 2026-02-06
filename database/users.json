@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T09:39:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T12:41:01Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T09:40:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T12:41:01Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -500,14 +500,14 @@
     "name": "MISRI CICI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T12:40:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T12:41:01Z",
+    "cycle": 2
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T12:40:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T12:41:01Z",
+    "cycle": 2
   }
 ]
