@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T05:10:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T08:13:00Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-06T08:07:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T08:13:00Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T08:07:31Z",
-    "cycle": 1
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-06T08:13:00Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -213,15 +213,15 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-06T08:07:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T08:13:00Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T08:07:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T08:13:27Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T05:10:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T08:13:30Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
