@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T13:38:08Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-06T13:38:55Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T13:38:08Z",
-    "cycle": 3
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-06T13:38:55Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -204,17 +204,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T13:38:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T13:38:55Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T13:38:08Z",
-    "cycle": 3
+    "stock": 28,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-06T13:38:55Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -311,8 +311,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T10:37:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T13:39:19Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
