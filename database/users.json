@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 28,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-06T21:57:38Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-06T21:58:33Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T18:58:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T21:58:33Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
