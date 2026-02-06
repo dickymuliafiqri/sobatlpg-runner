@@ -197,10 +197,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T13:35:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T16:36:12Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T16:35:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-06T16:36:12Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
