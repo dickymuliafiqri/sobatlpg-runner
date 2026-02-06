@@ -57,17 +57,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 72,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T23:53:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-05T23:59:14Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 54,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T23:53:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-05T23:59:14Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T20:54:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-05T23:59:14Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
