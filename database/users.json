@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T07:12:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T07:13:03Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-06T07:11:27Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-06T07:13:03Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
