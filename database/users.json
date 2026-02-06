@@ -332,29 +332,29 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T18:10:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T18:11:02Z",
+    "cycle": 3
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:09:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T18:11:02Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T18:09:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T18:11:02Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:09:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T18:11:02Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
