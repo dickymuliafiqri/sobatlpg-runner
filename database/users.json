@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 46,
+    "stock": 34,
     "lastStock": 3,
-    "lastUpdate": "2026-02-06T23:19:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T23:26:24Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
-    "lastUpdate": "2026-02-06T23:19:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T23:26:24Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -213,15 +213,15 @@
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-06T23:19:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T23:26:24Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T20:20:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T23:26:24Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T20:26:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T23:26:49Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 66,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T23:19:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T23:26:51Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
