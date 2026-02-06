@@ -185,8 +185,8 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T12:25:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T15:27:00Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:24:44Z",
-    "cycle": 3
+    "stock": 28,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-06T15:27:00Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
