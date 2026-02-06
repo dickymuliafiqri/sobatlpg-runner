@@ -25,7 +25,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T21:57:14Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -39,7 +39,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T21:57:14Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -95,7 +95,7 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-02-06T21:57:14Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 58,
     "lastStock": 60,
     "lastUpdate": "2026-02-06T21:57:14Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T22:00:01Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -367,8 +367,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T22:00:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-06T22:00:32Z",
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
