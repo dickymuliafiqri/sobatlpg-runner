@@ -11,7 +11,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T17:36:47Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -67,7 +67,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T17:36:47Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -95,7 +95,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T17:36:03Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-06T17:36:03Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-06T17:36:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-06T17:38:25Z",
+    "cycle": 0
   },
   {
     "name": "SUROSO",
