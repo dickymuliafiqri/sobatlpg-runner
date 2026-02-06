@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T11:47:34Z",
-    "cycle": 2
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-06T11:48:09Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -115,8 +115,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T08:48:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T11:48:09Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T11:47:34Z",
-    "cycle": 2
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-06T11:48:09Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T11:47:34Z",
-    "cycle": 2
+    "stock": 28,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-06T11:48:09Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
