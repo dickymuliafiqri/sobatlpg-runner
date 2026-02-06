@@ -171,22 +171,22 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T06:21:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T09:21:21Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T06:21:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T09:21:21Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T06:21:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T09:21:21Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -444,22 +444,22 @@
     "name": "ABDUL WAFI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T06:21:19Z",
-    "cycle": 0
-  },
-  {
-    "name": "YUNIS WAHYUNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-06T09:17:37Z",
+    "lastUpdate": "2026-02-06T09:21:21Z",
     "cycle": 1
   },
   {
-    "name": "ROSIDI",
+    "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T06:16:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T09:21:49Z",
+    "cycle": 2
+  },
+  {
+    "name": "ROSIDI",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-06T09:21:51Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -477,10 +477,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T06:21:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T09:21:51Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
