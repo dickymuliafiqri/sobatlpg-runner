@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 33,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T02:04:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-06T02:17:09Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 34,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T02:08:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-06T02:17:09Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -246,10 +246,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 36,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T02:09:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T02:17:09Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
@@ -267,45 +267,45 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T02:11:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T02:17:09Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:18:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:20:26Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:18:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:21:00Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:19:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:21:34Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:32:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:22:07Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-05T22:25:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T02:22:15Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
