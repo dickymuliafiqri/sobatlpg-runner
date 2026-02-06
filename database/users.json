@@ -339,8 +339,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T15:07:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-06T15:08:09Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -351,10 +351,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T12:07:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-06T15:08:09Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
