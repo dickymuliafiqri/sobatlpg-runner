@@ -297,8 +297,8 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T22:28:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-07T22:29:35Z",
+    "cycle": 5
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -437,22 +437,22 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T22:28:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T22:29:35Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T22:28:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T22:29:35Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T17:13:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T22:29:35Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
