@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T14:30:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T14:31:19Z",
+    "cycle": 2
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -192,15 +192,15 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T14:30:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T14:31:19Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:30:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T14:31:19Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 28,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-07T14:29:38Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-07T14:31:19Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
