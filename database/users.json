@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-07T11:30:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T11:35:10Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
-    "lastUpdate": "2026-02-07T11:30:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T11:35:10Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:30:45Z",
-    "cycle": 2
+    "stock": 28,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-07T11:35:10Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -351,17 +351,17 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:27:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T11:35:10Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:27:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T11:35:38Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 64,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:20:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T11:35:40Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T08:25:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T11:35:41Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
