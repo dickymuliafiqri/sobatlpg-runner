@@ -95,7 +95,7 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-02-07T15:40:51Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -151,7 +151,7 @@
     "stock": 58,
     "lastStock": 60,
     "lastUpdate": "2026-02-07T15:40:51Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-07T15:40:51Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -249,7 +249,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-07T15:40:51Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
@@ -283,8 +283,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T15:42:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-07T15:43:23Z",
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
