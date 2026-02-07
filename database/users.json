@@ -204,10 +204,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:37:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T11:37:46Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:35:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T11:37:46Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:35:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T11:37:46Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
