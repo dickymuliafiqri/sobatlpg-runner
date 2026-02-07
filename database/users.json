@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-07T10:52:32Z",
-    "cycle": 4
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-07T10:53:16Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-07T10:52:32Z",
-    "cycle": 4
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-07T10:53:16Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-07T10:52:32Z",
-    "cycle": 4
+    "stock": 28,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-07T10:53:16Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -267,17 +267,17 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T10:52:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T10:53:16Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T10:50:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T10:53:45Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -304,8 +304,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T10:50:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T10:53:48Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -318,15 +318,15 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T10:50:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T10:53:51Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T07:53:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T10:53:53Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
