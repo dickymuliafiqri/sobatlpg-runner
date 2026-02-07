@@ -395,15 +395,15 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T04:54:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T04:55:50Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T04:54:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T04:55:50Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -416,15 +416,15 @@
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T04:54:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T04:55:50Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T00:48:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T04:55:50Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
