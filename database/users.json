@@ -73,8 +73,8 @@
     "name": "KARSONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T17:53:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T17:54:33Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T17:53:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T17:54:33Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -225,10 +225,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T14:53:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T17:54:33Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T14:53:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T17:54:33Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
