@@ -423,29 +423,29 @@
     "name": "TOKO SURYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:06:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T11:06:55Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:06:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T11:06:55Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T11:06:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T11:06:55Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T08:03:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T11:06:55Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
