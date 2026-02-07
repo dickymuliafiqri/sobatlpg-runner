@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T17:36:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T17:37:27Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -353,15 +353,15 @@
     "name": "DIYAH UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T17:36:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T17:37:27Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T14:36:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T17:37:27Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
