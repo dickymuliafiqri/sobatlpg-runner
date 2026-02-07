@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 45,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:35:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T02:41:46Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:36:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T02:41:46Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
@@ -311,8 +311,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T22:43:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T02:41:46Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -409,8 +409,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T22:49:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T02:41:46Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -477,10 +477,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 36,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T01:21:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T02:42:21Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T21:53:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T02:42:22Z",
+    "cycle": 1
   }
 ]
