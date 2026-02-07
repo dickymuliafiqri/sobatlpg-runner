@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T03:42:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T06:44:22Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-07T06:38:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T06:44:22Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 58,
     "lastStock": 60,
-    "lastUpdate": "2026-02-07T06:38:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T06:44:22Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-07T06:38:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T06:44:22Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 11,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T06:38:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T06:44:49Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 11,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T06:39:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T06:44:50Z",
+    "cycle": 3
   }
 ]
