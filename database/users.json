@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:23:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T05:28:32Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -199,8 +199,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:28:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T05:28:32Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 55,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T05:20:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T05:28:32Z",
+    "cycle": 3
   }
 ]
