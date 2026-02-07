@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 57,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T01:56:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-07T02:12:20Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,17 +43,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 62,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T01:56:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T02:12:20Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 36,
+    "stock": 25,
     "lastStock": 1,
-    "lastUpdate": "2026-02-07T02:01:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T02:12:20Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -71,24 +71,24 @@
   },
   {
     "name": "KARSONO",
-    "stock": 40,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:02:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T02:12:20Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 80,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:03:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-07T02:16:16Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:03:29Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-07T02:17:07Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
@@ -99,17 +99,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T22:30:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T02:17:28Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T22:37:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T02:17:57Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -192,8 +192,8 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-06T22:37:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T02:19:07Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
