@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 27,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:41:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-07T02:48:43Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -477,10 +477,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 24,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:42:21Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-07T02:48:43Z",
+    "cycle": 4
   },
   {
     "name": "HARSININGSIH",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 90,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T02:42:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-07T02:48:43Z",
+    "cycle": 2
   }
 ]
