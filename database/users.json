@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T05:44:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T08:46:11Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -309,10 +309,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T05:44:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T08:46:11Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -407,10 +407,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T05:44:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-07T08:46:11Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
