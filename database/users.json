@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:07:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T14:10:00Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:07:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T14:10:00Z",
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-02-08T10:49:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T14:10:00Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -129,15 +129,15 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:07:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T14:10:00Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:07:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T14:10:34Z",
+    "cycle": 2
   },
   {
     "name": "JONI H",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T10:50:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T14:10:35Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
