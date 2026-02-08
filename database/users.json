@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-08T04:38:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-08T04:44:10Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -428,10 +428,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T04:38:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-08T04:44:10Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
