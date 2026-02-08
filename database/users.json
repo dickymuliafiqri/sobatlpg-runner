@@ -339,8 +339,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T12:31:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T12:32:26Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -414,17 +414,17 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T09:18:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T12:32:26Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T09:18:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T12:32:26Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
