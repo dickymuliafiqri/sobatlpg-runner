@@ -255,8 +255,8 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T10:50:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T10:51:19Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -388,15 +388,15 @@
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T10:50:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T10:51:19Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T10:50:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T10:51:19Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
@@ -477,10 +477,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T07:23:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T10:51:19Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
