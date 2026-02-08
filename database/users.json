@@ -73,8 +73,8 @@
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T16:05:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T20:04:34Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -169,10 +169,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T19:19:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T20:04:34Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
@@ -199,8 +199,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T19:50:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T20:05:08Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -213,15 +213,15 @@
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-08T10:49:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T20:05:37Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T16:53:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T20:06:00Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
