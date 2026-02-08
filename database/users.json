@@ -234,8 +234,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T01:02:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T04:11:46Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -255,8 +255,8 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T01:02:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T04:11:46Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -374,8 +374,8 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T01:02:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T04:11:46Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T03:55:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T04:12:17Z",
+    "cycle": 3
   }
 ]
