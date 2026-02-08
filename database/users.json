@@ -491,10 +491,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T00:05:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T00:06:26Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T00:00:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T00:06:58Z",
+    "cycle": 1
   }
 ]
