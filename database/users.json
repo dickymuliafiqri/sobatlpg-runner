@@ -71,10 +71,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 63,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T23:25:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T23:31:45Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -442,17 +442,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T23:12:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T23:37:19Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T13:39:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T23:42:40Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
