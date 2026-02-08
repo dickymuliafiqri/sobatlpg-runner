@@ -31,8 +31,8 @@
     "name": "BINA MAKMUR",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T16:05:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T16:06:21Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -66,8 +66,8 @@
     "name": "JOKO SUWARNO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T16:05:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T16:06:21Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -101,8 +101,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T16:05:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T16:06:21Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -113,10 +113,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T13:03:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T16:06:21Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
