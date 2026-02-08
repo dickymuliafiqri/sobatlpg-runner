@@ -122,8 +122,8 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T03:52:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T07:19:46Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -218,24 +218,24 @@
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T07:04:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T07:19:46Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T03:52:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T07:19:46Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T04:11:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T07:19:46Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -255,8 +255,8 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T04:11:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T07:20:19Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -339,8 +339,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T07:05:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-08T07:20:20Z",
+    "cycle": 5
   },
   {
     "name": "DARMAWAN P",
@@ -360,8 +360,8 @@
     "name": "SALMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T06:48:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T07:20:22Z",
+    "cycle": 4
   },
   {
     "name": "TOKO ANITA",
@@ -372,10 +372,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T04:11:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T07:20:22Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
