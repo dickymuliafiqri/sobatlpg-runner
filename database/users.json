@@ -162,17 +162,17 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T08:55:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T11:56:14Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T08:55:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T11:56:14Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -311,8 +311,8 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:55:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T11:56:14Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -353,8 +353,8 @@
     "name": "DIYAH UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:55:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T11:56:14Z",
+    "cycle": 4
   },
   {
     "name": "SALMAH",
