@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-08T02:11:05Z",
-    "cycle": 2
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-08T02:26:26Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-08T02:10:18Z",
-    "cycle": 1
+    "stock": 58,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-08T02:26:26Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -164,15 +164,15 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T23:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T02:26:26Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T23:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T02:26:26Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-08T02:11:05Z",
-    "cycle": 2
+    "stock": 28,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-08T02:26:52Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T23:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T02:26:55Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -430,8 +430,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T02:11:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T02:26:58Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-07T23:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T02:26:59Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
