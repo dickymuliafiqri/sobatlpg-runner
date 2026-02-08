@@ -157,8 +157,8 @@
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T05:15:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T05:16:20Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -178,15 +178,15 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T05:15:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T05:16:20Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T02:09:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T05:16:20Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -267,10 +267,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T02:09:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T05:16:20Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
