@@ -32,7 +32,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:49:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -67,14 +67,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:49:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:49:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
@@ -95,14 +95,14 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-02-08T09:52:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:50:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -116,7 +116,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:52:39Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -151,7 +151,7 @@
     "stock": 63,
     "lastStock": 60,
     "lastUpdate": "2026-02-08T09:52:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -207,14 +207,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:44:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
     "lastUpdate": "2026-02-08T09:52:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -326,14 +326,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:44:43Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-08T09:53:07Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "IMA",
@@ -344,10 +344,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T09:53:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T09:58:54Z",
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T09:53:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T09:58:54Z",
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
