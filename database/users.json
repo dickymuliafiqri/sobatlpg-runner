@@ -218,10 +218,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T03:52:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T07:04:27Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -241,8 +241,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T03:52:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-08T07:04:27Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -339,8 +339,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T06:48:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T07:05:03Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
