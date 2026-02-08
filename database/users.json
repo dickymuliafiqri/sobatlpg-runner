@@ -162,31 +162,31 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:57:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-08T15:30:19Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T15:00:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-08T15:30:52Z",
+    "cycle": 5
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:54:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T15:31:22Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T11:54:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-08T15:31:57Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
