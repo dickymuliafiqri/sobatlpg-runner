@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-08T00:03:33Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-08T00:05:08Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 58,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-08T00:03:33Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-08T00:05:08Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 28,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-08T00:03:33Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-08T00:05:08Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -395,8 +395,8 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T00:04:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-08T00:05:08Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
