@@ -178,8 +178,8 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T18:53:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-10T18:54:47Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
@@ -206,8 +206,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T18:53:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-10T18:54:47Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -218,17 +218,17 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T15:43:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-10T18:54:47Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T15:43:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-10T18:54:47Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
