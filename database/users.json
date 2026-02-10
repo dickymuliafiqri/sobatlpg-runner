@@ -234,22 +234,22 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T15:43:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-10T15:44:39Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T10:47:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-10T15:44:39Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T10:50:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-10T15:44:39Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -267,10 +267,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T10:50:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-10T15:44:39Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
