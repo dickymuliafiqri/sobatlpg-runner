@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 9,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:21:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T06:34:04Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 45,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:21:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T06:34:04Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 75,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:21:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T06:34:04Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 9,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:22:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T06:34:04Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,38 +57,38 @@
   },
   {
     "name": "JAENAL",
-    "stock": 78,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:25:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T06:37:43Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 42,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:26:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T06:39:03Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 44,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:27:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T06:40:24Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 22,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T06:27:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-10T06:40:45Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T02:24:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-10T06:41:06Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
