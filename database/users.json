@@ -197,10 +197,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 27,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T03:08:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T03:13:43Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-10T03:08:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T03:13:43Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -239,31 +239,31 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 24,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T03:09:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-10T03:13:43Z",
+    "cycle": 4
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T03:09:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-10T03:13:43Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-08T21:24:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-10T03:14:10Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-09T23:56:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-10T03:14:16Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
