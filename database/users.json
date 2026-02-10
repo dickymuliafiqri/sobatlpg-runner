@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 10,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T09:02:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T09:12:54Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 35,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T09:02:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T09:12:54Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -52,29 +52,29 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-02-10T06:11:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-10T09:12:54Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 47,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T09:02:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T09:12:54Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 3,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T09:02:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T09:13:33Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 11,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T09:06:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T09:17:21Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-10T09:07:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T09:18:15Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-10T09:07:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-10T09:18:23Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-10T09:08:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-10T09:18:41Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
