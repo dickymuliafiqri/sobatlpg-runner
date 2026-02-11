@@ -211,24 +211,24 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 28,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-11T04:41:47Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-11T04:43:01Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T04:41:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-11T04:43:01Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T01:32:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-11T04:43:01Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T12:12:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-11T04:43:01Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
