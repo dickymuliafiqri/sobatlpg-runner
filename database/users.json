@@ -99,17 +99,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 46,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T02:04:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-11T02:17:08Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 60,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T02:04:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-11T02:17:08Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -164,8 +164,8 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-10T18:53:29Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-11T02:17:08Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
@@ -232,24 +232,24 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T01:32:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-11T02:17:08Z",
+    "cycle": 5
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T01:32:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-11T02:17:38Z",
+    "cycle": 5
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T01:32:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-11T02:17:42Z",
+    "cycle": 4
   },
   {
     "name": "SUPARNI",
