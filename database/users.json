@@ -192,8 +192,8 @@
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T07:39:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-11T07:40:31Z",
+    "cycle": 3
   },
   {
     "name": "BAMBANG HARTONO",
@@ -283,15 +283,15 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T07:39:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-11T07:40:31Z",
+    "cycle": 4
   },
   {
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T07:39:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-11T07:40:31Z",
+    "cycle": 4
   },
   {
     "name": "TUSOK",
@@ -302,10 +302,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 27,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T04:53:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-11T07:40:31Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
