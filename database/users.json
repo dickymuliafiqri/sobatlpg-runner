@@ -255,15 +255,15 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T07:47:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-11T07:47:51Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T07:47:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-11T07:47:51Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -295,17 +295,17 @@
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T04:47:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-11T07:47:51Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-11T07:41:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-11T07:47:51Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
