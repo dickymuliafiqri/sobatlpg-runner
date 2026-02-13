@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 1,
+    "stock": 160,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:56:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-13T12:57:02Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -295,38 +295,38 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:56:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-13T12:57:02Z",
+    "cycle": 5
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:56:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-13T12:57:02Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:56:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-13T12:57:02Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
     "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:54:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-13T12:58:22Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:54:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-13T12:58:38Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
