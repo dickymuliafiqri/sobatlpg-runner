@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 160,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:18:48Z",
+    "lastUpdate": "2026-02-13T12:22:12Z",
     "cycle": 1
   },
   {
@@ -106,17 +106,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 102,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:18:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-13T12:22:12Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
-    "stock": 20,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:18:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-13T12:22:12Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -183,10 +183,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-12T11:58:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-13T12:22:12Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
