@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 160,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:34:16Z",
+    "lastUpdate": "2026-02-13T12:36:53Z",
     "cycle": 1
   },
   {
@@ -204,10 +204,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 38,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:34:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-13T12:36:53Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -218,10 +218,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 38,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:34:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-13T12:36:53Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 42,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:34:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-13T12:36:53Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
