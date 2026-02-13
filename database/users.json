@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 160,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:53:13Z",
+    "lastUpdate": "2026-02-13T12:56:15Z",
     "cycle": 1
   },
   {
@@ -295,24 +295,24 @@
   },
   {
     "name": "TUSOK",
-    "stock": 22,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:53:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-13T12:56:15Z",
+    "cycle": 4
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 75,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:53:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-13T12:56:15Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
-    "stock": 54,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:53:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-13T12:56:15Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
