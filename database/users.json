@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 1,
+    "stock": 160,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T15:24:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-13T15:25:10Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -190,17 +190,17 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T15:24:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-13T15:25:10Z",
+    "cycle": 5
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T15:24:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-13T15:25:10Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
