@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 153,
+    "stock": 146,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:39:11Z",
+    "lastUpdate": "2026-02-14T03:50:19Z",
     "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 141,
+    "stock": 132,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:39:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T03:50:19Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -57,9 +57,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 210,
+    "stock": 204,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:39:11Z",
+    "lastUpdate": "2026-02-14T03:50:19Z",
     "cycle": 1
   },
   {
@@ -71,16 +71,16 @@
   },
   {
     "name": "KARSONO",
-    "stock": 140,
+    "stock": 131,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:39:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T03:50:19Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 180,
+    "stock": 171,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:43:25Z",
+    "lastUpdate": "2026-02-14T03:54:36Z",
     "cycle": 1
   },
   {
@@ -99,24 +99,24 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 130,
+    "stock": 118,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:45:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T03:55:41Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 175,
+    "stock": 168,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:45:19Z",
+    "lastUpdate": "2026-02-14T03:56:12Z",
     "cycle": 1
   },
   {
     "name": "SUPARMAN",
-    "stock": 18,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:45:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T03:56:27Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -129,8 +129,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T00:26:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T03:59:05Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
