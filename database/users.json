@@ -78,38 +78,38 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 27,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T12:03:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T12:10:36Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
-    "stock": 9,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T12:03:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T12:10:36Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-14T12:03:47Z",
-    "cycle": 3
+    "stock": 69,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-14T12:10:36Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 73,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T12:03:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T12:10:36Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 61,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T12:04:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T12:15:09Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-14T12:07:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T12:16:15Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -211,24 +211,24 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 42,
+    "stock": 35,
     "lastStock": 30,
-    "lastUpdate": "2026-02-14T05:19:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T12:16:39Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:19:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T12:16:40Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T08:18:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T12:16:57Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
