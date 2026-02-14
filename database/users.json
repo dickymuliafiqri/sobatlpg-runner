@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 154,
+    "stock": 151,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T00:53:05Z",
+    "lastUpdate": "2026-02-14T00:59:23Z",
     "cycle": 1
   },
   {
@@ -337,10 +337,10 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T21:55:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T00:59:23Z",
+    "cycle": 5
   },
   {
     "name": "DARMAWAN P",
