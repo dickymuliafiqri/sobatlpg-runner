@@ -57,9 +57,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 186,
+    "stock": 178,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:30:53Z",
+    "lastUpdate": "2026-02-14T04:39:59Z",
     "cycle": 1
   },
   {
@@ -78,10 +78,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 126,
+    "stock": 116,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:30:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T04:39:59Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 138,
+    "stock": 137,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:30:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T04:39:59Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-14T04:34:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T04:39:59Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -204,38 +204,38 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 26,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:35:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T04:40:24Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
     "stock": 28,
     "lastStock": 30,
-    "lastUpdate": "2026-02-11T10:28:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T04:43:16Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:37:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T04:43:42Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T21:33:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T04:44:42Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 42,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T12:38:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T04:44:49Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
