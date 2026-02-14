@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 138,
+    "stock": 132,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:30:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T05:41:15Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -246,10 +246,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 6,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:30:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T05:41:15Z",
+    "cycle": 4
   },
   {
     "name": "SUPARNI",
@@ -274,10 +274,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 28,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:30:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T05:41:15Z",
+    "cycle": 3
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -295,45 +295,45 @@
   },
   {
     "name": "TUSOK",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:31:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T05:41:15Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 61,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:33:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T05:42:42Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
-    "stock": 52,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:35:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T05:44:53Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
-    "stock": 30,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:35:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T05:45:46Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
-    "stock": 8,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:36:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T05:45:56Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T13:04:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T05:49:02Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
