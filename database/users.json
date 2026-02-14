@@ -297,8 +297,8 @@
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:41:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T08:44:30Z",
+    "cycle": 4
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 138,
+    "stock": 137,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T08:37:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T08:44:30Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 284,
+    "stock": 278,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T08:37:50Z",
+    "lastUpdate": "2026-02-14T08:44:30Z",
     "cycle": 1
   }
 ]
