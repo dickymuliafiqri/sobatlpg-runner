@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 125,
+    "stock": 123,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:52:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T06:01:44Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -274,10 +274,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 12,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:52:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T06:01:44Z",
+    "cycle": 5
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -302,24 +302,24 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 37,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:52:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T06:01:44Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
-    "stock": 43,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:55:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T06:01:44Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
-    "stock": 9,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:56:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T06:04:50Z",
+    "cycle": 4
   },
   {
     "name": "SUSILO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "IMA",
-    "stock": 30,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:56:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T06:05:27Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -358,24 +358,24 @@
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T16:06:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T06:06:34Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T22:08:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T06:08:07Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 35,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-02-13T13:17:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T06:08:08Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
