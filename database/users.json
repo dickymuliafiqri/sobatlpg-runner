@@ -465,8 +465,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T07:11:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T10:12:09Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 166,
+    "stock": 160,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T10:07:48Z",
+    "lastUpdate": "2026-02-14T10:12:09Z",
     "cycle": 1
   }
 ]
