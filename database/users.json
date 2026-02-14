@@ -108,8 +108,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T16:11:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T19:14:53Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -400,10 +400,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 29,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T19:09:12Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T19:14:53Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 19,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T19:09:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T19:14:53Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T19:09:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T19:14:53Z",
+    "cycle": 4
   }
 ]
