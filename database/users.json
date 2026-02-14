@@ -64,17 +64,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 12,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T14:35:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T14:47:01Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 28,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T14:35:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T14:47:01Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -92,31 +92,31 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 32,
+    "stock": 29,
     "lastStock": 3,
-    "lastUpdate": "2026-02-14T14:36:02Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T14:47:01Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 35,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T14:36:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T14:47:01Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 47,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T12:21:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T14:50:16Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T11:48:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T14:51:25Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -129,8 +129,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T11:49:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T14:51:57Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-14T12:33:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T14:52:17Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-14T12:36:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T14:52:22Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
