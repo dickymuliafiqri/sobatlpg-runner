@@ -178,8 +178,8 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T16:37:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T16:38:53Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
@@ -430,22 +430,22 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T16:37:55Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T16:38:53Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T16:29:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T16:38:53Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 94,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T15:24:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T16:38:53Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
