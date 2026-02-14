@@ -367,8 +367,8 @@
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T06:08:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T09:10:49Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 262,
+    "stock": 255,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T09:06:51Z",
+    "lastUpdate": "2026-02-14T09:10:49Z",
     "cycle": 1
   }
 ]
