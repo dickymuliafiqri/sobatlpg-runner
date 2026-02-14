@@ -346,15 +346,15 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:58:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T09:01:02Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T05:58:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T09:01:02Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 278,
+    "stock": 270,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T08:55:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T09:01:02Z",
+    "cycle": 1
   }
 ]
