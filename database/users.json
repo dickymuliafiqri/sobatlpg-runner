@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 133,
+    "stock": 120,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:02:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T04:13:43Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 122,
+    "stock": 113,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:02:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T04:13:43Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -57,9 +57,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 198,
+    "stock": 192,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:02:09Z",
+    "lastUpdate": "2026-02-14T04:13:43Z",
     "cycle": 1
   },
   {
@@ -71,16 +71,16 @@
   },
   {
     "name": "KARSONO",
-    "stock": 130,
+    "stock": 123,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:02:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T04:13:43Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 155,
+    "stock": 148,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:07:11Z",
+    "lastUpdate": "2026-02-14T04:17:50Z",
     "cycle": 1
   },
   {
@@ -106,17 +106,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 163,
+    "stock": 155,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:08:07Z",
+    "lastUpdate": "2026-02-14T04:18:45Z",
     "cycle": 1
   },
   {
     "name": "SUPARMAN",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T04:09:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T04:18:46Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -143,15 +143,15 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T00:26:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T04:20:14Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-11T10:25:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T04:20:44Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
