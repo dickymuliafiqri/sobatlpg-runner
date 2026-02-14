@@ -458,8 +458,8 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T06:52:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T09:54:33Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 192,
+    "stock": 186,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T09:50:31Z",
+    "lastUpdate": "2026-02-14T09:54:33Z",
     "cycle": 1
   }
 ]
