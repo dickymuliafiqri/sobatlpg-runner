@@ -136,15 +136,15 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T07:27:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T10:29:00Z",
+    "cycle": 4
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T07:27:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T10:29:00Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 136,
+    "stock": 129,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T10:24:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T10:29:00Z",
+    "cycle": 3
   }
 ]
