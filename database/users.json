@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 146,
+    "stock": 133,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:50:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-14T04:02:09Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 132,
+    "stock": 122,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:50:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T04:02:09Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -57,9 +57,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 204,
+    "stock": 198,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:50:19Z",
+    "lastUpdate": "2026-02-14T04:02:09Z",
     "cycle": 1
   },
   {
@@ -71,16 +71,16 @@
   },
   {
     "name": "KARSONO",
-    "stock": 131,
+    "stock": 130,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:50:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T04:02:09Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 171,
+    "stock": 155,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:54:36Z",
+    "lastUpdate": "2026-02-14T04:07:11Z",
     "cycle": 1
   },
   {
@@ -99,24 +99,24 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 118,
+    "stock": 114,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:55:41Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-14T04:07:36Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 168,
+    "stock": 163,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:56:12Z",
+    "lastUpdate": "2026-02-14T04:08:07Z",
     "cycle": 1
   },
   {
     "name": "SUPARMAN",
-    "stock": 10,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T03:56:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-14T04:09:46Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -136,8 +136,8 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T00:26:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T04:11:15Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
