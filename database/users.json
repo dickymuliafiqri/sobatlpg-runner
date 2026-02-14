@@ -241,8 +241,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T12:24:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-14T15:29:31Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 55,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T15:24:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T15:29:31Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -507,7 +507,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 86,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T15:25:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-14T15:29:31Z",
+    "cycle": 4
   }
 ]
