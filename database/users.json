@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-15T17:11:23Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-15T17:12:49Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -332,22 +332,22 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:11:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T17:12:49Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:11:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T17:12:49Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:11:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T17:12:49Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
