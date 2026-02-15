@@ -73,8 +73,8 @@
     "name": "KARSONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T12:44:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T12:45:27Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -101,22 +101,22 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T12:44:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T12:45:27Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T12:44:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T12:45:27Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T09:44:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T12:45:27Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
