@@ -169,45 +169,45 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T13:21:55Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-15T13:22:38Z",
+    "cycle": 5
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:08:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T13:22:38Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:08:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T13:22:38Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:08:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T13:22:38Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:08:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T13:23:06Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:11:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T13:23:07Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -218,17 +218,17 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:11:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T13:23:08Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:11:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T13:23:10Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
