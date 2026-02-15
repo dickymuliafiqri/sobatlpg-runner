@@ -500,14 +500,14 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T08:25:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T11:29:06Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 11,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T11:21:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-15T11:29:06Z",
+    "cycle": 4
   }
 ]
