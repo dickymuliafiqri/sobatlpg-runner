@@ -113,10 +113,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T19:07:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T22:07:18Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-15T22:05:58Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-15T22:07:18Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
