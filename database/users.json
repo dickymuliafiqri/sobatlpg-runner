@@ -106,17 +106,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T12:45:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-15T12:46:07Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T12:45:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T12:46:07Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-15T12:21:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-15T12:46:39Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
