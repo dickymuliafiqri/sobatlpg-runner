@@ -311,29 +311,29 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:18:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-15T10:18:39Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:18:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-15T10:18:39Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T10:18:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T10:18:39Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-14T19:29:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T10:18:39Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
