@@ -276,8 +276,8 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:11:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T20:28:11Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -332,36 +332,36 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:14:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T20:28:11Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:14:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T20:28:11Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:14:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T20:28:11Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:14:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T20:28:41Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T17:14:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T20:28:41Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
