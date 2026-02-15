@@ -136,8 +136,8 @@
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T16:23:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T16:25:40Z",
+    "cycle": 2
   },
   {
     "name": "JONI H",
@@ -171,22 +171,22 @@
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T16:23:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-15T16:25:40Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T13:22:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T16:25:40Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T13:22:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T16:25:40Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
