@@ -141,10 +141,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T19:52:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T22:52:38Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -155,10 +155,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T19:52:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T22:52:38Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -241,15 +241,15 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T22:52:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-15T22:52:38Z",
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T19:52:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-15T22:52:38Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
