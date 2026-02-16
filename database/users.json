@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T12:04:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T12:09:55Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -94,8 +94,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-16T12:04:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T12:09:55Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-16T12:04:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T12:09:55Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -169,10 +169,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 15,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T12:04:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T12:09:55Z",
+    "cycle": 3
   },
   {
     "name": "JAMILAH",
@@ -183,24 +183,24 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T12:04:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T12:10:22Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T12:04:54Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T12:10:25Z",
+    "cycle": 3
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T09:00:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T12:10:25Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
