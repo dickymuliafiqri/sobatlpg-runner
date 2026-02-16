@@ -388,8 +388,8 @@
     "name": "SOEKAMTO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T03:07:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-16T03:08:48Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -472,8 +472,8 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T03:07:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-16T03:08:48Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
@@ -486,15 +486,15 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T03:07:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-16T03:08:48Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-15T22:06:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:08:48Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
