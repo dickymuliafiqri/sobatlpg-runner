@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T11:41:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T11:43:13Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-16T11:41:51Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-16T11:43:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -150,8 +150,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T11:42:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T11:43:13Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -213,8 +213,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T11:42:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T11:43:13Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
