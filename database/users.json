@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 50,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T02:03:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:38:55Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 12,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T01:22:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:38:55Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 64,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T02:03:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:38:55Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 58,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T02:03:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:38:55Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T00:12:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:40:49Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,31 +57,31 @@
   },
   {
     "name": "JAENAL",
-    "stock": 60,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T02:31:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:41:19Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 27,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T02:31:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:43:12Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 49,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T02:40:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:44:04Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 40,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T02:31:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T03:45:56Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
