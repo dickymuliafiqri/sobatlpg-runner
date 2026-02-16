@@ -365,10 +365,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 19,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T10:41:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-16T10:47:38Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
@@ -423,8 +423,8 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T07:42:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T10:47:38Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -498,10 +498,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T10:41:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-16T10:47:38Z",
+    "cycle": 2
   },
   {
     "name": "ALFIAN DWI A.",
