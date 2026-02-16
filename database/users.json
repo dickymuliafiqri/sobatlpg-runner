@@ -197,24 +197,24 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T08:58:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T09:00:00Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T05:59:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T09:00:00Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T08:58:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T09:00:00Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -241,8 +241,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T05:59:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T09:00:00Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
