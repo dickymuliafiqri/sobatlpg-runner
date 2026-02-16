@@ -143,8 +143,8 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T11:46:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-16T11:46:59Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -155,10 +155,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T08:45:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T11:46:59Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -211,10 +211,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-16T11:44:31Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-16T11:46:59Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
