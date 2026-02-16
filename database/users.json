@@ -46,7 +46,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-16T08:41:21Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -95,7 +95,7 @@
     "stock": 2,
     "lastStock": 3,
     "lastUpdate": "2026-02-16T08:41:21Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -123,42 +123,42 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-16T08:41:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-16T08:41:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-16T08:41:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T08:43:50Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-16T08:45:07Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-16T08:41:58Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T08:43:50Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-16T08:45:07Z",
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -214,7 +214,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-16T08:42:49Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
