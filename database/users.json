@@ -470,10 +470,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T08:19:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-16T08:23:19Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -505,9 +505,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 18,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T07:48:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-16T08:23:19Z",
+    "cycle": 1
   }
 ]
