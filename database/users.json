@@ -248,15 +248,15 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T15:13:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T15:13:52Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T15:13:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T15:13:52Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -379,10 +379,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T12:13:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T15:13:52Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
