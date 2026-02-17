@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T20:33:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T20:34:27Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -141,10 +141,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-17T20:33:48Z",
-    "cycle": 1
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-17T20:34:27Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
