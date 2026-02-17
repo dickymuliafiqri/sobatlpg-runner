@@ -239,45 +239,45 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T03:38:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-17T03:38:41Z",
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T03:38:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-17T03:38:41Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T03:38:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-17T03:38:41Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T03:38:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T03:38:41Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T09:02:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T03:39:13Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-16T11:22:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T03:39:46Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
