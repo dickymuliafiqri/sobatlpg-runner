@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T13:49:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T13:50:02Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -374,15 +374,15 @@
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T13:49:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-17T13:50:02Z",
+    "cycle": 3
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T13:48:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T13:50:02Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T10:39:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T13:50:02Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
