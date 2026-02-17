@@ -122,15 +122,15 @@
     "name": "ERNA PUJIATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T18:47:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T18:48:33Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T18:47:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T18:48:33Z",
+    "cycle": 2
   },
   {
     "name": "JONI H",
@@ -148,10 +148,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T15:48:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T18:48:33Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-17T18:46:37Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-17T18:48:33Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
