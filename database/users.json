@@ -206,8 +206,8 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-17T17:12:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T17:27:59Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -346,8 +346,8 @@
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T14:10:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T17:27:59Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T17:13:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-17T17:27:59Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -414,17 +414,17 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T13:54:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T17:28:28Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T14:13:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T17:28:34Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
