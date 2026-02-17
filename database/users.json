@@ -1,17 +1,17 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 36,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:37:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:52:20Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 8,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:37:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:52:20Z",
+    "cycle": 5
   },
   {
     "name": "CINDRAWATI",
@@ -22,24 +22,24 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:37:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:52:20Z",
+    "cycle": 5
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 54,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:37:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:52:20Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 24,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:41:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:54:12Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -50,31 +50,31 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 97,
+    "stock": 86,
     "lastStock": 1,
-    "lastUpdate": "2026-02-17T02:42:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:57:44Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 50,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:42:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:58:29Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 26,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:45:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T02:58:39Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 24,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T02:46:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-17T03:01:07Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
