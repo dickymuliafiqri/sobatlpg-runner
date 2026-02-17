@@ -176,17 +176,17 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T15:50:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T18:51:11Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T15:50:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T18:51:11Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
