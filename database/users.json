@@ -288,10 +288,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 8,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T10:08:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-17T10:13:03Z",
+    "cycle": 3
   },
   {
     "name": "TUSOK",
@@ -498,10 +498,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T07:10:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T10:13:03Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
