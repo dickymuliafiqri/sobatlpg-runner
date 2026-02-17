@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T18:15:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T18:15:55Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -143,8 +143,8 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T18:15:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T18:15:55Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -253,10 +253,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T15:15:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T18:15:55Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
