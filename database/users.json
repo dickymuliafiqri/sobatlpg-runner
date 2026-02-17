@@ -332,15 +332,15 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T16:38:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T16:39:30Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T16:38:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T16:39:30Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
@@ -486,15 +486,15 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T16:38:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-17T16:39:30Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T13:23:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T16:39:30Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
