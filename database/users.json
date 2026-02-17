@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:54:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-17T21:55:41Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -141,10 +141,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:54:56Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-17T21:55:41Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:54:56Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-17T21:55:41Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -246,17 +246,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:54:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-17T21:55:41Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T18:49:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-17T21:56:04Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
