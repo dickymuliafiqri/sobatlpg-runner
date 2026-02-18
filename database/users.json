@@ -199,22 +199,22 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T10:46:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T10:47:18Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T10:45:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T10:47:18Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T10:45:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-18T10:47:18Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-18T10:42:05Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-18T10:47:18Z",
+    "cycle": 2
   }
 ]
