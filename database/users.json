@@ -402,8 +402,8 @@
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T13:57:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-18T13:58:25Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-18T13:57:51Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-18T13:58:25Z",
+    "cycle": 4
   }
 ]
