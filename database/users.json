@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 83,
+    "stock": 74,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T00:02:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T00:26:21Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 70,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T00:02:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T00:26:21Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -57,52 +57,52 @@
   },
   {
     "name": "JAENAL",
-    "stock": 91,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T00:02:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T00:26:21Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 61,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T00:02:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T00:26:21Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 62,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:07:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T00:30:36Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:07:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T00:31:40Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:07:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T00:33:47Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:07:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T00:34:10Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:27:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T00:34:39Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
