@@ -227,8 +227,8 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T11:09:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T11:10:52Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -239,17 +239,17 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T08:10:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T11:10:52Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T11:09:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T11:10:52Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
@@ -260,10 +260,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T08:10:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T11:10:52Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
