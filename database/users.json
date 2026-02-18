@@ -297,8 +297,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T14:47:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-18T14:48:10Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -311,22 +311,22 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T14:47:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-18T14:48:10Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T11:19:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T14:48:10Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T11:19:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T14:48:10Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
