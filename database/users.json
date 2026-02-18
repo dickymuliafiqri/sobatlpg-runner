@@ -206,8 +206,8 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-18T10:02:57Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T10:08:20Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 24,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T10:03:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-18T10:08:20Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -435,10 +435,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T10:03:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-18T10:08:20Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-18T10:03:29Z",
-    "cycle": 1
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-18T10:08:20Z",
+    "cycle": 2
   }
 ]
