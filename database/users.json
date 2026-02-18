@@ -176,10 +176,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T11:05:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T14:06:01Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -507,7 +507,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T14:05:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-18T14:06:01Z",
+    "cycle": 4
   }
 ]
