@@ -192,8 +192,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T18:47:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T21:47:33Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -463,45 +463,45 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T21:46:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T21:47:33Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T21:46:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T21:47:33Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T21:46:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-18T21:47:33Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T21:46:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-18T21:48:04Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T18:46:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T21:48:05Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T18:46:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T21:48:06Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
