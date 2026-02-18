@@ -50,10 +50,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 50,
+    "stock": 43,
     "lastStock": 1,
-    "lastUpdate": "2026-02-18T01:15:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T01:26:19Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -71,38 +71,38 @@
   },
   {
     "name": "KARSONO",
-    "stock": 56,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T01:15:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T01:26:19Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 58,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T01:15:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T01:26:19Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
-    "stock": 25,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T01:15:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T01:26:19Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T01:19:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-18T01:30:27Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 51,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T01:20:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-18T01:32:04Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -136,8 +136,8 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T22:31:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T01:32:25Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -157,15 +157,15 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:10:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T01:32:41Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-17T21:28:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-18T01:32:58Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
