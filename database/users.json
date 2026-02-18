@@ -498,16 +498,16 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 24,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T09:13:54Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T09:25:23Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 11,
+    "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-18T09:13:54Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T09:25:23Z",
+    "cycle": 3
   }
 ]
