@@ -4,7 +4,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-18T11:40:38Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -46,7 +46,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-18T11:40:38Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -74,7 +74,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-18T11:39:16Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
@@ -144,7 +144,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-18T11:40:38Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -207,7 +207,7 @@
     "stock": 29,
     "lastStock": 30,
     "lastUpdate": "2026-02-18T11:41:50Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -302,10 +302,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 14,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T11:41:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T11:45:25Z",
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
@@ -346,7 +346,7 @@
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T08:42:48Z",
+    "lastUpdate": "2026-02-18T11:45:25Z",
     "cycle": 0
   },
   {
@@ -507,7 +507,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-18T11:41:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T11:45:25Z",
+    "cycle": 0
   }
 ]
