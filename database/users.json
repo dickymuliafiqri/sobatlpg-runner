@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 55,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:19:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:32:02Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 25,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:19:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:32:02Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 75,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:19:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:32:02Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 38,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:19:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:32:02Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:24:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:36:59Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 39,
+    "stock": 33,
     "lastStock": 1,
-    "lastUpdate": "2026-02-18T03:25:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:37:06Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 62,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:25:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:37:29Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 25,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:25:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:38:15Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 41,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T03:26:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-18T03:39:55Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
