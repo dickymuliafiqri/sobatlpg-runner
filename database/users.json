@@ -206,8 +206,8 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T13:06:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-18T13:06:40Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -507,7 +507,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T13:06:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-18T13:06:40Z",
+    "cycle": 4
   }
 ]
