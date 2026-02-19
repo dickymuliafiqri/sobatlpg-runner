@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T05:50:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:06:28Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -295,24 +295,24 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T05:50:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:06:28Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T05:50:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:06:28Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T05:50:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:06:28Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
