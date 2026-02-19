@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T15:22:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-19T15:24:07Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-19T15:22:43Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-19T15:24:07Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -255,8 +255,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T15:23:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T15:24:07Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -269,8 +269,8 @@
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T15:23:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T15:24:07Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
