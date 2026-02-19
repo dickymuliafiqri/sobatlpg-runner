@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T07:56:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T08:05:13Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 17,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T07:56:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T08:05:13Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 16,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T07:56:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T08:05:13Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,17 +71,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T07:57:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-19T08:05:13Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 14,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T08:00:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T08:07:24Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -101,8 +101,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T05:04:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T08:08:23Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -129,22 +129,22 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T04:11:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T08:09:05Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T04:21:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T08:09:11Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-19T05:25:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T08:09:38Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
