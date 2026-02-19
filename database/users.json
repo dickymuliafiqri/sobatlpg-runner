@@ -3,15 +3,15 @@
     "name": "AKBAR RISQ",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:52:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T00:05:15Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 24,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:52:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T00:05:15Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -22,52 +22,52 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 35,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:52:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T00:05:15Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 83,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:52:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T00:05:15Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 83,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:53:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T00:05:49Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:57:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T00:10:00Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 73,
+    "stock": 62,
     "lastStock": 1,
-    "lastUpdate": "2026-02-18T23:57:14Z",
-    "cycle": 1
-  },
-  {
-    "name": "JAENAL",
-    "stock": 94,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:57:40Z",
+    "lastUpdate": "2026-02-19T00:10:30Z",
     "cycle": 2
   },
   {
-    "name": "JOKO SUWARNO",
-    "stock": 61,
+    "name": "JAENAL",
+    "stock": 87,
     "lastStock": 0,
-    "lastUpdate": "2026-02-18T23:57:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T00:10:33Z",
+    "cycle": 3
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 51,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-19T00:11:15Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
