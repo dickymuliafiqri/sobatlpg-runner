@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 9,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T09:29:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-19T09:35:50Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 90,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T09:29:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-19T09:35:50Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -414,10 +414,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 43,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T09:29:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-19T09:35:50Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
@@ -435,24 +435,24 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T09:30:29Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-19T09:35:50Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T06:02:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:39:17Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T06:02:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:39:48Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -465,22 +465,22 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T08:47:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T09:40:20Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T06:08:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:40:35Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T06:08:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T09:41:06Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
