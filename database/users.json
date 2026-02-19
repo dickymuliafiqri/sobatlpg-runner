@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T17:02:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-19T17:03:12Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -507,7 +507,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T17:02:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-19T17:03:12Z",
+    "cycle": 5
   }
 ]
