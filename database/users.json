@@ -80,8 +80,8 @@
     "name": "LUTFI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T17:25:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T17:26:34Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -148,24 +148,24 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T14:25:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T17:26:34Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T14:25:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T17:26:34Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T14:25:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T17:26:34Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
