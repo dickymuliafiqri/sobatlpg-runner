@@ -178,29 +178,29 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T14:26:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T14:26:56Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T14:26:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T14:26:56Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T11:25:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T14:26:56Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T11:25:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T14:26:56Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
