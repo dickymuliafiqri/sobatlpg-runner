@@ -85,17 +85,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T15:52:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T18:52:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T15:52:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T18:52:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-19T18:51:48Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-19T18:52:58Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -444,8 +444,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T18:51:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T18:52:58Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
