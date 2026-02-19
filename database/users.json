@@ -276,8 +276,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T21:28:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T21:29:48Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
@@ -295,10 +295,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T18:28:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T21:29:48Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-19T21:27:58Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-19T21:29:48Z",
+    "cycle": 5
   }
 ]
