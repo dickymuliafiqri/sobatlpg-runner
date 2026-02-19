@@ -304,8 +304,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T15:37:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T18:38:11Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -318,8 +318,8 @@
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T15:37:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T18:38:11Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -507,7 +507,7 @@
     "name": "TITIK ISMIATIN",
     "stock": 2,
     "lastStock": 3,
-    "lastUpdate": "2026-02-19T18:37:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T18:38:11Z",
+    "cycle": 4
   }
 ]
