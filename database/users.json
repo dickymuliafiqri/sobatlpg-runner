@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T14:05:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-19T14:06:40Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T14:05:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-19T14:06:40Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T11:05:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T14:06:40Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -141,10 +141,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-19T14:05:46Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-19T14:06:40Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
