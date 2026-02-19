@@ -477,17 +477,17 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T22:09:02Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T22:09:39Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T22:09:02Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T22:09:39Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-19T22:09:02Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-19T22:09:39Z",
+    "cycle": 4
   }
 ]
