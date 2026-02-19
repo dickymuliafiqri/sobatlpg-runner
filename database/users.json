@@ -85,17 +85,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T18:54:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T21:55:19Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T18:54:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T21:55:19Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -360,8 +360,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T21:54:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T21:55:19Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
@@ -374,8 +374,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T21:54:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T21:55:19Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
