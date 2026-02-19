@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T10:14:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-19T10:19:03Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T10:14:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-19T10:19:03Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -143,8 +143,8 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-19T10:15:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-19T10:19:03Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-19T10:15:16Z",
-    "cycle": 1
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-19T10:19:03Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -260,10 +260,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T08:44:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T10:19:30Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -309,10 +309,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 29,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T09:18:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T10:19:34Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -325,8 +325,8 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T08:49:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T10:19:34Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 74,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T09:50:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T10:19:40Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
