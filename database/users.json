@@ -262,8 +262,8 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T13:20:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T13:23:45Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -325,8 +325,8 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T10:22:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-19T13:23:45Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-19T13:20:50Z",
-    "cycle": 2
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-19T13:23:45Z",
+    "cycle": 3
   }
 ]
