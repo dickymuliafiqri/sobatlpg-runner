@@ -197,17 +197,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T20:35:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-19T20:36:16Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-19T20:35:39Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-19T20:36:16Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-19T20:35:39Z",
-    "cycle": 3
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-19T20:36:16Z",
+    "cycle": 4
   }
 ]
