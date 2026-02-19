@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-19T18:23:15Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-19T18:24:03Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -246,10 +246,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T18:23:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-19T18:24:03Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-19T18:18:49Z",
-    "cycle": 1
+    "stock": 2,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-19T18:24:03Z",
+    "cycle": 2
   }
 ]
