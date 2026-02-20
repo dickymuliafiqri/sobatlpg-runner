@@ -437,8 +437,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T18:03:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T18:04:49Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -451,15 +451,15 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T18:04:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-20T18:04:49Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T14:09:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T18:04:49Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -491,10 +491,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T14:10:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T18:04:49Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
