@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:35:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T20:35:50Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -500,14 +500,14 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:35:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T20:35:50Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:35:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T20:35:50Z",
+    "cycle": 2
   }
 ]
