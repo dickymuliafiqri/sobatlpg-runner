@@ -113,10 +113,10 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T09:01:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T12:03:30Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -267,10 +267,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 30,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T11:56:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-20T12:03:30Z",
+    "cycle": 5
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -295,10 +295,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 79,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T11:56:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-20T12:03:30Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -318,8 +318,8 @@
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T11:57:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T12:03:30Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 12,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T10:55:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T12:03:59Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -435,10 +435,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 29,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T11:05:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T12:04:00Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -465,8 +465,8 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T08:29:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T12:08:06Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -498,10 +498,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 18,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T11:13:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T12:08:45Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
