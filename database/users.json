@@ -39,14 +39,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T19:57:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T19:57:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -396,14 +396,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T19:57:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T19:57:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
@@ -431,7 +431,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T19:57:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
@@ -459,21 +459,21 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T20:02:38Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T20:02:38Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:03:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-20T20:03:58Z",
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -501,13 +501,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-20T20:03:24Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:03:24Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-20T20:03:58Z",
+    "cycle": 0
   }
 ]
