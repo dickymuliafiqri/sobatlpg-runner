@@ -108,8 +108,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T11:23:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T14:24:14Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -122,8 +122,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T11:23:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T14:24:14Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T14:21:12Z",
-    "cycle": 2
+    "stock": 0,
+    "lastStock": 3,
+    "lastUpdate": "2026-02-20T14:24:14Z",
+    "cycle": 3
   }
 ]
