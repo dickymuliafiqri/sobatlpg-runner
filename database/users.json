@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T17:07:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T17:23:53Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -66,22 +66,22 @@
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T14:15:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T17:23:53Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T14:20:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T17:24:23Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T14:20:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T17:25:05Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
