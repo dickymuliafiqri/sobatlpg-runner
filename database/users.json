@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:37:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T19:42:35Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -141,10 +141,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:37:36Z",
-    "cycle": 0
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-20T19:42:35Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:37:36Z",
-    "cycle": 0
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-20T19:42:35Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:40:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T19:42:35Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -423,8 +423,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:41:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T19:42:59Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
