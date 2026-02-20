@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:03:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T19:04:30Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -141,10 +141,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:03:49Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-20T19:04:30Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -204,10 +204,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:03:49Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-20T19:04:30Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -218,10 +218,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:03:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-20T19:04:30Z",
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
@@ -318,8 +318,8 @@
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T16:02:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T19:04:53Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
