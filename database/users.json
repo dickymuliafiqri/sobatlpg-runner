@@ -472,8 +472,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:02:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T20:03:24Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -500,14 +500,14 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:02:38Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-20T20:03:24Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T20:01:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T20:03:24Z",
+    "cycle": 4
   }
 ]
