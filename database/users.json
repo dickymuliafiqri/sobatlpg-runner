@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 90,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T08:55:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-20T09:16:05Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 19,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T08:55:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-20T09:16:05Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T08:55:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-20T09:16:05Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -141,10 +141,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T09:01:46Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-20T09:16:05Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -157,8 +157,8 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T05:56:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T09:16:32Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -185,22 +185,22 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T06:00:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T09:16:41Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T05:57:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T09:17:08Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T05:57:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T09:17:11Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
