@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-02-20T07:59:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T11:01:15Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -435,10 +435,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T10:55:29Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T11:01:15Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -498,10 +498,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T10:55:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T11:01:15Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
