@@ -234,8 +234,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:06:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T19:07:26Z",
+    "cycle": 4
   },
   {
     "name": "YUSUF ISMAIL",
@@ -323,24 +323,24 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T16:07:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T19:07:26Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T16:07:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T19:07:26Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T16:07:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T19:07:26Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
