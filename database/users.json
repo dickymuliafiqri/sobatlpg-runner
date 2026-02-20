@@ -393,17 +393,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 86,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T03:16:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-20T03:24:26Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
-    "stock": 31,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T03:16:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-20T03:24:26Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -435,17 +435,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 93,
+    "stock": 90,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T03:16:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-20T03:24:26Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 10,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T03:16:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T03:24:26Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
@@ -463,10 +463,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 74,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T03:20:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-20T03:27:54Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -486,28 +486,28 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T22:09:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T03:29:11Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T22:07:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T03:29:44Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 84,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T00:07:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T03:29:45Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 45,
+    "stock": 30,
     "lastStock": 3,
-    "lastUpdate": "2026-02-19T23:14:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T03:29:47Z",
+    "cycle": 1
   }
 ]
