@@ -458,15 +458,15 @@
     "name": "H. JUMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:59:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T20:01:54Z",
+    "cycle": 4
   },
   {
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:59:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T20:01:54Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:59:56Z",
-    "cycle": 2
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-20T20:01:54Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:59:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-20T20:01:54Z",
+    "cycle": 3
   }
 ]
