@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 73,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T02:03:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T02:12:39Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 70,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T02:03:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T02:12:39Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -50,17 +50,17 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 75,
     "lastStock": 1,
-    "lastUpdate": "2026-02-19T23:06:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T02:12:39Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 85,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T02:03:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-20T02:12:39Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,8 +108,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T23:10:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T02:16:32Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -122,8 +122,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T23:10:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T02:17:04Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -262,22 +262,22 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T22:32:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T02:17:40Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T21:28:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T02:17:48Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-19T21:30:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-20T02:18:14Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
