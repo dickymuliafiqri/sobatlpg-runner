@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 231,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:50:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-21T18:54:20Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -169,38 +169,38 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:51:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T18:54:20Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T18:32:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T18:54:20Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T18:48:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T18:54:20Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T18:52:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T18:54:47Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T19:02:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T18:54:48Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
