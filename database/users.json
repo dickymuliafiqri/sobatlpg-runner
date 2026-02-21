@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 56,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T22:21:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T22:34:45Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T19:28:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T22:34:45Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 77,
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T22:21:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T22:34:45Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 62,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T22:23:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T22:34:45Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 109,
+    "stock": 101,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T22:24:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T22:35:46Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 26,
+    "stock": 20,
     "lastStock": 1,
-    "lastUpdate": "2026-02-21T22:27:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T22:40:14Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
-    "stock": 72,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T22:27:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T22:40:34Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 5,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T22:28:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T22:41:05Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 55,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:36:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T22:41:33Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
