@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 224,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:58:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T19:03:47Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -176,10 +176,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:58:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-21T19:03:47Z",
+    "cycle": 3
   },
   {
     "name": "BAMBANG HARTONO",
@@ -197,17 +197,17 @@
   },
   {
     "name": "SUROSO",
-    "stock": 33,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:58:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-21T19:03:47Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 7,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:58:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T19:03:47Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -218,17 +218,17 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:59:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T19:04:52Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-20T18:00:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T19:05:23Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
