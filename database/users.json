@@ -71,17 +71,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 32,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:12:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-21T23:21:41Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 56,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:12:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-21T23:21:41Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -92,24 +92,24 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 17,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:12:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T23:21:41Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
-    "stock": 29,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:14:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T23:21:41Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:15:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T23:24:37Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 12,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:16:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-21T23:25:24Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
@@ -143,22 +143,22 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:47:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T23:26:51Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:50:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T23:27:22Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T18:50:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-21T23:27:23Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
