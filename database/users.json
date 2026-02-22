@@ -80,8 +80,8 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:23:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T06:24:27Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -234,15 +234,15 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:23:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T06:24:27Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:24:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T06:24:27Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -507,7 +507,7 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-22T06:22:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T06:24:27Z",
+    "cycle": 3
   }
 ]
