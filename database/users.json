@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T05:29:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T05:31:17Z",
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -88,7 +88,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T05:26:24Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -109,7 +109,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T05:26:24Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -122,7 +122,7 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T02:31:15Z",
+    "lastUpdate": "2026-02-22T05:31:17Z",
     "cycle": 0
   },
   {
@@ -130,34 +130,34 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T05:26:24Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T05:26:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T02:31:15Z",
+    "lastUpdate": "2026-02-22T05:31:17Z",
     "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T02:31:15Z",
+    "lastUpdate": "2026-02-22T05:31:17Z",
     "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T02:31:15Z",
+    "lastUpdate": "2026-02-22T05:31:49Z",
     "cycle": 0
   },
   {
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-22T05:29:09Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-22T05:31:50Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-22T05:29:09Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-22T05:31:55Z",
+    "cycle": 0
   }
 ]
