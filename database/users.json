@@ -297,8 +297,8 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T09:48:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T09:50:41Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
@@ -311,22 +311,22 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T09:48:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T09:50:41Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T06:45:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T09:50:41Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T06:45:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T09:50:41Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
