@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 4,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:28:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T10:30:47Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T07:29:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T10:30:47Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T07:29:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T10:30:47Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -498,10 +498,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-22T10:28:56Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-22T10:30:47Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
