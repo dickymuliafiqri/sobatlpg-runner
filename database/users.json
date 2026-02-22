@@ -395,8 +395,8 @@
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T16:01:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T16:02:07Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
@@ -507,7 +507,7 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T16:01:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T16:02:07Z",
+    "cycle": 5
   }
 ]
