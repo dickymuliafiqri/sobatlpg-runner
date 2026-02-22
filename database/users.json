@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 4,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T11:37:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T11:40:04Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -162,24 +162,24 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T08:39:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T11:40:04Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T08:39:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T11:40:04Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T08:39:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T11:40:04Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
