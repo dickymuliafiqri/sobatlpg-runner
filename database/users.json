@@ -11,7 +11,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T18:42:35Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -46,7 +46,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T18:40:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -253,24 +253,24 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T18:42:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T18:43:17Z",
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T18:40:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T18:40:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
@@ -501,13 +501,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T18:42:35Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-22T18:42:35Z",
-    "cycle": 4
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-22T18:43:17Z",
+    "cycle": 0
   }
 ]
