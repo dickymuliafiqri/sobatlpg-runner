@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 41,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T00:58:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T01:17:17Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,38 +29,38 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 56,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T00:58:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T01:17:17Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T00:58:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T01:17:17Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 74,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T00:58:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T01:17:17Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 8,
+    "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-02-21T22:52:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T01:21:22Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 61,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T22:53:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T01:21:28Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,17 +71,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 28,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:30:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T01:21:44Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:35:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T01:22:18Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:36:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T01:23:08Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
