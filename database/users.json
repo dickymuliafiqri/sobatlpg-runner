@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T11:13:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T11:15:33Z",
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -101,7 +101,7 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T08:15:16Z",
+    "lastUpdate": "2026-02-22T11:15:33Z",
     "cycle": 0
   },
   {
@@ -382,7 +382,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T11:13:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -487,7 +487,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T11:08:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -500,14 +500,14 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-22T11:13:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T11:15:33Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-22T11:13:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T11:15:33Z",
+    "cycle": 0
   }
 ]
