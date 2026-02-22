@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:32:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T10:34:06Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
@@ -94,8 +94,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:32:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T10:34:06Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -500,14 +500,14 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:32:44Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T10:34:06Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:29:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T10:34:09Z",
+    "cycle": 3
   }
 ]
