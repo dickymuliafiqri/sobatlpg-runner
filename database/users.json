@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:13:43Z",
-    "cycle": 4
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-22T10:16:41Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-22T10:05:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T10:16:41Z",
+    "cycle": 2
   }
 ]
