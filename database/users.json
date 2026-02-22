@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T16:42:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T16:44:54Z",
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -25,7 +25,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T16:38:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -95,7 +95,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-22T16:38:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -500,14 +500,14 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-22T16:42:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T16:44:54Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-22T16:42:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T16:44:54Z",
+    "cycle": 0
   }
 ]
