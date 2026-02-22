@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 4,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T13:01:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-22T13:05:45Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -407,17 +407,17 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:01:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T13:05:45Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:01:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T13:05:45Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
@@ -428,10 +428,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:01:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T13:05:45Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
