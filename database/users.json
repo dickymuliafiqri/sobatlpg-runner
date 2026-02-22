@@ -339,8 +339,8 @@
     "name": "SALMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T06:45:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T06:46:24Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
@@ -500,14 +500,14 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T06:45:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-22T06:46:24Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-22T06:37:21Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-22T06:46:24Z",
+    "cycle": 3
   }
 ]
