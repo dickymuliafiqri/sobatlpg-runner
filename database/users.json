@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:49:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-22T10:50:29Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:49:34Z",
-    "cycle": 1
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-22T10:50:29Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-22T10:49:34Z",
-    "cycle": 1
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-22T10:50:29Z",
+    "cycle": 2
   }
 ]
