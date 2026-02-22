@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:00:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-22T03:10:10Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:00:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-22T03:10:10Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 12,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:00:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-22T03:10:10Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 35,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:00:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T03:10:10Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 34,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:02:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T03:12:04Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,17 +71,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 12,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:05:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T03:15:01Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 16,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T03:05:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-22T03:15:13Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -220,15 +220,15 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:41:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T03:15:30Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-21T23:41:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-22T03:15:58Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
