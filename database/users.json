@@ -129,8 +129,8 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T19:37:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T22:38:40Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -492,22 +492,22 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-23T22:33:42Z",
-    "cycle": 0
+    "lastStock": 3,
+    "lastUpdate": "2026-02-23T22:38:40Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-23T22:34:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T22:38:40Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-23T22:37:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T22:38:40Z",
+    "cycle": 1
   }
 ]
