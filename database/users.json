@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 77,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T09:58:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-23T10:13:31Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 76,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T09:58:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-23T10:13:31Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -50,10 +50,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 58,
-    "lastStock": 1,
-    "lastUpdate": "2026-02-23T10:04:55Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-23T10:13:31Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -64,10 +64,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 48,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T10:05:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-23T10:13:31Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
@@ -136,36 +136,36 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T17:36:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T10:15:53Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T17:44:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T10:15:53Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T17:44:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T10:15:54Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T17:44:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T10:16:22Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-22T17:47:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T10:16:24Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
