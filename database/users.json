@@ -421,10 +421,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T19:45:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T19:49:29Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -492,22 +492,22 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-23T19:45:44Z",
-    "cycle": 0
+    "lastStock": 3,
+    "lastUpdate": "2026-02-23T19:49:29Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-23T19:46:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T19:49:29Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-23T19:48:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T19:49:29Z",
+    "cycle": 1
   }
 ]
