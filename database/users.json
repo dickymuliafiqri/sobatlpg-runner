@@ -136,8 +136,8 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T22:32:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T22:33:06Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -164,8 +164,8 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T22:32:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T22:33:06Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
@@ -492,16 +492,16 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-23T22:31:18Z",
-    "cycle": 3
+    "lastStock": 0,
+    "lastUpdate": "2026-02-23T22:33:06Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-23T22:31:18Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-23T22:33:06Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
