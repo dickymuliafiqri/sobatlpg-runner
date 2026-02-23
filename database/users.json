@@ -374,8 +374,8 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T20:36:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T20:37:13Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
@@ -402,8 +402,8 @@
     "name": "TOKO SURYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T20:36:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T20:37:13Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
@@ -492,16 +492,16 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-23T20:34:52Z",
-    "cycle": 2
+    "lastStock": 0,
+    "lastUpdate": "2026-02-23T20:37:13Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-23T20:34:52Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-23T20:37:13Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
