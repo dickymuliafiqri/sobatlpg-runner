@@ -88,7 +88,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-23T22:54:50Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -102,7 +102,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-23T22:54:50Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -494,20 +494,20 @@
     "stock": 1,
     "lastStock": 3,
     "lastUpdate": "2026-02-23T22:54:50Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
     "lastUpdate": "2026-02-23T22:54:50Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-23T22:55:16Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-23T22:57:01Z",
+    "cycle": 0
   }
 ]
