@@ -255,8 +255,8 @@
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:14:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T23:15:09Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -269,22 +269,22 @@
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:14:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T23:15:09Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:14:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T23:15:09Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T20:13:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T23:15:09Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
