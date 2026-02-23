@@ -78,31 +78,31 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 63,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T13:36:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-23T13:47:20Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T13:36:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-23T13:47:20Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 27,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T13:36:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-23T13:47:20Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 42,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T13:36:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-23T13:47:20Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -192,15 +192,15 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T10:45:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T13:48:19Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T10:45:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T13:48:51Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
