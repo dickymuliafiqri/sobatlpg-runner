@@ -157,8 +157,8 @@
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T20:05:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T20:06:36Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
@@ -197,24 +197,24 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T17:05:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T20:06:36Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T17:06:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T20:06:36Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T17:06:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-23T20:06:36Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
