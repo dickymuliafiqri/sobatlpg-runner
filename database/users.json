@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T21:07:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-23T21:08:21Z",
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -494,20 +494,20 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-23T21:07:19Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-23T21:07:19Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-23T21:07:19Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
