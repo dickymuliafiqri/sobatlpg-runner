@@ -50,10 +50,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:47:46Z",
-    "cycle": 2
+    "stock": 0,
+    "lastStock": 1,
+    "lastUpdate": "2026-02-24T07:03:10Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -492,16 +492,16 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:47:05Z",
-    "cycle": 4
+    "lastStock": 3,
+    "lastUpdate": "2026-02-24T07:03:10Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-24T06:46:05Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-24T07:03:54Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
