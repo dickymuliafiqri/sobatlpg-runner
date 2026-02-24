@@ -50,10 +50,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
-    "lastStock": 1,
-    "lastUpdate": "2026-02-24T13:08:46Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-24T16:09:02Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -430,22 +430,22 @@
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T16:08:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T16:09:02Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T16:08:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T16:09:02Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T16:08:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-24T16:09:02Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
