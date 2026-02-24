@@ -64,10 +64,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:04:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-24T06:08:18Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -435,10 +435,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 22,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:04:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T06:08:18Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
