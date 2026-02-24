@@ -451,8 +451,8 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T22:25:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T01:25:42Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -492,22 +492,22 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T01:22:38Z",
-    "cycle": 0
+    "lastStock": 3,
+    "lastUpdate": "2026-02-24T01:25:42Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-24T01:22:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T01:25:42Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T01:22:38Z",
-    "cycle": 0
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-24T01:25:42Z",
+    "cycle": 1
   }
 ]
