@@ -492,22 +492,22 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 3,
-    "lastUpdate": "2026-02-24T02:39:28Z",
-    "cycle": 3
+    "lastStock": 0,
+    "lastUpdate": "2026-02-24T02:40:26Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:39:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-24T02:40:26Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:39:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-24T02:40:26Z",
+    "cycle": 4
   }
 ]
