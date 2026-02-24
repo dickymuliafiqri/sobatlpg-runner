@@ -4,28 +4,28 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:45:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 30,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T10:05:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-24T10:08:54Z",
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:36:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:45:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -53,7 +53,7 @@
     "stock": 0,
     "lastStock": 1,
     "lastUpdate": "2026-02-24T10:05:31Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -151,7 +151,7 @@
     "stock": 20,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:45:41Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -193,7 +193,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:36:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -284,7 +284,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:36:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BUDI",
@@ -347,7 +347,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:36:48Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
@@ -368,7 +368,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:39:32Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
@@ -417,7 +417,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:39:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ABDUL WAFI",
@@ -438,7 +438,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T09:39:32Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -494,20 +494,20 @@
     "stock": 32,
     "lastStock": 3,
     "lastUpdate": "2026-02-24T09:53:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
     "lastUpdate": "2026-02-24T09:53:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
     "lastUpdate": "2026-02-24T10:00:22Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
