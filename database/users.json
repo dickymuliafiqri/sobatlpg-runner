@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T11:28:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T11:45:25Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 88,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T11:16:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-24T11:45:25Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -71,24 +71,24 @@
   },
   {
     "name": "KARSONO",
-    "stock": 59,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T11:16:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-24T11:45:25Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 63,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T11:16:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-24T11:45:25Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T08:20:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T11:48:07Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -99,31 +99,31 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T08:20:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T11:48:35Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T08:20:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T11:51:06Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 33,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T11:19:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-24T11:51:16Z",
+    "cycle": 2
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T08:25:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T11:51:34Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
