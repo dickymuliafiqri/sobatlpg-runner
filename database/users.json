@@ -3,15 +3,15 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:45:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T09:45:41Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:45:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T09:45:41Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:45:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T09:45:41Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -148,10 +148,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 27,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T09:39:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-24T09:45:41Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -491,17 +491,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 53,
+    "stock": 41,
     "lastStock": 3,
-    "lastUpdate": "2026-02-24T09:40:04Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-24T09:46:26Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T09:40:04Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-24T09:47:04Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
