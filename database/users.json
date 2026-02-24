@@ -267,10 +267,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T13:40:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T16:41:01Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-24T16:40:10Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-24T16:41:01Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T16:40:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-24T16:41:01Z",
+    "cycle": 5
   }
 ]
