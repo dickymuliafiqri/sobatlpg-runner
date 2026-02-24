@@ -11,7 +11,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T14:47:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -32,7 +32,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T14:57:30Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -74,7 +74,7 @@
     "stock": 7,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T14:57:30Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
@@ -88,7 +88,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:04:00Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -109,7 +109,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T14:53:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -123,7 +123,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:04:00Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "P. SUK",
@@ -151,14 +151,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:04:00Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:04:00Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -172,7 +172,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:04:31Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
@@ -235,7 +235,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T14:38:44Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
@@ -424,7 +424,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:04:31Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -452,7 +452,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:04:33Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
@@ -494,20 +494,20 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T15:05:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T15:05:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-24T15:05:55Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T15:05:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-24T15:05:55Z",
+    "cycle": 0
   }
 ]
