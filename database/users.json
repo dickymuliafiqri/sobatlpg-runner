@@ -309,10 +309,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:36:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:37:29Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -344,24 +344,24 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:36:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:37:29Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:36:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:37:29Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:36:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:37:29Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
