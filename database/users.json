@@ -493,21 +493,21 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 3,
-    "lastUpdate": "2026-02-24T00:51:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T00:52:11Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-24T00:51:19Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-24T00:52:11Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-24T00:51:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T00:52:11Z",
+    "cycle": 3
   }
 ]
