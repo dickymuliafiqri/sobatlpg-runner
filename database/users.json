@@ -332,15 +332,15 @@
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:27:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:27:32Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:27:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:27:32Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -492,22 +492,22 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:27:02Z",
-    "cycle": 3
+    "lastStock": 3,
+    "lastUpdate": "2026-02-24T02:27:32Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:27:02Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-24T02:27:32Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:27:02Z",
-    "cycle": 3
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-24T02:28:00Z",
+    "cycle": 4
   }
 ]
