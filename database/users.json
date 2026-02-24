@@ -183,17 +183,17 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:18:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T05:18:52Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T05:18:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-24T05:18:52Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -232,17 +232,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:18:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T05:18:52Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:18:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T05:18:52Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
