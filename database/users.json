@@ -157,8 +157,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:07:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:09:56Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -183,10 +183,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 22,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T02:04:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T02:09:56Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -199,8 +199,8 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-23T23:07:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T02:09:56Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -493,21 +493,21 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 3,
-    "lastUpdate": "2026-02-24T02:04:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T02:09:56Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-24T02:04:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-24T02:10:28Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-24T02:04:26Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-24T02:10:31Z",
+    "cycle": 3
   }
 ]
