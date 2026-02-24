@@ -190,10 +190,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 18,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T05:24:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T06:18:22Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 25,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T06:04:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T06:18:22Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -492,22 +492,22 @@
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T05:43:14Z",
-    "cycle": 0
+    "lastStock": 3,
+    "lastUpdate": "2026-02-24T06:18:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-24T05:46:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T06:18:22Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-24T05:52:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T06:18:47Z",
+    "cycle": 1
   }
 ]
