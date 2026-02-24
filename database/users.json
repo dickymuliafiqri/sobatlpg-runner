@@ -80,8 +80,8 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T14:06:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T17:06:52Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -101,8 +101,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T14:06:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-24T17:06:52Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T17:06:20Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-24T17:06:52Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-24T17:06:20Z",
-    "cycle": 2
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-24T17:06:52Z",
+    "cycle": 3
   }
 ]
