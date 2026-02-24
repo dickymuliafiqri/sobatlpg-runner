@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-24T18:56:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-24T18:57:17Z",
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -501,13 +501,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T18:55:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-24T18:55:17Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
