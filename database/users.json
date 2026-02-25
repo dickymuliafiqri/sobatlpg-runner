@@ -253,10 +253,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T19:45:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T22:46:00Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -498,16 +498,16 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-25T22:45:02Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T22:46:00Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-25T22:45:02Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T22:46:00Z",
+    "cycle": 2
   }
 ]
