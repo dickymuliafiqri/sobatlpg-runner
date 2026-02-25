@@ -155,10 +155,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T19:23:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T22:23:42Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -498,16 +498,16 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-25T22:23:00Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T22:23:42Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T22:23:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-25T22:23:42Z",
+    "cycle": 4
   }
 ]
