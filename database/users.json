@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 1,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T07:19:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:47:09Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -134,10 +134,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T07:39:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:47:09Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -379,10 +379,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 70,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T08:15:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:47:09Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -400,17 +400,17 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 12,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T08:42:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:47:09Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T08:10:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:51:01Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -470,17 +470,17 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T08:27:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:51:53Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T08:27:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:51:56Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
@@ -500,14 +500,14 @@
     "name": "TOKO IRAWAN",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-02-25T01:44:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:52:09Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-24T23:21:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T08:52:35Z",
+    "cycle": 1
   }
 ]
