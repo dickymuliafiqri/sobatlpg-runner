@@ -150,8 +150,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T19:24:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-25T19:25:05Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -164,8 +164,8 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T19:24:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-25T19:25:05Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
@@ -507,7 +507,7 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T19:24:18Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-25T19:25:05Z",
+    "cycle": 5
   }
 ]
