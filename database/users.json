@@ -402,8 +402,8 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T09:02:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T12:02:54Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-25T12:02:23Z",
-    "cycle": 2
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-25T12:02:54Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-25T12:02:23Z",
-    "cycle": 2
+    "stock": 29,
+    "lastStock": 30,
+    "lastUpdate": "2026-02-25T12:02:54Z",
+    "cycle": 3
   }
 ]
