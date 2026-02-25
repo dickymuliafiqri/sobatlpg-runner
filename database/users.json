@@ -218,10 +218,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T13:40:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T16:41:21Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-25T16:40:37Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T16:41:21Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-25T16:40:37Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T16:41:21Z",
+    "cycle": 2
   }
 ]
