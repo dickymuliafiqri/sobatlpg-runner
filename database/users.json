@@ -297,7 +297,7 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T17:00:29Z",
+    "lastUpdate": "2026-02-25T20:00:55Z",
     "cycle": 0
   },
   {
@@ -312,13 +312,13 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T19:57:28Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T17:00:29Z",
+    "lastUpdate": "2026-02-25T20:00:55Z",
     "cycle": 0
   },
   {
@@ -354,27 +354,27 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T19:58:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T19:59:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-25T20:00:55Z",
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T19:58:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T16:59:42Z",
+    "lastUpdate": "2026-02-25T20:00:55Z",
     "cycle": 0
   },
   {
@@ -501,13 +501,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T19:58:13Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T19:59:09Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
