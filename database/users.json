@@ -410,7 +410,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T21:32:15Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -431,14 +431,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T21:32:15Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T21:32:15Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -501,13 +501,13 @@
     "stock": 29,
     "lastStock": 30,
     "lastUpdate": "2026-02-25T21:32:15Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-25T21:32:40Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T21:33:55Z",
+    "cycle": 0
   }
 ]
