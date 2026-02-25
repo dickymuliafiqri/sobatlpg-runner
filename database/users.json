@@ -137,7 +137,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T18:19:24Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -498,16 +498,16 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-25T18:20:10Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T18:21:15Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-25T18:20:10Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T18:21:15Z",
+    "cycle": 0
   }
 ]
