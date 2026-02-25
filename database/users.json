@@ -276,15 +276,15 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T10:45:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-25T10:46:55Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T07:45:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T10:46:55Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-25T10:45:12Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T10:46:55Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-25T10:45:12Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T10:46:55Z",
+    "cycle": 2
   }
 ]
