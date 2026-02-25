@@ -290,8 +290,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T14:15:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T17:15:38Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -486,28 +486,28 @@
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T14:15:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T17:15:38Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "lastStock": 3,
-    "lastUpdate": "2026-02-25T14:15:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T17:15:38Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-25T17:11:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T17:15:38Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T17:13:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-25T17:16:03Z",
+    "cycle": 1
   }
 ]
