@@ -388,8 +388,8 @@
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T14:05:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-25T14:06:03Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -498,16 +498,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-25T14:05:20Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T14:06:03Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-25T14:05:20Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-25T14:06:03Z",
+    "cycle": 3
   }
 ]
