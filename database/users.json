@@ -120,10 +120,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T22:28:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-25T22:29:17Z",
+    "cycle": 0
   },
   {
     "name": "P. SUK",
@@ -151,7 +151,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T22:26:00Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -165,7 +165,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T22:26:00Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
@@ -501,13 +501,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T22:28:33Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-25T22:28:33Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
