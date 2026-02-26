@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 49,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T00:20:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-26T00:26:59Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
@@ -421,9 +421,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 163,
+    "stock": 157,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T00:20:47Z",
+    "lastUpdate": "2026-02-26T00:26:59Z",
     "cycle": 1
   },
   {
@@ -484,9 +484,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 243,
+    "stock": 237,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T00:21:25Z",
+    "lastUpdate": "2026-02-26T00:26:59Z",
     "cycle": 1
   },
   {
