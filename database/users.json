@@ -85,24 +85,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 15,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T14:14:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-26T14:24:51Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 52,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T14:14:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-26T14:24:51Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 35,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T14:14:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-26T14:24:51Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -162,24 +162,24 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T14:15:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-26T14:24:51Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T10:38:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T14:25:24Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T10:49:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T14:25:54Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
