@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 32,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T18:13:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-26T18:23:16Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -31,15 +31,15 @@
     "name": "BINA MAKMUR",
     "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T18:13:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-26T18:23:16Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T18:13:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-26T18:23:16Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -57,24 +57,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 69,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T18:13:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-26T18:23:16Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 48,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T18:16:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-26T18:26:45Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 54,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T18:17:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-26T18:27:39Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -332,8 +332,8 @@
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T15:27:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T18:27:58Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -346,15 +346,15 @@
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T15:27:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T18:28:00Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T15:27:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T18:28:24Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
