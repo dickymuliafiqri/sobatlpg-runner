@@ -316,10 +316,10 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T14:53:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T17:54:25Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-26T17:53:37Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-26T17:54:25Z",
+    "cycle": 5
   }
 ]
