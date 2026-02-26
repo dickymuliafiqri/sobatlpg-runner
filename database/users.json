@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 154,
+    "stock": 147,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T06:52:51Z",
+    "lastUpdate": "2026-02-26T06:58:42Z",
     "cycle": 1
   },
   {
@@ -57,9 +57,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 171,
+    "stock": 170,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T06:52:51Z",
+    "lastUpdate": "2026-02-26T06:58:42Z",
     "cycle": 1
   },
   {
@@ -302,10 +302,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T06:52:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-26T06:58:42Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
@@ -330,24 +330,24 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T06:53:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-26T06:58:42Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T23:04:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T06:59:14Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T23:07:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-26T06:59:44Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
