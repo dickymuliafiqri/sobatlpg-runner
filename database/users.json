@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 136,
+    "stock": 134,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T07:16:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-26T07:21:51Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -57,9 +57,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 156,
+    "stock": 150,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T07:16:10Z",
+    "lastUpdate": "2026-02-26T07:21:51Z",
     "cycle": 1
   },
   {
@@ -358,10 +358,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T07:16:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-26T07:21:51Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 193,
+    "stock": 192,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T07:16:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-26T07:21:51Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -437,15 +437,15 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-26T00:33:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-26T07:25:38Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T23:48:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-26T07:26:04Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -458,22 +458,22 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T23:41:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-26T07:26:09Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T23:41:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-26T07:26:32Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-25T23:56:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-26T07:26:35Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
