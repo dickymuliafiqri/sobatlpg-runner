@@ -18,6 +18,7 @@ sudo rm -rf $WORKING_DIR/sobatlpg
 sudo rm -rf sobatlpg
 git clone https://github.com/dickymuliafiqri/sobatlpg
 cd sobatlpg
+sudo cp ./.env $WORKING_DIR/
 go build -o $WORKING_DIR/sobatlpg ./cmd/sobatlpg/main.go
 
 sudo systemctl daemon-reload
