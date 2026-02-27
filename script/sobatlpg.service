@@ -10,11 +10,7 @@ ExecReload=/bin/kill -HUP $MAINPID
 Restart=always
 RestartSec=10s
 LimitNOFILE=infinity
-Environment="SHEET=ID="
-Environment="DATABASE_EMAIL="
-Environment="DATABASE_KEY="
-Environment="ADMIN_ID="
-Environment="BOT_TOKEN="
+EnvironmentFile=/usr/local/etc/sobatlpg/.env
 
 [Install]
 WantedBy=multi-user.target
