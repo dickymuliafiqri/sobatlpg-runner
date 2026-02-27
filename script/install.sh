@@ -15,9 +15,10 @@ sudo cp $PROJECT_DIR/script/sobatlpg.service $SERVICE_DIR/
 sudo rm -rf $WORKING_DIR
 sudo mkdir -p $WORKING_DIR
 
+sudo rm -rf sobatlpg
 git clone https://github.com/dickymuliafiqri/sobatlpg
 cd sobatlpg
-go build -o $WORKING_DIR/sobatlpg ./sobatlpg/cmd/sobatlpg/main.go
+go build -o $WORKING_DIR/sobatlpg ./cmd/sobatlpg/main.go
 
 sudo systemctl daemon-reload
 sudo systemctl enable sobatlpg
