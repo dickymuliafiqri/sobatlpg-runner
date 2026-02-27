@@ -12,8 +12,8 @@ sudo apt-get install -y golang-go libatk1.0-0 libatk-bridge2.0-0 libgtk-3.0 liba
 sudo rm -rf $SERVICE_DIR/sobatlpg.service
 sudo cp $PROJECT_DIR/script/sobatlpg.service $SERVICE_DIR/
 
-sudo rm -rf $WORKING_DIR
 sudo mkdir -p $WORKING_DIR
+sudo rm -rf $WORKING_DIR/sobatlpg
 
 sudo rm -rf sobatlpg
 git clone https://github.com/dickymuliafiqri/sobatlpg
