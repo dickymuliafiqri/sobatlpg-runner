@@ -14,8 +14,8 @@ sudo cp $PROJECT_DIR/script/sobatlpg.service $SERVICE_DIR/
 sudo rm -rf $WORKING_DIR
 sudo mkdir -R $WORKING_DIR
 
-wget https://github.com/dickymuliafiqri/sobatlpg-runner/releases/download/main/sobatlpg -O $WORKING_DIR/sobatlpg
-sudo chmod +x $WORKING_DIR/sobatlpg
+git clone https://github.com/dickymuliafiqri/sobatlpg
+go build -o $WORKING_DIR/sobatlpg ./sobatlpg/cmd/sobatlpg/main.go
 
 sudo systemctl daemon-reload
 sudo systemctl enable sobatlpg
